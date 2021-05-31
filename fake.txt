@@ -22,7 +22,7 @@
 # 2. Source: 127 - https://raw.githubusercontent.com/namePlayer/dhl-scamlist/main/dns-blocklists/pihole-blacklist
 #
 # ---------------------------------------------
-# 14238 Domains - V2021.05.31-12:33:52
+# 14238 Domains - V2021.05.31-14:41:42
 # ---------------------------------------------
 #
 # Loopback

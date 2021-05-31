@@ -42,7 +42,7 @@
 # 18. Source: 34 - https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt
 # 19. Source: 2701 - https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
 # 20. Source: 50358 - https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/easylist.txt
-# 21. Source: 67128 - https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/adguarddns.txt
+# 21. Source: 67234 - https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/adguarddns.txt
 # 22. Source: 12304 - https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/combined_disguised_trackers_justdomains.txt
 # 23. Source: 72385 - https://dbl.oisd.nl/basic/
 # 24. Source: 35661 - https://phishing.army/download/phishing_army_blocklist_extended.txt
@@ -65,18 +65,18 @@
 # 41. Source: 689 - https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/hosts.txt
 # 42. Source: 82942 - https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
 # 43. Source: 250904 - https://raw.githubusercontent.com/notracking/hosts-blocklists/master/hostnames.txt
-# 44. Source: 1246 - https://urlhaus.abuse.ch/downloads/hostfile/
+# 44. Source: 1244 - https://urlhaus.abuse.ch/downloads/hostfile/
 # 45. Source: 311 - https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareHosts.txt
 # 46. Source: 1214 - https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # 47. Source: 1386 - https://raw.githubusercontent.com/mitchellkrogza/Badd-Boyz-Hosts/master/hosts
 # 48. Source: 433 - https://raw.githubusercontent.com/Laicure/hosts/master/shithosts
-# #. Source: 972613
+# #. Source: 972717
 
 Statistik multi.txt:
-== Source:      483795
-++ Black:       484004 (+209)
--- White:       396027 (-87977)
--- Hosts:       395948 (-79)
--- Unblock:     395876 (-72)
-++ WWW-Domains: 467407 (+71531)
-++ FLD-Domains: 468245 (+838)
+== Source:      483801
+++ Black:       484010 (+209)
+-- White:       396033 (-87977)
+-- Hosts:       395954 (-79)
+-- Unblock:     395882 (-72)
+++ WWW-Domains: 467414 (+71532)
+++ FLD-Domains: 468252 (+838)
