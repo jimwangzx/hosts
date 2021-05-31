@@ -65,18 +65,18 @@
 # 41. Source: 689 - https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/hosts.txt
 # 42. Source: 82942 - https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
 # 43. Source: 250904 - https://raw.githubusercontent.com/notracking/hosts-blocklists/master/hostnames.txt
-# 44. Source: 1244 - https://urlhaus.abuse.ch/downloads/hostfile/
+# 44. Source: 1241 - https://urlhaus.abuse.ch/downloads/hostfile/
 # 45. Source: 311 - https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareHosts.txt
 # 46. Source: 1214 - https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # 47. Source: 1386 - https://raw.githubusercontent.com/mitchellkrogza/Badd-Boyz-Hosts/master/hosts
 # 48. Source: 433 - https://raw.githubusercontent.com/Laicure/hosts/master/shithosts
-# #. Source: 972717
+# #. Source: 972714
 
 Statistik multi.txt:
-== Source:      483801
-++ Black:       484010 (+209)
--- White:       396033 (-87977)
--- Hosts:       395954 (-79)
--- Unblock:     395882 (-72)
-++ WWW-Domains: 467414 (+71532)
-++ FLD-Domains: 468252 (+838)
+== Source:      483799
+++ Black:       484008 (+209)
+-- White:       396031 (-87977)
+-- Hosts:       395952 (-79)
+-- Unblock:     395880 (-72)
+++ WWW-Domains: 467411 (+71531)
+++ FLD-Domains: 468249 (+838)
