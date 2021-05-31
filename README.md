@@ -12,6 +12,12 @@
 
 ---
 
+### ***DNS-Sperrlisten*** (Blacklists) - Sonstige
+
+[**CryptoScamDB**](https://raw.githubusercontent.com/Zelo72/hosts/main/cryptoscamdb.txt) - CryptoScamDB von https://cryptoscamdb.org/ umgewandelt + Erweiterung um mögliche WWW-Domains. Bereinigt von toten und falsch positiven Domains. **Trotz der Bereinigung kann die Liste falsch positve Domains enthalten!** - Quelle: [CryptoScamDB](https://api.cryptoscamdb.org/v1/blacklist) - [Stats](https://github.com/Zelo72/hosts/blob/main/cryptoscamdb.stats)
+
+---
+
 ### ***DNS-Freigabeliste*** (Whitelist)
 
 [**White**](https://raw.githubusercontent.com/Zelo72/hosts/main/white.list) - Zelo's Whitelist: ***Domains die man nicht blocken sollte***. Die in der Whitelist aufgeführten Domains wurden gegen die Multi- und Fake-Blockiste geprüft und sind in diesen Blocklisten nicht mehr enthalten.
