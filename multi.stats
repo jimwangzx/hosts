@@ -51,7 +51,7 @@
 # 27. Source: 23 - https://osint.digitalside.it/Threat-Intel/lists/latestdomains.txt
 # 28. Source: 336 - https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-malware.txt
 # 29. Source: 39092 - https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-main.txt
-# 30. Source: 358 - https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-personal.txt
+# 30. Source: 364 - https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-personal.txt
 # 31. Source: 8780 - https://adaway.org/hosts.txt
 # 32. Source: 3630 - https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
 # 33. Source: 184 - https://raw.githubusercontent.com/d3ward/toolz/master/src/d3host.txt
@@ -65,7 +65,7 @@
 # 41. Source: 689 - https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/hosts.txt
 # 42. Source: 82942 - https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
 # 43. Source: 250904 - https://raw.githubusercontent.com/notracking/hosts-blocklists/master/hostnames.txt
-# 44. Source: 1253 - https://urlhaus.abuse.ch/downloads/hostfile/
+# 44. Source: 1247 - https://urlhaus.abuse.ch/downloads/hostfile/
 # 45. Source: 311 - https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareHosts.txt
 # 46. Source: 1214 - https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # 47. Source: 1386 - https://raw.githubusercontent.com/mitchellkrogza/Badd-Boyz-Hosts/master/hosts
@@ -73,10 +73,10 @@
 # #. Source: 972386
 
 Statistik multi.txt:
-== Source:      483524
-++ Black:       483733 (+209)
--- White:       395751 (-87982)
--- Hosts:       395672 (-79)
--- Unblock:     395600 (-72)
-++ WWW-Domains: 467104 (+71504)
-++ FLD-Domains: 467940 (+836)
+== Source:      483526
+++ Black:       483735 (+209)
+-- White:       395753 (-87982)
+-- Hosts:       395674 (-79)
+-- Unblock:     395602 (-72)
+++ WWW-Domains: 467110 (+71508)
+++ FLD-Domains: 467945 (+835)

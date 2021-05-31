@@ -16,13 +16,13 @@
 # Statistik
 # ---------
 #
-# White-/Deadlist: 300376
+# White-/Deadlist: 291973
 # Blacklist: 6952
 # 1. Source: 4138 - https://raw.githubusercontent.com/stonecrusher/filterlists-pihole/master/watchlist-internet-ph.txt
 # 2. Source: 127 - https://raw.githubusercontent.com/namePlayer/dhl-scamlist/main/dns-blocklists/pihole-blacklist
 #
 # ---------------------------------------------
-# 14238 Domains - V2021.05.30-03:32:35
+# 14238 Domains - V2021.05.31-12:33:52
 # ---------------------------------------------
 #
 # Loopback
