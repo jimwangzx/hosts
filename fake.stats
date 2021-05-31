@@ -1,0 +1,31 @@
+# ---------------------------------------------
+# Zelo*s "anti Abzock" Blockliste
+# ---------------------------------------------
+#
+# Erstellt zur rein persönlichen, privaten
+# Nutzung.
+#
+# Fake-Shops, -Streaming, Abzocke und Co.
+# 
+# ---------------------------------------------
+# GitHub: https://github.com/Zelo72
+# Mail:   zelo72@dismail.de
+# ---------------------------------------------
+
+# Hosts: 
+
+# White-/Deadlist: 300376
+
+# Blacklist: 6952
+
+# 1. Source: 4138 - https://raw.githubusercontent.com/stonecrusher/filterlists-pihole/master/watchlist-internet-ph.txt
+# 2. Source: 127 - https://raw.githubusercontent.com/namePlayer/dhl-scamlist/main/dns-blocklists/pihole-blacklist
+# #. Source: 4265
+
+Statistik fake.txt:
+== Source:      4265
+++ Black:       7248 (+2983)
+-- White:       7241 (-7)
+-- Unblock:     7241 (-0)
+++ WWW-Domains: 14226 (+6985)
+++ FLD-Domains: 14238 (+12)
