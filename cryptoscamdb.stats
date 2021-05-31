@@ -1,0 +1,34 @@
+# ---------------------------------------------
+# "CryptoScamDB" Blockliste
+# ---------------------------------------------
+#
+# Erstellt zur rein persönlichen, privaten
+# Nutzung.
+#
+# CryptoSscamDB - https://cryptoscamdb.org/
+#
+# Blacklist:
+# **********
+# https://api.cryptoscamdb.org/v1/blacklist
+#
+# Whitelist:
+# **********
+# https://api.cryptoscamdb.org/v1/whitelist
+#
+# - Tote Doamins entfernt.
+# - Falsch positive Domains entfernt.
+# + Erweitert um mögliche WWW/FLD-Domains.
+#
+# ---------------------------------------------
+# GitHub: https://github.com/Zelo72
+# Mail:   zelo72@dismail.de
+# ---------------------------------------------
+
+Downloade cryptoscamdb              --> 9221 cryptoscamdb.raw
+Extrahiere gültige Domains          --> 9183 cryptoscamdb.domains
+Bereinige cryptoscamdb              --> 8915 cryptoscamdb.domains
+Erstelle Domainliste für WWW Zusatz --> 7708 cryptoscamdb.domains.www
+Erweitere Domains durch WWW         --> 7708 cryptoscamdb.www
+Erstelle Domainliste für FLD        --> 6 cryptoscamdb.www.fld
+Erstelle cryptoscamdb               --> 16629 cryptoscamdb.txt.tmp
+
