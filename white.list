@@ -1,0 +1,142 @@
+# AdBlock-Detection (Bild/Sport1/...)
+script.ioam.de
+tagger.opecloud.com
+tags.tiqcdn.com
+asadcdn.com
+
+# Amazon
+aax.amazon-adsystem.com
+aviary.amazon.de
+fls-eu.amazon.com
+fls-eu.amazon.de
+
+# Apps (Mobile)
+app.link
+mobilesdk-us.kampyle.com
+sdk.split.io
+app-measurement.com		
+sb.scorecardresearch.com
+
+# Cookies (Spiegel/...)
+cdn.cookielaw.org
+cdn.privacy-mgmt.com
+consentcdn.cookiebot.com
+consentcdn.cookiebot.com-v1.edgekey.net
+test.quantcast.mgr.consensu.org
+aggregator.service.usercentrics.eu
+graphql.usercentrics.eu
+
+# Disney+
+js-agent.newrelic.com
+
+# Facebook
+graph.facebook.com
+graph.instagram.com
+
+# Flutet den DNS-Server wenn geblockt
+analyticsnew.overwolf.com
+webhook.logentries.com
+
+# Google
+analytics.google.com
+google-analytics.com
+googletagmanager.com
+googletagservices.com
+ssl-google-analytics.l.google.com
+ssl.google-analytics.com
+www-google-analytics.l.google.com
+www-googletagmanager.l.google.com
+
+# Microsoft
+arc.msn.com
+browser.pipe.aria.microsoft.com
+g.live.com
+mobile.pipe.aria.microsoft.com
+self-events-data.trafficmanager.net
+self.events.data.microsoft.com
+settings-win.data.microsoft.com
+v10.events.data.microsoft.com
+v20.events.data.microsoft.com
+
+# Netflix
+ichnaea.netflix.com
+nrdp.prod.ftl.netflix.com
+push.prod.netflix.com
+
+# Nintendo
+image.ccg.nintendo.net
+image.ccg.nintendo.com
+a1843.g.akamai.net
+
+# NVidia
+events.gfe.nvidia.com
+gfwsl.geforce.com
+
+# n-tv und andere Newsportale
+api.opinary.com
+
+# Merkur.de
+tag.aticdn.net
+
+# Paypal
+t.paypal.com
+
+# Referral Clicks
+aax-eu-retail-direct.amazon-adsystem.com
+ad.doubleclick.net
+adservice.google.com
+adservice.google.de
+clickserve.dartsearch.net
+pixel.everesttech.net
+promo.mobile.de
+mydealz.digidip.net
+
+# Shopping
+widgets.trustedshops.com
+
+# Streaming/Videos
+cdn2.cam-content.com
+hw-cdn2.adtng.com
+hw-cdn.trafficjunky.net
+hw-cdn2.trafficjunky.net
+redefine.hit.stat24.com
+s2.static.cfgr3.com
+vz-cdn2.adtng.com
+vz-cdn.trafficjunky.net
+vz-cdn2.trafficjunky.net
+videos-fms.jwpsrv.com
+js-sec.indexww.com
+uim.tifbs.net
+
+# Twitch
+static-cdn.jtvnw.net
+supervisor.ext-twitch.tv
+countess.twitch.tv
+
+# Twitter
+analytics.twitter.com
+syndication.twitter.com
+
+# WhatsApp
+dit.whatsapp.net
+
+# XBox
+image.engage.xbox.com
+click.engage.xbox.com
+
+# Youtube
+s.youtube.com
+
+# Zertifikate
+r3.o.lencr.org
+
+# Zoom
+logfiles.zoom.us
+log.zoom.us
+click.zoom.us 
+
+# Falsch positive Domains
+real-markt.de
+strato.de
+watchlist-internet.at
+willhaben.at
