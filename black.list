@@ -58,6 +58,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 ads.superad.cc
 0.0.0.0 ads.urban-media.com
 0.0.0.0 adtilt.com
+0.0.0.0 ad.tjserv.media
 0.0.0.0 advertiser.cash-ads.com
 0.0.0.0 advertising.amazon.ca
 0.0.0.0 advertising.amazon.de
@@ -273,6 +274,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 tracking.recommend.pro
 0.0.0.0 tracking.refersion.com
 0.0.0.0 tracking.shopstyle.co.uk
+0.0.0.0 track.ksta.de
 0.0.0.0 track.meine-vhs.de
 0.0.0.0 track.rheinpfalz.de
 0.0.0.0 track.uptownaces.eu

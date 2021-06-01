@@ -16,13 +16,13 @@
 # Statistik
 # ---------
 #
-# White-/Deadlist: 291973
-# Blacklist: 6952
+# White-/Deadlist: 294592
+# Blacklist: 6956
 # 1. Source: 4138 - https://raw.githubusercontent.com/stonecrusher/filterlists-pihole/master/watchlist-internet-ph.txt
 # 2. Source: 127 - https://raw.githubusercontent.com/namePlayer/dhl-scamlist/main/dns-blocklists/pihole-blacklist
 #
 # ---------------------------------------------
-# 14238 Domains - V2021.05.31-14:41:42
+# 14246 Domains - V2021.06.01-03:31:56
 # ---------------------------------------------
 #
 # Loopback
@@ -1260,6 +1260,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 corachic.com
 0.0.0.0 cordi-group.com
 0.0.0.0 coresystem.at
+0.0.0.0 cosgos.de
 0.0.0.0 cosmeticotwoo.com
 0.0.0.0 cosmopoint.de
 0.0.0.0 cosmopolitan-re.com
@@ -2295,6 +2296,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 fritzsche-technik.com
 0.0.0.0 frodospor.com
 0.0.0.0 frogplay.de
+0.0.0.0 frohzeit.de
 0.0.0.0 froplay.de
 0.0.0.0 fruchtpresse.at
 0.0.0.0 fruggboots.com
@@ -2532,6 +2534,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 gold-erwerben.com
 0.0.0.0 goldflix.de
 0.0.0.0 gold-handel24.com
+0.0.0.0 goldhandel-beratung-kauf.de
 0.0.0.0 goldhandel-depot.de
 0.0.0.0 goldhandel-imperium.de
 0.0.0.0 goldhandel-markt.de
@@ -2539,6 +2542,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 goldhandel-seit1986.de
 0.0.0.0 goldhandel-team.de
 0.0.0.0 goldhandel-testsieger.de
+0.0.0.0 goldhandel-vorsorge.de
 0.0.0.0 goldhandel-zertifiziert.de
 0.0.0.0 gold-haus24.com
 0.0.0.0 golding-house.com
@@ -8261,6 +8265,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.corachic.com
 0.0.0.0 www.cordi-group.com
 0.0.0.0 www.coresystem.at
+0.0.0.0 www.cosgos.de
 0.0.0.0 www.cosmeticotwoo.com
 0.0.0.0 www.cosmopoint.de
 0.0.0.0 www.cosmopolitan-re.com
@@ -9264,6 +9269,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.fritzsche-technik.com
 0.0.0.0 www.frodospor.com
 0.0.0.0 www.frogplay.de
+0.0.0.0 www.frohzeit.de
 0.0.0.0 www.froplay.de
 0.0.0.0 www.fruchtpresse.at
 0.0.0.0 www.fruggboots.com
@@ -9495,6 +9501,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.gold-erwerben.com
 0.0.0.0 www.goldflix.de
 0.0.0.0 www.gold-handel24.com
+0.0.0.0 www.goldhandel-beratung-kauf.de
 0.0.0.0 www.goldhandel-depot.de
 0.0.0.0 www.goldhandel-imperium.de
 0.0.0.0 www.goldhandel-markt.de
@@ -9502,6 +9509,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.goldhandel-seit1986.de
 0.0.0.0 www.goldhandel-team.de
 0.0.0.0 www.goldhandel-testsieger.de
+0.0.0.0 www.goldhandel-vorsorge.de
 0.0.0.0 www.goldhandel-zertifiziert.de
 0.0.0.0 www.gold-haus24.com
 0.0.0.0 www.golding-house.com

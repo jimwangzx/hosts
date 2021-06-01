@@ -14,9 +14,9 @@
 
 # Hosts: 
 
-# White-/Deadlist: 291973
+# White-/Deadlist: 294592
 
-# Blacklist: 6952
+# Blacklist: 6956
 
 # 1. Source: 4138 - https://raw.githubusercontent.com/stonecrusher/filterlists-pihole/master/watchlist-internet-ph.txt
 # 2. Source: 127 - https://raw.githubusercontent.com/namePlayer/dhl-scamlist/main/dns-blocklists/pihole-blacklist
@@ -24,8 +24,8 @@
 
 Statistik fake.txt:
 == Source:      4265
-++ Black:       7248 (+2983)
--- White:       7241 (-7)
--- Unblock:     7241 (-0)
-++ WWW-Domains: 14226 (+6985)
-++ FLD-Domains: 14238 (+12)
+++ Black:       7252 (+2987)
+-- White:       7245 (-7)
+-- Unblock:     7245 (-0)
+++ WWW-Domains: 14234 (+6989)
+++ FLD-Domains: 14246 (+12)
