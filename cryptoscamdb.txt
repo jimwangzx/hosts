@@ -23,7 +23,7 @@
 # GitHub: https://github.com/Zelo72
 # Mail:   zelo72@dismail.de
 # ---------------------------------------------
-# 16629 Domains - 2021.05.31-23:04:20
+# 16611 Domains - 2021.06.01-12:19:07
 # ---------------------------------------------
 #
 # Loopback
@@ -2605,7 +2605,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 etherwallets.net
 0.0.0.0 etherwallets.nl
 0.0.0.0 etherwallet.world
-0.0.0.0 etherzeroclaim.com
 0.0.0.0 ether-zero.info
 0.0.0.0 etherzero.org
 0.0.0.0 ethescan.info
@@ -3002,7 +3001,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 ethzerdelta.com
 0.0.0.0 ethzero-wallet.com
 0.0.0.0 ethzero-wallet.org
-0.0.0.0 etlherdelta.com
 0.0.0.0 etlherzero.com
 0.0.0.0 etnerparty.io
 0.0.0.0 etnerscan.io
@@ -4433,6 +4431,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 muskdrop.com
 0.0.0.0 muskdrop.life
 0.0.0.0 muskelon547776.webcindario.com
+0.0.0.0 muskelon.ga
 0.0.0.0 musk-event.info
 0.0.0.0 muskevent.info
 0.0.0.0 muskevent.net
@@ -4571,7 +4570,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 myefhervvallet.com
 0.0.0.0 myefherwaliet.com
 0.0.0.0 myefherwallet.com
-0.0.0.0 myeftervvellet.com
 0.0.0.0 myeftherwallet.com
 0.0.0.0 myegethercowwallet.com
 0.0.0.0 myegherwallet.com
@@ -6642,7 +6640,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 myethnerwallet.com
 0.0.0.0 myethorwallet.com
 0.0.0.0 myethpromogive.com
-0.0.0.0 myethrawallet.com
 0.0.0.0 myethrerwallet.com
 0.0.0.0 myethre-wallet.com
 0.0.0.0 myethrewallet.com
@@ -7504,12 +7501,9 @@ ff02::3 ip6-allhosts
 0.0.0.0 singularitynet.info
 0.0.0.0 singularty.net
 0.0.0.0 sirinlabs.co
-0.0.0.0 sirin-labs.com
 0.0.0.0 sirin-labs.org
 0.0.0.0 sirinlabs.website
-0.0.0.0 sirinlbs.com
 0.0.0.0 sirinslabs.com
-0.0.0.0 sirnlabs.com
 0.0.0.0 site-binance.co
 0.0.0.0 site-blockchain.jdevcloud.com
 0.0.0.0 sizemedium.top
@@ -10459,7 +10453,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.etherwallets.net
 0.0.0.0 www.etherwallets.nl
 0.0.0.0 www.etherwallet.world
-0.0.0.0 www.etherzeroclaim.com
 0.0.0.0 www.ether-zero.info
 0.0.0.0 www.etherzero.org
 0.0.0.0 www.ethescan.info
@@ -10796,7 +10789,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.ethzerdelta.com
 0.0.0.0 www.ethzero-wallet.com
 0.0.0.0 www.ethzero-wallet.org
-0.0.0.0 www.etlherdelta.com
 0.0.0.0 www.etlherzero.com
 0.0.0.0 www.etnerparty.io
 0.0.0.0 www.etnerscan.io
@@ -11985,6 +11977,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.muskdrop.cc
 0.0.0.0 www.muskdrop.com
 0.0.0.0 www.muskdrop.life
+0.0.0.0 www.muskelon.ga
 0.0.0.0 www.musk-event.info
 0.0.0.0 www.muskevent.info
 0.0.0.0 www.muskevent.net
@@ -12119,7 +12112,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.myefhervvallet.com
 0.0.0.0 www.myefherwaliet.com
 0.0.0.0 www.myefherwallet.com
-0.0.0.0 www.myeftervvellet.com
 0.0.0.0 www.myeftherwallet.com
 0.0.0.0 www.myegethercowwallet.com
 0.0.0.0 www.myegherwallet.com
@@ -14107,7 +14099,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.myethnerwallet.com
 0.0.0.0 www.myethorwallet.com
 0.0.0.0 www.myethpromogive.com
-0.0.0.0 www.myethrawallet.com
 0.0.0.0 www.myethrerwallet.com
 0.0.0.0 www.myethre-wallet.com
 0.0.0.0 www.myethrewallet.com
@@ -14793,12 +14784,9 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.singularitynet.info
 0.0.0.0 www.singularty.net
 0.0.0.0 www.sirinlabs.co
-0.0.0.0 www.sirin-labs.com
 0.0.0.0 www.sirin-labs.org
 0.0.0.0 www.sirinlabs.website
-0.0.0.0 www.sirinlbs.com
 0.0.0.0 www.sirinslabs.com
-0.0.0.0 www.sirnlabs.com
 0.0.0.0 www.site-binance.co
 0.0.0.0 www.sizemedium.top
 0.0.0.0 www.slolzfr.com
@@ -15686,7 +15674,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.xn--metherwallt-819eo1a.com
 0.0.0.0 www.xn--metherwallt-crb6719g.com
 0.0.0.0 www.xn--metherwllet-ln9eqi.com
-0.0.0.0 www.xn--metherwllt-f2d4888f9va.com
 0.0.0.0 www.xn--methewallet-638e95e.com
 0.0.0.0 www.xn--methrwallet-uib92a.com
 0.0.0.0 www.xn--mtherwallet-z19ex1a.com
@@ -15849,7 +15836,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.xn--myethrwllet-q7a5h.com
 0.0.0.0 www.xn--myethrwllt-y4a7gf.com
 0.0.0.0 www.xn--mytherallet-3qb2119g.com
-0.0.0.0 www.xn--mytherwaet-y7a46ha.com
 0.0.0.0 www.xn--mytherwalet-3qb08c.com
 0.0.0.0 www.xn--mytherwalet-3qb10c.com
 0.0.0.0 www.xn--mytherwalet-3qb97c.com
@@ -15881,7 +15867,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.xn--mythrwalet-smb0a05c.com
 0.0.0.0 www.xn--mythrwalet-smb0a15c.com
 0.0.0.0 www.xn--mythrwalet-umbv35c.com
-0.0.0.0 www.xn--mythrwallet-019ec.com
 0.0.0.0 www.xn--mythrwallet-0bbc.com
 0.0.0.0 www.xn--mythrwallet-3qbc.com
 0.0.0.0 www.xn--mythrwallet-5qbx.com
@@ -16251,7 +16236,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 xn--metherwallt-819eo1a.com
 0.0.0.0 xn--metherwallt-crb6719g.com
 0.0.0.0 xn--metherwllet-ln9eqi.com
-0.0.0.0 xn--metherwllt-f2d4888f9va.com
 0.0.0.0 xn--methewallet-638e95e.com
 0.0.0.0 xn--methrwallet-uib92a.com
 0.0.0.0 xn--mtherwallet-z19ex1a.com
@@ -16414,7 +16398,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 xn--myethrwllet-q7a5h.com
 0.0.0.0 xn--myethrwllt-y4a7gf.com
 0.0.0.0 xn--mytherallet-3qb2119g.com
-0.0.0.0 xn--mytherwaet-y7a46ha.com
 0.0.0.0 xn--mytherwalet-3qb08c.com
 0.0.0.0 xn--mytherwalet-3qb10c.com
 0.0.0.0 xn--mytherwalet-3qb97c.com
@@ -16446,7 +16429,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 xn--mythrwalet-smb0a05c.com
 0.0.0.0 xn--mythrwalet-smb0a15c.com
 0.0.0.0 xn--mythrwalet-umbv35c.com
-0.0.0.0 xn--mythrwallet-019ec.com
 0.0.0.0 xn--mythrwallet-0bbc.com
 0.0.0.0 xn--mythrwallet-3qbc.com
 0.0.0.0 xn--mythrwallet-5qbx.com
