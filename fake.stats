@@ -11,12 +11,16 @@
 # GitHub: https://github.com/Zelo72
 # Mail:   zelo72@dismail.de
 # ---------------------------------------------
+# Telegram-Gruppe PiHole + Unbound Fans (DACH)
+#                 https://t.me/piholefans_DACH
+# ---------------------------------------------
+
 
 # Hosts: 
 
-# White-/Deadlist: 294592
+# White-/Deadlist: 297841
 
-# Blacklist: 6956
+# Blacklist: 6962
 
 # 1. Source: 4138 - https://raw.githubusercontent.com/stonecrusher/filterlists-pihole/master/watchlist-internet-ph.txt
 # 2. Source: 127 - https://raw.githubusercontent.com/namePlayer/dhl-scamlist/main/dns-blocklists/pihole-blacklist
@@ -24,8 +28,8 @@
 
 Statistik fake.txt:
 == Source:      4265
-++ Black:       7252 (+2987)
--- White:       7245 (-7)
--- Unblock:     7245 (-0)
-++ WWW-Domains: 14234 (+6989)
-++ FLD-Domains: 14246 (+12)
+++ Black:       7257 (+2992)
+-- White:       7250 (-7)
+-- Unblock:     7250 (-0)
+++ WWW-Domains: 14244 (+6994)
+++ FLD-Domains: 14256 (+12)

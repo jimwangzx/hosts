@@ -11,18 +11,21 @@
 # GitHub: https://github.com/Zelo72
 # Mail:   zelo72@dismail.de
 # ---------------------------------------------
+# Telegram-Gruppe PiHole + Unbound Fans (DACH)
+#                 https://t.me/piholefans_DACH
+# ---------------------------------------------
 #
 # ---------
 # Statistik
 # ---------
 #
-# White-/Deadlist: 294592
-# Blacklist: 6956
+# White-/Deadlist: 297841
+# Blacklist: 6962
 # 1. Source: 4138 - https://raw.githubusercontent.com/stonecrusher/filterlists-pihole/master/watchlist-internet-ph.txt
 # 2. Source: 127 - https://raw.githubusercontent.com/namePlayer/dhl-scamlist/main/dns-blocklists/pihole-blacklist
 #
 # ---------------------------------------------
-# 14246 Domains - V2021.06.01-03:31:56
+# 14256 Domains - V2021.06.02-11:30:18
 # ---------------------------------------------
 #
 # Loopback
@@ -1894,6 +1897,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 enjoy-relax.at
 0.0.0.0 en-pangu.com
 0.0.0.0 ensportlook.ch
+0.0.0.0 enter-croatia.com
 0.0.0.0 entruempelung-gruber.info
 0.0.0.0 envyreal.com
 0.0.0.0 eomsebin.com
@@ -2692,6 +2696,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 handel-aller-art.at
 0.0.0.0 handelshaus-beer.de
 0.0.0.0 handelshaus-deitel.de
+0.0.0.0 handelshaus-dietz.de
 0.0.0.0 handelshaus-jakob.de
 0.0.0.0 handelshaus-kruse.de
 0.0.0.0 handelshaus-mayer.de
@@ -3459,6 +3464,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 kompens.de
 0.0.0.0 kompresory.at
 0.0.0.0 konim.ch
+0.0.0.0 konrad-versand.de
 0.0.0.0 konrad-zuse.at
 0.0.0.0 konsale-konsolen.com
 0.0.0.0 konsolenfreax-stuttgart.de
@@ -4793,6 +4799,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 patienten-infotv.at
 0.0.0.0 patrickvetter.de
 0.0.0.0 paulick-haustechnik.de
+0.0.0.0 pawnature.de
 0.0.0.0 pawppithouse.com
 0.0.0.0 paxum-market.com
 0.0.0.0 payeers.gq
@@ -5665,6 +5672,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 shoppome.info
 0.0.0.0 shoppro.ch
 0.0.0.0 shoprosada.com
+0.0.0.0 shops-disney-uk.com
 0.0.0.0 shoptoout.com
 0.0.0.0 shop-uggboots.de
 0.0.0.0 shopymarkt.com
@@ -8878,6 +8886,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.enjoy-relax.at
 0.0.0.0 www.en-pangu.com
 0.0.0.0 www.ensportlook.ch
+0.0.0.0 www.enter-croatia.com
 0.0.0.0 www.entruempelung-gruber.info
 0.0.0.0 www.envyreal.com
 0.0.0.0 www.eomsebin.com
@@ -9657,6 +9666,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.handel-aller-art.at
 0.0.0.0 www.handelshaus-beer.de
 0.0.0.0 www.handelshaus-deitel.de
+0.0.0.0 www.handelshaus-dietz.de
 0.0.0.0 www.handelshaus-jakob.de
 0.0.0.0 www.handelshaus-kruse.de
 0.0.0.0 www.handelshaus-mayer.de
@@ -10412,6 +10422,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.kompens.de
 0.0.0.0 www.kompresory.at
 0.0.0.0 www.konim.ch
+0.0.0.0 www.konrad-versand.de
 0.0.0.0 www.konrad-zuse.at
 0.0.0.0 www.konsale-konsolen.com
 0.0.0.0 www.konsolenfreax-stuttgart.de
@@ -11700,6 +11711,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.patienten-infotv.at
 0.0.0.0 www.patrickvetter.de
 0.0.0.0 www.paulick-haustechnik.de
+0.0.0.0 www.pawnature.de
 0.0.0.0 www.pawppithouse.com
 0.0.0.0 www.paxum-market.com
 0.0.0.0 www.payeers.gq
@@ -12546,6 +12558,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.shoppome.info
 0.0.0.0 www.shoppro.ch
 0.0.0.0 www.shoprosada.com
+0.0.0.0 www.shops-disney-uk.com
 0.0.0.0 www.shoptoout.com
 0.0.0.0 www.shop-uggboots.de
 0.0.0.0 www.shopymarkt.com
