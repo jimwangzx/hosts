@@ -16,8 +16,8 @@
 #                 https://t.me/piholefans_DACH
 # ---------------------------------------------
 
-# Hosts fake.txt: 14246
-# Hosts: 14246
+# Hosts fake.txt: 14256
+# Hosts: 14256
 
 # White-/Deadlist: 297841
 
@@ -69,18 +69,18 @@
 # 42. Source: 689 - https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/hosts.txt
 # 43. Source: 82717 - https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
 # 44. Source: 250520 - https://raw.githubusercontent.com/notracking/hosts-blocklists/master/hostnames.txt
-# 45. Source: 1239 - https://urlhaus.abuse.ch/downloads/hostfile/
+# 45. Source: 1241 - https://urlhaus.abuse.ch/downloads/hostfile/
 # 46. Source: 311 - https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareHosts.txt
 # 47. Source: 1216 - https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # 48. Source: 1386 - https://raw.githubusercontent.com/mitchellkrogza/Badd-Boyz-Hosts/master/hosts
 # 49. Source: 433 - https://raw.githubusercontent.com/Laicure/hosts/master/shithosts
-# #. Source: 1029686
+# #. Source: 1029688
 
 Statistik multi.txt:
-== Source:      532562
-++ Black:       532771 (+209)
--- White:       443870 (-88901)
--- Hosts:       443791 (-79)
--- Unblock:     443714 (-77)
-++ WWW-Domains: 515084 (+71370)
-++ FLD-Domains: 515957 (+873)
+== Source:      532563
+++ Black:       532772 (+209)
+-- White:       443871 (-88901)
+-- Hosts:       443792 (-79)
+-- Unblock:     443715 (-77)
+++ WWW-Domains: 515086 (+71371)
+++ FLD-Domains: 515960 (+874)
