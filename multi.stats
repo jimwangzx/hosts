@@ -48,7 +48,7 @@
 # 21. Source: 67289 - https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/adguarddns.txt
 # 22. Source: 12304 - https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/combined_disguised_trackers_justdomains.txt
 # 23. Source: 72460 - https://dbl.oisd.nl/basic/
-# 24. Source: 36543 - https://phishing.army/download/phishing_army_blocklist_extended.txt
+# 24. Source: 36579 - https://phishing.army/download/phishing_army_blocklist_extended.txt
 # 25. Source: 8154 - https://raw.githubusercontent.com/Spam404/lists/master/main-blacklist.txt
 # 26. Source: 122584 - https://blocklist.cyberthreatcoalition.org/vetted/domain.txt
 # 27. Source: 37 - https://osint.digitalside.it/Threat-Intel/lists/latestdomains.txt
@@ -74,13 +74,13 @@
 # 47. Source: 1216 - https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # 48. Source: 1386 - https://raw.githubusercontent.com/mitchellkrogza/Badd-Boyz-Hosts/master/hosts
 # 49. Source: 433 - https://raw.githubusercontent.com/Laicure/hosts/master/shithosts
-# #. Source: 1029682
+# #. Source: 1029718
 
 Statistik multi.txt:
-== Source:      532561
-++ Black:       532770 (+209)
--- White:       443869 (-88901)
--- Hosts:       443790 (-79)
--- Unblock:     443713 (-77)
-++ WWW-Domains: 515081 (+71368)
-++ FLD-Domains: 515955 (+874)
+== Source:      532665
+++ Black:       532874 (+209)
+-- White:       443973 (-88901)
+-- Hosts:       443894 (-79)
+-- Unblock:     443692 (-202)
+++ WWW-Domains: 515070 (+71378)
+++ FLD-Domains: 515956 (+886)
