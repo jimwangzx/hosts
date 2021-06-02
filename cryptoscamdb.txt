@@ -23,7 +23,10 @@
 # GitHub: https://github.com/Zelo72
 # Mail:   zelo72@dismail.de
 # ---------------------------------------------
-# 16611 Domains - 2021.06.01-12:19:07
+# Telegram-Gruppe PiHole + Unbound Fans (DACH)
+#                 https://t.me/piholefans_DACH
+# ---------------------------------------------
+# 16625 Domains - 2021.06.02-11:16:45
 # ---------------------------------------------
 #
 # Loopback
@@ -657,6 +660,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 bitboxapp.xyz
 0.0.0.0 bitcashout.wixsite.com
 0.0.0.0 bitcashsv.org
+0.0.0.0 bitclaive.com
 0.0.0.0 bitcoin24-wallet.site
 0.0.0.0 bitcoin4future.club
 0.0.0.0 bitcoin-address-cracker.bit7880.com
@@ -1173,6 +1177,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 bytetrade.io
 0.0.0.0 calchain.io
 0.0.0.0 calchain.net
+0.0.0.0 calibra-ico.info
 0.0.0.0 calibra-ico.net
 0.0.0.0 calibra-token.com
 0.0.0.0 calibra-token.info
@@ -1680,6 +1685,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 dailyinequality.org
 0.0.0.0 dai-stablecoin.com
 0.0.0.0 daostack.onuniverse.com
+0.0.0.0 daostack-token.io
 0.0.0.0 dapp.doubledouble.io
 0.0.0.0 dashcoinminer.space
 0.0.0.0 data-token.com
@@ -1870,6 +1876,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 electrumproject.org
 0.0.0.0 electrumsecuredownload.com
 0.0.0.0 electrumsource.org
+0.0.0.0 electrumupdate.com
 0.0.0.0 electrumupgrade.org
 0.0.0.0 electrumus.com
 0.0.0.0 electrumwallet.io
@@ -3055,6 +3062,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 exodus.vc
 0.0.0.0 exodus-wallet.net
 0.0.0.0 exoduswallet.online
+0.0.0.0 exodus-wallet.org
 0.0.0.0 exoduz.io
 0.0.0.0 exploretransactions.info
 0.0.0.0 expwallet.net
@@ -4360,6 +4368,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 mnaxy.blogspot.com
 0.0.0.0 mnycryptoethwallet.com
 0.0.0.0 mnyctervailliet.com
+0.0.0.0 mnyicthervwvallct.com
 0.0.0.0 mnyidthewallot.com
 0.0.0.0 mobus.network
 0.0.0.0 model3.pw
@@ -4595,6 +4604,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 myelhervvalet.com
 0.0.0.0 myelherwallel.com
 0.0.0.0 myelherwallet.com
+0.0.0.0 myelherwatlet.com
 0.0.0.0 myellthevwaallet.com
 0.0.0.0 myelonx.org
 0.0.0.0 myelterwallet.com
@@ -7502,6 +7512,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 singularty.net
 0.0.0.0 sirinlabs.co
 0.0.0.0 sirin-labs.org
+0.0.0.0 sirinlabs.pro
 0.0.0.0 sirinlabs.website
 0.0.0.0 sirinslabs.com
 0.0.0.0 site-binance.co
@@ -8810,6 +8821,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.bitblender.me
 0.0.0.0 www.bitboxapp.xyz
 0.0.0.0 www.bitcashsv.org
+0.0.0.0 www.bitclaive.com
 0.0.0.0 www.bitcoin24-wallet.site
 0.0.0.0 www.bitcoin4future.club
 0.0.0.0 www.bitcoinaddresstoqrcode.com
@@ -9238,6 +9250,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.bytetrade.io
 0.0.0.0 www.calchain.io
 0.0.0.0 www.calchain.net
+0.0.0.0 www.calibra-ico.info
 0.0.0.0 www.calibra-ico.net
 0.0.0.0 www.calibra-token.com
 0.0.0.0 www.calibra-token.info
@@ -9666,6 +9679,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.daily-free-eth.net
 0.0.0.0 www.dailyinequality.org
 0.0.0.0 www.dai-stablecoin.com
+0.0.0.0 www.daostack-token.io
 0.0.0.0 www.dashcoinminer.space
 0.0.0.0 www.data-token.com
 0.0.0.0 www.data-token.org
@@ -9836,6 +9850,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.electrumproject.org
 0.0.0.0 www.electrumsecuredownload.com
 0.0.0.0 www.electrumsource.org
+0.0.0.0 www.electrumupdate.com
 0.0.0.0 www.electrumupgrade.org
 0.0.0.0 www.electrumus.com
 0.0.0.0 www.electrumwallet.io
@@ -10833,6 +10848,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.exodus.vc
 0.0.0.0 www.exodus-wallet.net
 0.0.0.0 www.exoduswallet.online
+0.0.0.0 www.exodus-wallet.org
 0.0.0.0 www.exoduz.io
 0.0.0.0 www.exploretransactions.info
 0.0.0.0 www.expwallet.net
@@ -11909,6 +11925,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.mmyetlherwallett.com
 0.0.0.0 www.mnycryptoethwallet.com
 0.0.0.0 www.mnyctervailliet.com
+0.0.0.0 www.mnyicthervwvallct.com
 0.0.0.0 www.mnyidthewallot.com
 0.0.0.0 www.mobus.network
 0.0.0.0 www.model3.pw
@@ -12137,6 +12154,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.myelhervvalet.com
 0.0.0.0 www.myelherwallel.com
 0.0.0.0 www.myelherwallet.com
+0.0.0.0 www.myelherwatlet.com
 0.0.0.0 www.myellthevwaallet.com
 0.0.0.0 www.myelonx.org
 0.0.0.0 www.myelterwallet.com
@@ -14785,6 +14803,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.singularty.net
 0.0.0.0 www.sirinlabs.co
 0.0.0.0 www.sirin-labs.org
+0.0.0.0 www.sirinlabs.pro
 0.0.0.0 www.sirinlabs.website
 0.0.0.0 www.sirinslabs.com
 0.0.0.0 www.site-binance.co
@@ -15766,7 +15785,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.xn--myetherwllet-76e.com
 0.0.0.0 www.xn--myetherwllet-9bb.com
 0.0.0.0 www.xn--myetherwllet-fnb.com
-0.0.0.0 www.xn--myetherwllet-jbb.com
 0.0.0.0 www.xn--myetherwllet-ktd.com
 0.0.0.0 www.xn--myetherwllet-ncb.com
 0.0.0.0 www.xn--myetherwllet-ncb.org
@@ -16328,7 +16346,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 xn--myetherwllet-76e.com
 0.0.0.0 xn--myetherwllet-9bb.com
 0.0.0.0 xn--myetherwllet-fnb.com
-0.0.0.0 xn--myetherwllet-jbb.com
 0.0.0.0 xn--myetherwllet-ktd.com
 0.0.0.0 xn--myetherwllet-ncb.com
 0.0.0.0 xn--myetherwllet-ncb.org
