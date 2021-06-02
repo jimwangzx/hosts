@@ -26,24 +26,8 @@
 # Telegram-Gruppe PiHole + Unbound Fans (DACH)
 #                 https://t.me/piholefans_DACH
 # ---------------------------------------------
-# 16625 Domains - 2021.06.02-11:50:09
+# 16624 Domains - 2021.06.02-16:14:29
 # ---------------------------------------------
-#
-# Loopback
-127.0.0.1 localhost
-127.0.0.1 localhost.localdomain
-127.0.0.1 local
-255.255.255.255 broadcasthost
-::1 localhost
-::1 ip6-localhost
-::1 ip6-loopback
-fe80::1%lo0 localhost
-ff00::0 ip6-localnet
-ff00::0 ip6-mcastprefix
-ff02::1 ip6-allnodes
-ff02::2 ip6-allrouters
-ff02::3 ip6-allhosts
-0.0.0.0 0.0.0.0
 #
 0.0.0.0 0101.systems
 0.0.0.0 0978f655-465b-4434-99fb-f8357c7bca4b.htmlpasta.com
@@ -8130,7 +8114,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 us.bittrex.asset2fa-exchange.com
 0.0.0.0 us.bittrex.com.asset2fa-exchange.com
 0.0.0.0 usddex.io
-0.0.0.0 user-images.githubusercontent.com
 0.0.0.0 user.paxfulpolicy.com
 0.0.0.0 utrust.so
 0.0.0.0 v4-antpool.com
@@ -16670,3 +16653,20 @@ ff02::3 ip6-allhosts
 0.0.0.0 zilmerits.com
 0.0.0.0 zollo.io
 0.0.0.0 zrxairdrop.com
+#
+# Lokale Hosts (Loopback)
+#
+127.0.0.1 localhost
+127.0.0.1 localhost.localdomain
+127.0.0.1 local
+255.255.255.255 broadcasthost
+::1 localhost
+::1 ip6-localhost
+::1 ip6-loopback
+fe80::1%lo0 localhost
+ff00::0 ip6-localnet
+ff00::0 ip6-mcastprefix
+ff02::1 ip6-allnodes
+ff02::2 ip6-allrouters
+ff02::3 ip6-allhosts
+0.0.0.0 0.0.0.0

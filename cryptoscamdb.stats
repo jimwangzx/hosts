@@ -29,9 +29,9 @@
 
 Downloade cryptoscamdb              --> 9221 cryptoscamdb.raw
 Extrahiere gültige Domains          --> 9183 cryptoscamdb.domains
-Bereinige cryptoscamdb              --> 8913 cryptoscamdb.domains
+Bereinige cryptoscamdb              --> 8912 cryptoscamdb.domains
 Erstelle Domainliste für WWW Zusatz --> 7706 cryptoscamdb.domains.www
 Erweitere Domains durch WWW         --> 7706 cryptoscamdb.www
 Erstelle Domainliste für FLD        --> 6 cryptoscamdb.www.fld
-Erstelle cryptoscamdb               --> 16625 cryptoscamdb.txt.tmp
+Erstelle cryptoscamdb               --> 16624 cryptoscamdb.txt.tmp
 
