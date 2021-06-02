@@ -1,19 +1,3 @@
-# Loopback
-127.0.0.1 localhost
-127.0.0.1 localhost.localdomain
-127.0.0.1 local
-255.255.255.255 broadcasthost
-::1 localhost
-::1 ip6-localhost
-::1 ip6-loopback
-fe80::1%lo0 localhost
-ff00::0 ip6-localnet
-ff00::0 ip6-mcastprefix
-ff02::1 ip6-allnodes
-ff02::2 ip6-allrouters
-ff02::3 ip6-allhosts
-0.0.0.0 0.0.0.0
-#
 0.0.0.0 2h8l2ew87g.kameleoon.eu
 0.0.0.0 35ax3z5b4g.kameleoon.eu
 0.0.0.0 360yield.com
@@ -311,3 +295,20 @@ ff02::3 ip6-allhosts
 0.0.0.0 ylxxo3zrdx.kameleoon.eu
 0.0.0.0 zemanta.com
 0.0.0.0 zp97jbfxnv.kameleoon.eu
+#
+# Lokale Hosts (Loopback)
+#
+127.0.0.1 localhost
+127.0.0.1 localhost.localdomain
+127.0.0.1 local
+255.255.255.255 broadcasthost
+::1 localhost
+::1 ip6-localhost
+::1 ip6-loopback
+fe80::1%lo0 localhost
+ff00::0 ip6-localnet
+ff00::0 ip6-mcastprefix
+ff02::1 ip6-allnodes
+ff02::2 ip6-allrouters
+ff02::3 ip6-allhosts
+0.0.0.0 0.0.0.0
