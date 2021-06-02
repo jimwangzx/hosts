@@ -33,10 +33,6 @@ js-agent.newrelic.com
 graph.facebook.com
 graph.instagram.com
 
-# Flutet den DNS-Server wenn geblockt
-analyticsnew.overwolf.com
-webhook.logentries.com
-
 # Google
 analytics.google.com
 google-analytics.com
