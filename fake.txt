@@ -19,13 +19,13 @@
 # Statistik
 # ---------
 #
-# White-/Deadlist: 297841
-# Blacklist: 6962
+# White-/Deadlist: 292686
+# Blacklist: 6975
 # 1. Source: 4138 - https://raw.githubusercontent.com/stonecrusher/filterlists-pihole/master/watchlist-internet-ph.txt
 # 2. Source: 127 - https://raw.githubusercontent.com/namePlayer/dhl-scamlist/main/dns-blocklists/pihole-blacklist
 #
 # ---------------------------------------------
-# 14256 Domains - V2021.06.02-11:50:49
+# 14282 Domains - V2021.06.03-07:11:11
 # ---------------------------------------------
 #
 0.0.0.0 100jahrehochbahn.de
@@ -1538,6 +1538,11 @@
 0.0.0.0 dms-medimax.com
 0.0.0.0 dmxinfo.de
 0.0.0.0 dnewssyi.com
+0.0.0.0 dnsaustria.com
+0.0.0.0 dnsdeutschland.com
+0.0.0.0 dnsgermany.net
+0.0.0.0 dnsschweiz.com
+0.0.0.0 dnsswitzerland.com
 0.0.0.0 docmou.com
 0.0.0.0 doctorbrew.de
 0.0.0.0 doctorkasem.com
@@ -1940,6 +1945,7 @@
 0.0.0.0 eurosaar.de
 0.0.0.0 eurtrans.com
 0.0.0.0 eustiefel.com
+0.0.0.0 eutd.org
 0.0.0.0 euthanint.org
 0.0.0.0 eu.uggonlineok.com
 0.0.0.0 evad3rs-devteam.com
@@ -2984,6 +2990,9 @@
 0.0.0.0 ideationtriz.at
 0.0.0.0 idiscountq.com
 0.0.0.0 idlcareo.com
+0.0.0.0 idsaustria.com
+0.0.0.0 idsgermany.com
+0.0.0.0 idsschweiz.org
 0.0.0.0 id-willhaben.at
 0.0.0.0 iefjcoiefhv.myshopify.com
 0.0.0.0 ielmufid.com
@@ -3086,6 +3095,7 @@
 0.0.0.0 intergerma.at
 0.0.0.0 internationaalverhuisadvies.nl
 0.0.0.0 internationalerumzug.de
+0.0.0.0 internetservicegermany.org
 0.0.0.0 internetzwert.de
 0.0.0.0 intomidatlanticstore.shop
 0.0.0.0 intosmile.nl
@@ -6076,6 +6086,7 @@
 0.0.0.0 tablet-restposten.shop
 0.0.0.0 tacoats.online
 0.0.0.0 tacocood.com
+0.0.0.0 taddeutschland.com
 0.0.0.0 tagfashions.com
 0.0.0.0 tago-gewuerzplanet.de
 0.0.0.0 tailorfactory.com
@@ -6359,7 +6370,9 @@
 0.0.0.0 tlkbaonline.eu
 0.0.0.0 tm5-ag.com
 0.0.0.0 tm6-thermomix.net
+0.0.0.0 tmdeutschland.com
 0.0.0.0 tmissyildiz.com
+0.0.0.0 tmosterreich.com
 0.0.0.0 tobiflix.de
 0.0.0.0 todoplay.de
 0.0.0.0 todos-lala.com
@@ -8531,6 +8544,11 @@
 0.0.0.0 www.dms-medimax.com
 0.0.0.0 www.dmxinfo.de
 0.0.0.0 www.dnewssyi.com
+0.0.0.0 www.dnsaustria.com
+0.0.0.0 www.dnsdeutschland.com
+0.0.0.0 www.dnsgermany.net
+0.0.0.0 www.dnsschweiz.com
+0.0.0.0 www.dnsswitzerland.com
 0.0.0.0 www.docmou.com
 0.0.0.0 www.doctorbrew.de
 0.0.0.0 www.doctorkasem.com
@@ -8928,6 +8946,7 @@
 0.0.0.0 www.eurosaar.de
 0.0.0.0 www.eurtrans.com
 0.0.0.0 www.eustiefel.com
+0.0.0.0 www.eutd.org
 0.0.0.0 www.euthanint.org
 0.0.0.0 www.evad3rs-devteam.com
 0.0.0.0 www.evad3rsjb.com
@@ -9950,6 +9969,9 @@
 0.0.0.0 www.ideationtriz.at
 0.0.0.0 www.idiscountq.com
 0.0.0.0 www.idlcareo.com
+0.0.0.0 www.idsaustria.com
+0.0.0.0 www.idsgermany.com
+0.0.0.0 www.idsschweiz.org
 0.0.0.0 www.id-willhaben.at
 0.0.0.0 www.ielmufid.com
 0.0.0.0 www.igiftyi.com
@@ -10049,6 +10071,7 @@
 0.0.0.0 www.intergerma.at
 0.0.0.0 www.internationaalverhuisadvies.nl
 0.0.0.0 www.internationalerumzug.de
+0.0.0.0 www.internetservicegermany.org
 0.0.0.0 www.internetzwert.de
 0.0.0.0 www.intomidatlanticstore.shop
 0.0.0.0 www.intosmile.nl
@@ -12957,6 +12980,7 @@
 0.0.0.0 www.tablet-restposten.shop
 0.0.0.0 www.tacoats.online
 0.0.0.0 www.tacocood.com
+0.0.0.0 www.taddeutschland.com
 0.0.0.0 www.tagfashions.com
 0.0.0.0 www.tago-gewuerzplanet.de
 0.0.0.0 www.tailorfactory.com
@@ -13235,7 +13259,9 @@
 0.0.0.0 www.tlkbaonline.eu
 0.0.0.0 www.tm5-ag.com
 0.0.0.0 www.tm6-thermomix.net
+0.0.0.0 www.tmdeutschland.com
 0.0.0.0 www.tmissyildiz.com
+0.0.0.0 www.tmosterreich.com
 0.0.0.0 www.tobiflix.de
 0.0.0.0 www.todoplay.de
 0.0.0.0 www.todos-lala.com

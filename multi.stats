@@ -16,14 +16,14 @@
 #                 https://t.me/piholefans_DACH
 # ---------------------------------------------
 
-# Hosts fake.txt: 14256
-# Hosts: 14256
+# Hosts fake.txt: 14282
+# Hosts: 14282
 
-# White-/Deadlist: 297768
+# White-/Deadlist: 292686
 
-# Blacklist global: 297
+# Blacklist global: 299
 # Blacklist source: 1
-# Blacklist: 298
+# Blacklist: 300
 
 # 1. Source: 1001 - https://raw.githubusercontent.com/jkrejcha/AdmiraList/master/AdmiraList.txt
 # 2. Source: 662 - https://v.firebog.net/hosts/Admiral.txt
@@ -68,19 +68,20 @@
 # 41. Source: 3548 - https://zerodot1.gitlab.io/CoinBlockerLists/hosts_browser
 # 42. Source: 689 - https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/hosts.txt
 # 43. Source: 82717 - https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
-# 44. Source: 250520 - https://raw.githubusercontent.com/notracking/hosts-blocklists/master/hostnames.txt
-# 45. Source: 1349 - https://urlhaus.abuse.ch/downloads/hostfile/
+# 44. Source: 250616 - https://raw.githubusercontent.com/notracking/hosts-blocklists/master/hostnames.txt
+# 45. Source: 1342 - https://urlhaus.abuse.ch/downloads/hostfile/
 # 46. Source: 311 - https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareHosts.txt
-# 47. Source: 1216 - https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
+# 47. Source: 1211 - https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # 48. Source: 1386 - https://raw.githubusercontent.com/mitchellkrogza/Badd-Boyz-Hosts/master/hosts
 # 49. Source: 433 - https://raw.githubusercontent.com/Laicure/hosts/master/shithosts
-# #. Source: 1029614
+# #. Source: 1029698
 
 Statistik multi.txt:
-== Source:      533165
-++ Black:       533374 (+209)
--- White:       444484 (-88890)
--- Hosts:       444405 (-79)
--- Unblock:     444203 (-202)
-++ WWW-Domains: 515730 (+71527)
-++ FLD-Domains: 516633 (+903)
+== Source:      532790
+++ Black:       533001 (+211)
+-- White:       445222 (-87779)
+-- Hosts:       445143 (-79)
+++ Block:       445145 (+2)
+-- Unblock:     444942 (-203)
+++ WWW-Domains: 517495 (+72553)
+++ FLD-Domains: 518360 (+865)
