@@ -30,7 +30,7 @@
 # 3. Source: 15009 - https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt
 # 4. Source: 103108 - https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/nextdns.txt
 # 5. Source: 6028 - https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/prigentads.txt
-# 6. Source: 132 - https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/privacy.txt
+# 6. Source: 129 - https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/privacy.txt
 # 7. Source: 25 - https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/windows10-office365_telemetrie.txt
 # 8. Source: 9922 - https://raw.githubusercontent.com/cbuijs/shallalist/master/adv/domains
 # 9. Source: 1482 - https://raw.githubusercontent.com/cbuijs/shallalist/master/tracker/domains
@@ -72,16 +72,16 @@
 # 45. Source: 311 - https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareHosts.txt
 # 46. Source: 1211 - https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # 47. Source: 1386 - https://raw.githubusercontent.com/mitchellkrogza/Badd-Boyz-Hosts/master/hosts
-# 48. Source: 1367 - https://urlhaus.abuse.ch/downloads/hostfile/
+# 48. Source: 1363 - https://urlhaus.abuse.ch/downloads/hostfile/
 # 49. Source: 433 - https://raw.githubusercontent.com/Laicure/hosts/master/shithosts
-# #. Source: 1228282
+# #. Source: 1228275
 
 Statistik multi.txt:
-== Source:      537253
-++ Black:       537466 (+213)
--- White:       447839 (-89627)
+== Source:      537252
+++ Black:       537465 (+213)
+-- White:       447839 (-89626)
 -- Hosts:       447758 (-81)
 ++ Block:       447760 (+2)
 -- Unblock:     447681 (-79)
-++ WWW-Domains: 522512 (+74831)
-++ FLD-Domains: 523403 (+891)
+++ WWW-Domains: 522511 (+74830)
+++ FLD-Domains: 523403 (+892)
