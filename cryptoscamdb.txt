@@ -26,7 +26,7 @@
 # Telegram-Gruppe PiHole + Unbound Fans (DACH)
 #                 https://t.me/piholefans_DACH
 # ---------------------------------------------
-# 16624 Domains - 2021.06.02-16:14:29
+# 16638 Domains - 2021.06.03-07:10:25
 # ---------------------------------------------
 #
 0.0.0.0 0101.systems
@@ -644,7 +644,6 @@
 0.0.0.0 bitboxapp.xyz
 0.0.0.0 bitcashout.wixsite.com
 0.0.0.0 bitcashsv.org
-0.0.0.0 bitclaive.com
 0.0.0.0 bitcoin24-wallet.site
 0.0.0.0 bitcoin4future.club
 0.0.0.0 bitcoin-address-cracker.bit7880.com
@@ -1161,7 +1160,6 @@
 0.0.0.0 bytetrade.io
 0.0.0.0 calchain.io
 0.0.0.0 calchain.net
-0.0.0.0 calibra-ico.info
 0.0.0.0 calibra-ico.net
 0.0.0.0 calibra-token.com
 0.0.0.0 calibra-token.info
@@ -1201,6 +1199,7 @@
 0.0.0.0 celer.site
 0.0.0.0 celer.space
 0.0.0.0 celer.today
+0.0.0.0 celer.work
 0.0.0.0 celiswap.com
 0.0.0.0 celsiuss.network
 0.0.0.0 centra.credit
@@ -1528,6 +1527,7 @@
 0.0.0.0 cryptoback.org
 0.0.0.0 cryptoback.top
 0.0.0.0 cryptoblackfriday.blogspot.com
+0.0.0.0 cryptobountymco.com
 0.0.0.0 cryptobridges.com
 0.0.0.0 cryptobridge.su
 0.0.0.0 cryptobtc.club
@@ -1669,7 +1669,6 @@
 0.0.0.0 dailyinequality.org
 0.0.0.0 dai-stablecoin.com
 0.0.0.0 daostack.onuniverse.com
-0.0.0.0 daostack-token.io
 0.0.0.0 dapp.doubledouble.io
 0.0.0.0 dashcoinminer.space
 0.0.0.0 data-token.com
@@ -3046,7 +3045,6 @@
 0.0.0.0 exodus.vc
 0.0.0.0 exodus-wallet.net
 0.0.0.0 exoduswallet.online
-0.0.0.0 exodus-wallet.org
 0.0.0.0 exoduz.io
 0.0.0.0 exploretransactions.info
 0.0.0.0 expwallet.net
@@ -3557,6 +3555,7 @@
 0.0.0.0 happy-coin.org
 0.0.0.0 harvestfinance.app
 0.0.0.0 harvestfinance.co
+0.0.0.0 havven.cc
 0.0.0.0 havven.eu
 0.0.0.0 havven-ico.eu
 0.0.0.0 havven.top
@@ -4575,6 +4574,7 @@
 0.0.0.0 myehretewallet.com
 0.0.0.0 myehterumswallet.com
 0.0.0.0 myehterwailet.com
+0.0.0.0 myehterwaillet.com
 0.0.0.0 myehterwaliet.com
 0.0.0.0 myehterwallct.com
 0.0.0.0 myehterwallet.co
@@ -4584,11 +4584,11 @@
 0.0.0.0 myehtrerwallett.com
 0.0.0.0 myehvterwallet.com
 0.0.0.0 myeithereiuwallet.com
+0.0.0.0 myeleherwaret.com
 0.0.0.0 myelheriwallet.com
 0.0.0.0 myelhervvalet.com
 0.0.0.0 myelherwallel.com
 0.0.0.0 myelherwallet.com
-0.0.0.0 myelherwatlet.com
 0.0.0.0 myellthevwaallet.com
 0.0.0.0 myelonx.org
 0.0.0.0 myelterwallet.com
@@ -6082,6 +6082,7 @@
 0.0.0.0 myetherwallet-singin.com
 0.0.0.0 myetherwalletsingin.com
 0.0.0.0 myetherwallet.singles
+0.0.0.0 myetherwallet-singmgs.top
 0.0.0.0 myetherwallet.site
 0.0.0.0 myetherwallet.sj
 0.0.0.0 myetherwallet.sk
@@ -6289,6 +6290,7 @@
 0.0.0.0 myetherwallet.vodka
 0.0.0.0 myetherwallet.volkswagen
 0.0.0.0 myetherwallet.volvo
+0.0.0.0 myetherwalletv.org
 0.0.0.0 myetherwallet.vote
 0.0.0.0 myetherwallet.voting
 0.0.0.0 myetherwallet.voto
@@ -7104,6 +7106,7 @@
 0.0.0.0 promo-binance.site
 0.0.0.0 promo-btc.us
 0.0.0.0 promobtc.win
+0.0.0.0 promo-coinbase.com
 0.0.0.0 promocoinbase.xyz
 0.0.0.0 promocrypt.com
 0.0.0.0 promoeth.000webhostapp.com
@@ -7313,6 +7316,7 @@
 0.0.0.0 rntherwallet.xyz
 0.0.0.0 rnuathervaltet.com
 0.0.0.0 rnuethervvallet.com
+0.0.0.0 rnyelherwallel.com
 0.0.0.0 rnyertherwallet.com
 0.0.0.0 rnyetherumwallet.com
 0.0.0.0 rnyetherwaliet.com
@@ -7496,7 +7500,6 @@
 0.0.0.0 singularty.net
 0.0.0.0 sirinlabs.co
 0.0.0.0 sirin-labs.org
-0.0.0.0 sirinlabs.pro
 0.0.0.0 sirinlabs.website
 0.0.0.0 sirinslabs.com
 0.0.0.0 site-binance.co
@@ -7846,6 +7849,7 @@
 0.0.0.0 tokensale-adhive.com
 0.0.0.0 tokensale.bluzelle.promo
 0.0.0.0 tokensale-dock.io
+0.0.0.0 tokensale-fusion.com
 0.0.0.0 tokensale-fusion.org
 0.0.0.0 tokensale.gamefllp.com
 0.0.0.0 tokensale.gizer.in
@@ -8804,7 +8808,6 @@
 0.0.0.0 www.bitblender.me
 0.0.0.0 www.bitboxapp.xyz
 0.0.0.0 www.bitcashsv.org
-0.0.0.0 www.bitclaive.com
 0.0.0.0 www.bitcoin24-wallet.site
 0.0.0.0 www.bitcoin4future.club
 0.0.0.0 www.bitcoinaddresstoqrcode.com
@@ -9233,7 +9236,6 @@
 0.0.0.0 www.bytetrade.io
 0.0.0.0 www.calchain.io
 0.0.0.0 www.calchain.net
-0.0.0.0 www.calibra-ico.info
 0.0.0.0 www.calibra-ico.net
 0.0.0.0 www.calibra-token.com
 0.0.0.0 www.calibra-token.info
@@ -9270,6 +9272,7 @@
 0.0.0.0 www.celer.site
 0.0.0.0 www.celer.space
 0.0.0.0 www.celer.today
+0.0.0.0 www.celer.work
 0.0.0.0 www.celiswap.com
 0.0.0.0 www.celsiuss.network
 0.0.0.0 www.centra.credit
@@ -9539,6 +9542,7 @@
 0.0.0.0 www.cryptoback.one
 0.0.0.0 www.cryptoback.org
 0.0.0.0 www.cryptoback.top
+0.0.0.0 www.cryptobountymco.com
 0.0.0.0 www.cryptobridges.com
 0.0.0.0 www.cryptobridge.su
 0.0.0.0 www.cryptobtc.club
@@ -9662,7 +9666,6 @@
 0.0.0.0 www.daily-free-eth.net
 0.0.0.0 www.dailyinequality.org
 0.0.0.0 www.dai-stablecoin.com
-0.0.0.0 www.daostack-token.io
 0.0.0.0 www.dashcoinminer.space
 0.0.0.0 www.data-token.com
 0.0.0.0 www.data-token.org
@@ -10831,7 +10834,6 @@
 0.0.0.0 www.exodus.vc
 0.0.0.0 www.exodus-wallet.net
 0.0.0.0 www.exoduswallet.online
-0.0.0.0 www.exodus-wallet.org
 0.0.0.0 www.exoduz.io
 0.0.0.0 www.exploretransactions.info
 0.0.0.0 www.expwallet.net
@@ -11236,6 +11238,7 @@
 0.0.0.0 www.happy-coin.org
 0.0.0.0 www.harvestfinance.app
 0.0.0.0 www.harvestfinance.co
+0.0.0.0 www.havven.cc
 0.0.0.0 www.havven.eu
 0.0.0.0 www.havven-ico.eu
 0.0.0.0 www.havven.top
@@ -12124,6 +12127,7 @@
 0.0.0.0 www.myehretewallet.com
 0.0.0.0 www.myehterumswallet.com
 0.0.0.0 www.myehterwailet.com
+0.0.0.0 www.myehterwaillet.com
 0.0.0.0 www.myehterwaliet.com
 0.0.0.0 www.myehterwallct.com
 0.0.0.0 www.myehterwallet.co
@@ -12133,11 +12137,11 @@
 0.0.0.0 www.myehtrerwallett.com
 0.0.0.0 www.myehvterwallet.com
 0.0.0.0 www.myeithereiuwallet.com
+0.0.0.0 www.myeleherwaret.com
 0.0.0.0 www.myelheriwallet.com
 0.0.0.0 www.myelhervvalet.com
 0.0.0.0 www.myelherwallel.com
 0.0.0.0 www.myelherwallet.com
-0.0.0.0 www.myelherwatlet.com
 0.0.0.0 www.myellthevwaallet.com
 0.0.0.0 www.myelonx.org
 0.0.0.0 www.myelterwallet.com
@@ -13556,6 +13560,7 @@
 0.0.0.0 www.myetherwallet-singin.com
 0.0.0.0 www.myetherwalletsingin.com
 0.0.0.0 www.myetherwallet.singles
+0.0.0.0 www.myetherwallet-singmgs.top
 0.0.0.0 www.myetherwallet.site
 0.0.0.0 www.myetherwallet.sj
 0.0.0.0 www.myetherwallet.sk
@@ -13756,6 +13761,7 @@
 0.0.0.0 www.myetherwallet.vodka
 0.0.0.0 www.myetherwallet.volkswagen
 0.0.0.0 www.myetherwallet.volvo
+0.0.0.0 www.myetherwalletv.org
 0.0.0.0 www.myetherwallet.vote
 0.0.0.0 www.myetherwallet.voting
 0.0.0.0 www.myetherwallet.voto
@@ -14482,6 +14488,7 @@
 0.0.0.0 www.promo-binance.site
 0.0.0.0 www.promo-btc.us
 0.0.0.0 www.promobtc.win
+0.0.0.0 www.promo-coinbase.com
 0.0.0.0 www.promocoinbase.xyz
 0.0.0.0 www.promocrypt.com
 0.0.0.0 www.promo-ether.com
@@ -14661,6 +14668,7 @@
 0.0.0.0 www.rntherwallet.xyz
 0.0.0.0 www.rnuathervaltet.com
 0.0.0.0 www.rnuethervvallet.com
+0.0.0.0 www.rnyelherwallel.com
 0.0.0.0 www.rnyertherwallet.com
 0.0.0.0 www.rnyetherumwallet.com
 0.0.0.0 www.rnyetherwaliet.com
@@ -14786,7 +14794,6 @@
 0.0.0.0 www.singularty.net
 0.0.0.0 www.sirinlabs.co
 0.0.0.0 www.sirin-labs.org
-0.0.0.0 www.sirinlabs.pro
 0.0.0.0 www.sirinlabs.website
 0.0.0.0 www.sirinslabs.com
 0.0.0.0 www.site-binance.co
@@ -15094,6 +15101,7 @@
 0.0.0.0 www.tokenpublicsales.com
 0.0.0.0 www.tokensale-adhive.com
 0.0.0.0 www.tokensale-dock.io
+0.0.0.0 www.tokensale-fusion.com
 0.0.0.0 www.tokensale-fusion.org
 0.0.0.0 www.tokensale-havven.in
 0.0.0.0 www.tokensale-kyber.network
@@ -15640,6 +15648,7 @@
 0.0.0.0 www.xn--idx-tra.market
 0.0.0.0 www.xn--inance-hrb.com
 0.0.0.0 www.xn----itbjab7adkacocegb9etd2c.xn--p1ai
+0.0.0.0 www.xn--itbtc-9g1b.com
 0.0.0.0 www.xn--ldger-6za.com
 0.0.0.0 www.xn--ldger-n51b.com
 0.0.0.0 www.xn--ldgr-vvac.com
@@ -15677,6 +15686,7 @@
 0.0.0.0 www.xn--metherwallt-crb6719g.com
 0.0.0.0 www.xn--metherwllet-ln9eqi.com
 0.0.0.0 www.xn--methewallet-638e95e.com
+0.0.0.0 www.xn--methewallet-v48e1x.com
 0.0.0.0 www.xn--methrwallet-uib92a.com
 0.0.0.0 www.xn--mtherwallet-z19ex1a.com
 0.0.0.0 www.xn--mxer-qpa.money
@@ -15972,6 +15982,7 @@
 0.0.0.0 www.xn--www-blockchan-m9b.com
 0.0.0.0 www.xn--yeterwallet-bm8ewn.com
 0.0.0.0 www.xn--yeterwallet-bm8eym.com
+0.0.0.0 www.xn--yetherallet-iw8ew5a.com
 0.0.0.0 www.xn--yetherallet-tv8es7a.com
 0.0.0.0 www.xn--yetherwalle-iw8e1s.com
 0.0.0.0 www.xn--yetherwallet-1t1f.com
@@ -16201,6 +16212,7 @@
 0.0.0.0 xn--idx-tra.market
 0.0.0.0 xn--inance-hrb.com
 0.0.0.0 xn----itbjab7adkacocegb9etd2c.xn--p1ai
+0.0.0.0 xn--itbtc-9g1b.com
 0.0.0.0 xn--ldger-6za.com
 0.0.0.0 xn--ldger-n51b.com
 0.0.0.0 xn--ldgr-vvac.com
@@ -16238,6 +16250,7 @@
 0.0.0.0 xn--metherwallt-crb6719g.com
 0.0.0.0 xn--metherwllet-ln9eqi.com
 0.0.0.0 xn--methewallet-638e95e.com
+0.0.0.0 xn--methewallet-v48e1x.com
 0.0.0.0 xn--methrwallet-uib92a.com
 0.0.0.0 xn--mtherwallet-z19ex1a.com
 0.0.0.0 xn--mxer-qpa.money
@@ -16533,6 +16546,7 @@
 0.0.0.0 xn--www-blockchan-m9b.com
 0.0.0.0 xn--yeterwallet-bm8ewn.com
 0.0.0.0 xn--yeterwallet-bm8eym.com
+0.0.0.0 xn--yetherallet-iw8ew5a.com
 0.0.0.0 xn--yetherallet-tv8es7a.com
 0.0.0.0 xn--yetherwalle-iw8e1s.com
 0.0.0.0 xn--yetherwallet-1t1f.com
