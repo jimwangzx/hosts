@@ -48,10 +48,10 @@
 # 21. Source: 67314 - https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/adguarddns.txt
 # 22. Source: 12304 - https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/combined_disguised_trackers_justdomains.txt
 # 23. Source: 71866 - https://dbl.oisd.nl/basic/
-# 24. Source: 36929 - https://phishing.army/download/phishing_army_blocklist_extended.txt
+# 24. Source: 36820 - https://phishing.army/download/phishing_army_blocklist_extended.txt
 # 25. Source: 8154 - https://raw.githubusercontent.com/Spam404/lists/master/main-blacklist.txt
 # 26. Source: 122584 - https://blocklist.cyberthreatcoalition.org/vetted/domain.txt
-# 27. Source: 37 - https://osint.digitalside.it/Threat-Intel/lists/latestdomains.txt
+# 27. Source: 38 - https://osint.digitalside.it/Threat-Intel/lists/latestdomains.txt
 # 28. Source: 336 - https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-malware.txt
 # 29. Source: 39147 - https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-main.txt
 # 30. Source: 366 - https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-personal.txt
@@ -69,19 +69,19 @@
 # 42. Source: 689 - https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/hosts.txt
 # 43. Source: 82717 - https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
 # 44. Source: 250616 - https://raw.githubusercontent.com/notracking/hosts-blocklists/master/hostnames.txt
-# 45. Source: 1342 - https://urlhaus.abuse.ch/downloads/hostfile/
+# 45. Source: 1350 - https://urlhaus.abuse.ch/downloads/hostfile/
 # 46. Source: 311 - https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareHosts.txt
 # 47. Source: 1211 - https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # 48. Source: 1386 - https://raw.githubusercontent.com/mitchellkrogza/Badd-Boyz-Hosts/master/hosts
 # 49. Source: 433 - https://raw.githubusercontent.com/Laicure/hosts/master/shithosts
-# #. Source: 1029698
+# #. Source: 1029598
 
 Statistik multi.txt:
-== Source:      532790
-++ Black:       533001 (+211)
--- White:       445222 (-87779)
--- Hosts:       445143 (-79)
-++ Block:       445145 (+2)
--- Unblock:     444942 (-203)
-++ WWW-Domains: 517495 (+72553)
-++ FLD-Domains: 518360 (+865)
+== Source:      533030
+++ Black:       533241 (+211)
+-- White:       445462 (-87779)
+-- Hosts:       445383 (-79)
+++ Block:       445385 (+2)
+-- Unblock:     445182 (-203)
+++ WWW-Domains: 517714 (+72532)
+++ FLD-Domains: 518616 (+902)

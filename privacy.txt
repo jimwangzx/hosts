@@ -71,6 +71,15 @@
 #
 0.0.0.0 logs.roku.com
 #
+# SambaTV
+#
+0.0.0.0 api.cid.samba.tv
+0.0.0.0 events.cid.samba.tv
+0.0.0.0 platform.cid.samba.tv
+0.0.0.0 preferences.cid.samba.tv
+0.0.0.0 flingo.tv
+0.0.0.0 www.flingo.tv
+#
 # Samsung
 #
 0.0.0.0 ad.samsungadhub.com
@@ -90,6 +99,16 @@
 #
 0.0.0.0 msmetrics-test.ws.sonos.com
 0.0.0.0 msmetrics.ws.sonos.com
+#
+# Sony Bravia
+#
+0.0.0.0 0b412f3d0caba3cf703fbc4701cbd138.ssm1.internet.sony.tv
+0.0.0.0 log.core.cloud.vewd.com
+0.0.0.0 reg.biv.sony.tv
+0.0.0.0 service.biv.sony.tv
+0.0.0.0 ssm1.internet.sony.tv
+0.0.0.0 ssm2.internet.sony.tv
+0.0.0.0 ssm3.internet.sony.tv
 #
 # Microsoft
 #
