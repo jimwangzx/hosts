@@ -57,7 +57,7 @@
 # 30. Source: 366 - https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-personal.txt
 # 31. Source: 8793 - https://adaway.org/hosts.txt
 # 32. Source: 56975 - https://hostfiles.frogeye.fr/firstparty-trackers-hosts.txt
-# 33. Source: 3633 - https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
+# 33. Source: 3634 - https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
 # 34. Source: 10 - https://raw.githubusercontent.com/FadeMind/hosts.extras/master/UncheckyAds/hosts
 # 35. Source: 755 - https://raw.githubusercontent.com/Yhonay/antipopads/master/hosts
 # 36. Source: 42108 - https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt
@@ -72,16 +72,16 @@
 # 45. Source: 311 - https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareHosts.txt
 # 46. Source: 1211 - https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # 47. Source: 1386 - https://raw.githubusercontent.com/mitchellkrogza/Badd-Boyz-Hosts/master/hosts
-# 48. Source: 1364 - https://urlhaus.abuse.ch/downloads/hostfile/
+# 48. Source: 1367 - https://urlhaus.abuse.ch/downloads/hostfile/
 # 49. Source: 433 - https://raw.githubusercontent.com/Laicure/hosts/master/shithosts
-# #. Source: 1228278
+# #. Source: 1228282
 
 Statistik multi.txt:
-== Source:      537252
-++ Black:       537465 (+213)
--- White:       447838 (-89627)
--- Hosts:       447757 (-81)
-++ Block:       447759 (+2)
--- Unblock:     447461 (-298)
-++ WWW-Domains: 522291 (+74830)
-++ FLD-Domains: 523182 (+891)
+== Source:      537253
+++ Black:       537466 (+213)
+-- White:       447839 (-89627)
+-- Hosts:       447758 (-81)
+++ Block:       447760 (+2)
+-- Unblock:     447681 (-79)
+++ WWW-Domains: 522512 (+74831)
+++ FLD-Domains: 523403 (+891)
