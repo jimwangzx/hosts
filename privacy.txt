@@ -137,10 +137,10 @@
 0.0.0.0 onecollector.cloudapp.aria.akadns.net
 0.0.0.0 prod.nexusrules.live.com.akadns.net
 0.0.0.0 redir.metaservices.microsoft.com
-0.0.0.0 self-events-data.trafficmanager.net
-0.0.0.0 self.events.data.microsoft.com
+#self-events-data.trafficmanager.net
+#self.events.data.microsoft.com
 0.0.0.0 settings-sandbox.data.microsoft.com
-0.0.0.0 settings-win.data.microsoft.com
+#settings-win.data.microsoft.com
 0.0.0.0 spynet2.microsoft.com
 0.0.0.0 spynetalt.microsoft.com
 0.0.0.0 telemetry.appex.bing.net
