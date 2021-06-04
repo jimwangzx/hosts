@@ -19,13 +19,13 @@
 # Statistik
 # ---------
 #
-# White-/Deadlist: 292683
-# Blacklist: 6975
+# White-/Deadlist: 292599
+# Blacklist: 6976
 # 1. Source: 4138 - https://raw.githubusercontent.com/stonecrusher/filterlists-pihole/master/watchlist-internet-ph.txt
 # 2. Source: 127 - https://raw.githubusercontent.com/namePlayer/dhl-scamlist/main/dns-blocklists/pihole-blacklist
 #
 # ---------------------------------------------
-# 14282 Domains - V2021.06.03-13:30:31
+# 14284 Domains - V2021.06.04-03:32:12
 # ---------------------------------------------
 #
 0.0.0.0 100jahrehochbahn.de
@@ -6991,6 +6991,7 @@
 0.0.0.0 wilax.de
 0.0.0.0 wildingme.com
 0.0.0.0 wilfrieds-elektrobude.de
+0.0.0.0 willhaben24.com
 0.0.0.0 willhaben.3ds.ink
 0.0.0.0 willhaben.at.0043.id
 0.0.0.0 willhaben.at.0049.id
@@ -13857,6 +13858,7 @@
 0.0.0.0 www.wilax.de
 0.0.0.0 www.wildingme.com
 0.0.0.0 www.wilfrieds-elektrobude.de
+0.0.0.0 www.willhaben24.com
 0.0.0.0 www.willhaben-at.app
 0.0.0.0 www.willhaben.company
 0.0.0.0 www.willhaben.fun
