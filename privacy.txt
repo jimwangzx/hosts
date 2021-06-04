@@ -6,7 +6,8 @@
 # Nutzung.
 #
 # Blockt Telemetrie & Metriken von 
-# Endgeräten und Systemen diverser Hersteller
+# Endgeräten, Diensten und Systemen
+# diverser Hersteller.
 #
 # ---------------------------------------------
 # GitHub: https://github.com/Zelo72
@@ -64,7 +65,6 @@
 #
 # Realme
 #
-0.0.0.0 ata-ads.realmemobile.com
 0.0.0.0 bdapi-in-ads.realmemobile.com
 #
 # Roku
@@ -83,10 +83,8 @@
 # Samsung
 #
 0.0.0.0 ad.samsungadhub.com
-0.0.0.0 ad.samsungads.com
 0.0.0.0 analytics-api.samsunghealthcn.com
 0.0.0.0 analytics.samsungknox.com
-0.0.0.0 bigdata.ssp.samsung.com
 0.0.0.0 config.samsungads.com
 0.0.0.0 insights.samsung.com
 0.0.0.0 nmetrics.samsung.com
@@ -112,15 +110,11 @@
 #
 # Microsoft
 #
-0.0.0.0 alpha.telemetry.microsoft.com
 0.0.0.0 asimov-win.settings.data.microsoft.com.akadns.net
 0.0.0.0 cache.datamart.windows.com
 0.0.0.0 ceuswatcab01.blob.core.windows.net
 0.0.0.0 ceuswatcab02.blob.core.windows.net
 0.0.0.0 choice.microsoft.com
-0.0.0.0 corp.sts.microsoft.com
-0.0.0.0 db5-eap.settings-win.data.microsoft.com.akadns.net
-0.0.0.0 db5.settings-win.data.microsoft.com.akadns.net
 0.0.0.0 db5.vortex.data.microsoft.com.akadns.net
 0.0.0.0 diagnostics.support.microsoft.com
 0.0.0.0 eaus2watcab01.blob.core.windows.net
@@ -128,7 +122,6 @@
 0.0.0.0 eu.vortex-win.data.microsoft.com
 0.0.0.0 feedback.search.microsoft.com
 0.0.0.0 feedback.windows.com
-0.0.0.0 geo.settings-win.data.microsoft.com.akadns.net
 0.0.0.0 geo.vortex.data.microsoft.com.akadns.net
 0.0.0.0 hubblecontent.osi.office.net
 0.0.0.0 i1.services.social.microsoft.com
@@ -143,7 +136,6 @@
 #settings-win.data.microsoft.com
 0.0.0.0 spynet2.microsoft.com
 0.0.0.0 spynetalt.microsoft.com
-0.0.0.0 telemetry.appex.bing.net
 0.0.0.0 telemetry.microsoft.com
 0.0.0.0 telemetry.urs.microsoft.com
 0.0.0.0 us.vortex-win.data.microsoft.com
@@ -155,7 +147,6 @@
 0.0.0.0 vortex-win-sandbox.data.microsoft.com
 0.0.0.0 vortex-win.data.microsoft.com
 0.0.0.0 vortex.data.microsoft.com
-0.0.0.0 vortex.data.microsoft.com.akadns.net
 0.0.0.0 watson.live.com
 0.0.0.0 watson.microsoft.com
 0.0.0.0 watson.telemetry.microsoft.com
@@ -176,7 +167,6 @@
 #
 # Xiaomi
 #
-0.0.0.0 ad.xiaomi.com
 0.0.0.0 api.ad.xiaomi.com
 0.0.0.0 app.chat.xiaomi.net
 0.0.0.0 data.mistat.india.xiaomi.com
@@ -187,12 +177,11 @@
 0.0.0.0 sa.api.intl.miui.com
 0.0.0.0 sdkconfig.ad.intl.xiaomi.com
 0.0.0.0 sdkconfig.ad.xiaomi.com
-0.0.0.0 stat.xiaomi.com
 0.0.0.0 tracking.india.miui.com
 0.0.0.0 tracking.intl.miui.com
 0.0.0.0 tracking.miui.com
 0.0.0.0 tracking.rus.miui.com
-0.0.0.0 www.cdn.ad.xiaomi.com
+0.0.0.0 cdn.ad.xiaomi.com
 #
 0.0.0.0 privacy.zelo72.info
 #
