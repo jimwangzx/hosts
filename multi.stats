@@ -76,22 +76,22 @@
 # 49. Source: 2195 - https://raw.githubusercontent.com/StevenBlack/hosts/master/extensions/fakenews/hosts
 # 50. Source: 82717 - https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
 # 51. Source: 250552 - https://raw.githubusercontent.com/notracking/hosts-blocklists/master/hostnames.txt
-# 52. Source: 21709 - https://raw.githubusercontent.com/PolishFiltersTeam/KADhosts/master/KADhosts.txt
+# 52. Source: 21715 - https://raw.githubusercontent.com/PolishFiltersTeam/KADhosts/master/KADhosts.txt
 # 53. Source: 311 - https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareHosts.txt
 # 54. Source: 1210 - https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # 55. Source: 1386 - https://raw.githubusercontent.com/mitchellkrogza/Badd-Boyz-Hosts/master/hosts
-# 56. Source: 1367 - https://urlhaus.abuse.ch/downloads/hostfile/
+# 56. Source: 1362 - https://urlhaus.abuse.ch/downloads/hostfile/
 # 57. Source: 73 - https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Spam/hosts
 # 58. Source: 2556 - https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Risk/hosts
 # 59. Source: 439 - https://raw.githubusercontent.com/Laicure/hosts/master/shithosts
-# #. Source: 1284209
+# #. Source: 1284210
 
 Statistik multi.txt:
-== Source:      551922
-++ Black:       552172 (+250)
--- White:       459044 (-93128)
--- Hosts:       458963 (-81)
-++ Block:       458965 (+2)
--- Unblock:     458885 (-80)
-++ WWW-Domains: 538675 (+79790)
-++ FLD-Domains: 539798 (+1123)
+== Source:      551925
+++ Black:       552175 (+250)
+-- White:       459047 (-93128)
+-- Hosts:       458966 (-81)
+++ Block:       458968 (+2)
+-- Unblock:     458888 (-80)
+++ WWW-Domains: 538680 (+79792)
+++ FLD-Domains: 539803 (+1123)
