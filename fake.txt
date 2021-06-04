@@ -19,13 +19,13 @@
 # Statistik
 # ---------
 #
-# White-/Deadlist: 306076
-# Blacklist: 6976
+# White-/Deadlist: 309678
+# Blacklist: 6973
 # 1. Source: 4138 - https://raw.githubusercontent.com/stonecrusher/filterlists-pihole/master/watchlist-internet-ph.txt
 # 2. Source: 127 - https://raw.githubusercontent.com/namePlayer/dhl-scamlist/main/dns-blocklists/pihole-blacklist
 #
 # ---------------------------------------------
-# 14284 Domains - V2021.06.04-20:15:13
+# 14278 Domains - V2021.06.04-20:55:34
 # ---------------------------------------------
 #
 0.0.0.0 100jahrehochbahn.de
@@ -2206,7 +2206,6 @@
 0.0.0.0 floplay.de
 0.0.0.0 florday.com
 0.0.0.0 floritita.com
-0.0.0.0 floryday.com
 0.0.0.0 flottepalme.de
 0.0.0.0 flowcampprzyczepy.eu
 0.0.0.0 fl-trans.com
@@ -9201,7 +9200,6 @@
 0.0.0.0 www.floplay.de
 0.0.0.0 www.florday.com
 0.0.0.0 www.floritita.com
-0.0.0.0 www.floryday.com
 0.0.0.0 www.flottepalme.de
 0.0.0.0 www.flowcampprzyczepy.eu
 0.0.0.0 www.fl-trans.com
@@ -14013,7 +14011,6 @@
 0.0.0.0 www.yostream.de
 0.0.0.0 www.youbestchoice.com
 0.0.0.0 www.yougogirl.clothing
-0.0.0.0 www.youla.ru
 0.0.0.0 www.youndmi.de
 0.0.0.0 www.youngsexdoll.com
 0.0.0.0 www.young-village.de
@@ -14043,7 +14040,6 @@
 0.0.0.0 www.yyearsale.com
 0.0.0.0 www.zacha-hokej.cz
 0.0.0.0 www.zaffia.de
-0.0.0.0 www.zaful.com
 0.0.0.0 www.zagose.com
 0.0.0.0 www.zahnaerzte-hamme.de
 0.0.0.0 www.zahnarzt-baruch.de
@@ -14200,7 +14196,6 @@
 0.0.0.0 yostream.de
 0.0.0.0 youbestchoice.com
 0.0.0.0 yougogirl.clothing
-0.0.0.0 youla.ru
 0.0.0.0 youndmi.de
 0.0.0.0 youngsexdoll.com
 0.0.0.0 young-village.de
@@ -14230,7 +14225,6 @@
 0.0.0.0 yyearsale.com
 0.0.0.0 zacha-hokej.cz
 0.0.0.0 zaffia.de
-0.0.0.0 zaful.com
 0.0.0.0 zagose.com
 0.0.0.0 zahnaerzte-hamme.de
 0.0.0.0 zahnarzt-baruch.de

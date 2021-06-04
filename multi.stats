@@ -16,14 +16,14 @@
 #                 https://t.me/piholefans_DACH
 # ---------------------------------------------
 
-# Hosts fake.txt: 14284
-# Hosts: 14284
+# Hosts fake.txt: 14278
+# Hosts: 14278
 
-# White-/Deadlist: 306076
+# White-/Deadlist: 309678
 
-# Blacklist global: 250
+# Blacklist global: 249
 # Blacklist source: 1
-# Blacklist: 251
+# Blacklist: 250
 
 # 1. Source: 1001 - https://raw.githubusercontent.com/jkrejcha/AdmiraList/master/AdmiraList.txt
 # 2. Source: 662 - https://v.firebog.net/hosts/Admiral.txt
@@ -45,7 +45,7 @@
 # 18. Source: 904 - https://v.firebog.net/hosts/static/w3kbl.txt
 # 19. Source: 50441 - https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/easylist.txt
 # 20. Source: 12304 - https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/combined_disguised_trackers_justdomains.txt
-# 21. Source: 67326 - https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/adguarddns.txt
+# 21. Source: 67329 - https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/adguarddns.txt
 # 22. Source: 71629 - https://dbl.oisd.nl/basic/
 # 23. Source: 201187 - https://hblock.molinero.dev/hosts_domains.txt
 # 24. Source: 122584 - https://blocklist.cyberthreatcoalition.org/vetted/domain.txt
@@ -80,18 +80,18 @@
 # 53. Source: 311 - https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareHosts.txt
 # 54. Source: 1210 - https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # 55. Source: 1386 - https://raw.githubusercontent.com/mitchellkrogza/Badd-Boyz-Hosts/master/hosts
-# 56. Source: 1356 - https://urlhaus.abuse.ch/downloads/hostfile/
+# 56. Source: 1367 - https://urlhaus.abuse.ch/downloads/hostfile/
 # 57. Source: 73 - https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Spam/hosts
 # 58. Source: 2556 - https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Risk/hosts
 # 59. Source: 439 - https://raw.githubusercontent.com/Laicure/hosts/master/shithosts
-# #. Source: 1284195
+# #. Source: 1284209
 
 Statistik multi.txt:
 == Source:      551922
-++ Black:       552173 (+251)
--- White:       459072 (-93101)
--- Hosts:       458991 (-81)
-++ Block:       458993 (+2)
--- Unblock:     458913 (-80)
-++ WWW-Domains: 538714 (+79801)
-++ FLD-Domains: 539840 (+1126)
+++ Black:       552172 (+250)
+-- White:       459044 (-93128)
+-- Hosts:       458963 (-81)
+++ Block:       458965 (+2)
+-- Unblock:     458885 (-80)
+++ WWW-Domains: 538675 (+79790)
+++ FLD-Domains: 539798 (+1123)
