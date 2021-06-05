@@ -19,7 +19,7 @@
 # Hosts fake.txt: 14065
 # Hosts: 14065
 
-# White-/Deadlist: 302145
+# White-/Deadlist: 297204
 
 # Blacklist global: 249
 # Blacklist source: 1
@@ -63,18 +63,18 @@
 # 36. Source: 311 - https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareHosts.txt
 # 37. Source: 1196 - https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # 38. Source: 1386 - https://raw.githubusercontent.com/mitchellkrogza/Badd-Boyz-Hosts/master/hosts
-# 39. Source: 1226 - https://urlhaus.abuse.ch/downloads/hostfile/
+# 39. Source: 1227 - https://urlhaus.abuse.ch/downloads/hostfile/
 # 40. Source: 73 - https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Spam/hosts
 # 41. Source: 2556 - https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Risk/hosts
 # 42. Source: 439 - https://raw.githubusercontent.com/Laicure/hosts/master/shithosts
-# #. Source: 879270
+# #. Source: 879271
 
 Statistik multi.txt:
 == Source:      447488
 ++ Black:       447738 (+250)
--- White:       358850 (-88888)
--- Hosts:       358823 (-27)
-++ Block:       358825 (+2)
--- Unblock:     358798 (-27)
-++ WWW-Domains: 430928 (+72130)
-++ FLD-Domains: 431666 (+738)
+-- White:       358883 (-88855)
+-- Hosts:       358856 (-27)
+++ Block:       358858 (+2)
+-- Unblock:     358831 (-27)
+++ WWW-Domains: 430974 (+72143)
+++ FLD-Domains: 431712 (+738)
