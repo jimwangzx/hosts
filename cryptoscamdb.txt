@@ -26,7 +26,7 @@
 # Telegram-Gruppe PiHole + Unbound Fans (DACH)
 #                 https://t.me/piholefans_DACH
 # ---------------------------------------------
-# 16611 Domains - 2021.06.04-07:25:24
+# 16618 Domains - 2021.06.05-08:21:04
 # ---------------------------------------------
 #
 0.0.0.0 0101.systems
@@ -988,6 +988,7 @@
 0.0.0.0 bonusmusk.com
 0.0.0.0 bonuspacex.com
 0.0.0.0 bonus.status-eth.top
+0.0.0.0 bonus-stellarterm.com
 0.0.0.0 bonus-tesla.com
 0.0.0.0 bonustesla.com
 0.0.0.0 boosteth.com
@@ -2095,7 +2096,6 @@
 0.0.0.0 epaymentbtc.tumblr.com
 0.0.0.0 epaymenteth.tumblr.com
 0.0.0.0 epromo.cc
-0.0.0.0 erc-20.myetherwallet.bonus.tokens-mew.com
 0.0.0.0 erc-20.online
 0.0.0.0 erc-20-token.com
 0.0.0.0 escobarsbr.com
@@ -4531,7 +4531,6 @@
 0.0.0.0 mycrypto.ltd
 0.0.0.0 mycrypto.ml
 0.0.0.0 mycrypton.net
-0.0.0.0 mycrypto.promo
 0.0.0.0 mycrypto-wallet.info
 0.0.0.0 mycryrpto.com
 0.0.0.0 mycryrptto.com
@@ -6643,6 +6642,7 @@
 0.0.0.0 myethsrwallet.com
 0.0.0.0 myethswalet.com
 0.0.0.0 myethswallets.info
+0.0.0.0 myethterwallet.com
 0.0.0.0 myethuerwallet.com
 0.0.0.0 myethurwallet.com
 0.0.0.0 myethverwallet.com
@@ -6667,6 +6667,7 @@
 0.0.0.0 myetjherwallet.com
 0.0.0.0 myetlherewallet.org
 0.0.0.0 myetlherwa11et.com
+0.0.0.0 myetlherwallelt.com
 0.0.0.0 myetlherwallet.com
 0.0.0.0 myetlherwallet.pro
 0.0.0.0 myetnarvellat.com
@@ -9072,6 +9073,7 @@
 0.0.0.0 www.bonuseth.top
 0.0.0.0 www.bonusmusk.com
 0.0.0.0 www.bonuspacex.com
+0.0.0.0 www.bonus-stellarterm.com
 0.0.0.0 www.bonus-tesla.com
 0.0.0.0 www.bonustesla.com
 0.0.0.0 www.boosteth.com
@@ -12071,7 +12073,6 @@
 0.0.0.0 www.mycrypto.ltd
 0.0.0.0 www.mycrypto.ml
 0.0.0.0 www.mycrypton.net
-0.0.0.0 www.mycrypto.promo
 0.0.0.0 www-mycryptos.com
 0.0.0.0 www.mycrypto-wallet.info
 0.0.0.0 www-mycryqto.com
@@ -14101,6 +14102,7 @@
 0.0.0.0 www.myethsrwallet.com
 0.0.0.0 www.myethswalet.com
 0.0.0.0 www.myethswallets.info
+0.0.0.0 www.myethterwallet.com
 0.0.0.0 www.myethuerwallet.com
 0.0.0.0 www.myethurwallet.com
 0.0.0.0 www.myethverwallet.com
@@ -14124,6 +14126,7 @@
 0.0.0.0 www.myetjherwallet.com
 0.0.0.0 www.myetlherewallet.org
 0.0.0.0 www.myetlherwa11et.com
+0.0.0.0 www.myetlherwallelt.com
 0.0.0.0 www.myetlherwallet.com
 0.0.0.0 www.myetlherwallet.pro
 0.0.0.0 www.myetnarvellat.com
@@ -15657,6 +15660,7 @@
 0.0.0.0 www.xn--metherwallet-qlb.com
 0.0.0.0 www.xn--metherwallet-zhk.com
 0.0.0.0 www.xn--metherwalle-uib05k.com
+0.0.0.0 www.xn--metherwallt-5hb16a.com
 0.0.0.0 www.xn--metherwallt-79a30a.com
 0.0.0.0 www.xn--metherwallt-819eo1a.com
 0.0.0.0 www.xn--metherwallt-crb6719g.com
@@ -15785,6 +15789,7 @@
 0.0.0.0 www.xn--myethrwaet-inb90ca.com
 0.0.0.0 www.xn--myethrwaet-mlb18ca.com
 0.0.0.0 www.xn--myethrwalet-ns8e73d.com
+0.0.0.0 www.xn--myethrwalett-8vb19c.net
 0.0.0.0 www.xn--myethrwalet-vrb05c.com
 0.0.0.0 www.xn--myethrwalet-vrb15c.com
 0.0.0.0 www.xn--myethrwalle-3bb60n.com
@@ -16219,6 +16224,7 @@
 0.0.0.0 xn--metherwallet-qlb.com
 0.0.0.0 xn--metherwallet-zhk.com
 0.0.0.0 xn--metherwalle-uib05k.com
+0.0.0.0 xn--metherwallt-5hb16a.com
 0.0.0.0 xn--metherwallt-79a30a.com
 0.0.0.0 xn--metherwallt-819eo1a.com
 0.0.0.0 xn--metherwallt-crb6719g.com
@@ -16347,6 +16353,7 @@
 0.0.0.0 xn--myethrwaet-inb90ca.com
 0.0.0.0 xn--myethrwaet-mlb18ca.com
 0.0.0.0 xn--myethrwalet-ns8e73d.com
+0.0.0.0 xn--myethrwalett-8vb19c.net
 0.0.0.0 xn--myethrwalet-vrb05c.com
 0.0.0.0 xn--myethrwalet-vrb15c.com
 0.0.0.0 xn--myethrwalle-3bb60n.com
