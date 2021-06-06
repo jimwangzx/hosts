@@ -15,9 +15,10 @@
 #                 https://t.me/piholefans_DACH
 # ---------------------------------------------
 
-# Hosts: 
+# Hosts: 0
 
-# White-/Deadlist: 297209
+# Whitelist: 22001
+# Deadlist: 271993
 
 # Blacklist: 3007
 
@@ -25,9 +26,10 @@
 # #. Source: 4138
 
 Statistik fake.txt:
-== Source:      4138
-++ Black:       7145 (+3007)
--- White:       7140 (-5)
--- Unblock:     7140 (-0)
-++ WWW-Domains: 14069 (+6929)
-++ FLD-Domains: 14069 (+0)
+== Source (unique): 4138
+++ Black:           7145 (+3007)
+-- White:           7140 (-5)
+-- Dead:            4878 (-2262)
+-- Unblock:         4878 (-0)
+++ WWW-Domains:     9616 (+4738)
+++ FLD-Domains:     9616 (+0)

@@ -9,6 +9,7 @@ fls-eu.amazon.com
 fls-eu.amazon.de
 aan.amazon.com
 aax.amazon-adsystem.com
+c..amazon-adsystem.com
 
 # Apps (Mobile)
 app.link
@@ -34,6 +35,10 @@ js-agent.newrelic.com
 # Facebook
 graph.facebook.com
 graph.instagram.com
+
+# Gaming
+analyticsnew.overwolf.com
+tracking.overwolf.com
 
 # Github
 user-images.githubusercontent.com

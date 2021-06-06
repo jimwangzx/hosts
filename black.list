@@ -7,7 +7,6 @@
 0.0.0.0 ad3.adserver01.de
 0.0.0.0 ad.ad-arrow.com
 0.0.0.0 ad.com
-0.0.0.0 ad.corp.copart.de
 0.0.0.0 ad.muhabirce.de
 0.0.0.0 ad.onvista.de
 0.0.0.0 ad.responservbzh.icu
@@ -35,7 +34,6 @@
 0.0.0.0 ads.urban-media.com
 0.0.0.0 ad.tjserv.media
 0.0.0.0 adx.4strokemedia.com
-0.0.0.0 adx.track-srv.com
 0.0.0.0 affil.alza.cz
 0.0.0.0 affiliate.alza.cz
 0.0.0.0 affiliate.nagios.com
@@ -106,8 +104,6 @@
 0.0.0.0 biwhamto.com
 0.0.0.0 cam4.com
 0.0.0.0 cam4.de.com
-0.0.0.0 captive.pagead2.googlesyndication.com
-0.0.0.0 captive.tpc.googlesyndication.com
 0.0.0.0 cdn.adnxs-simple.com
 0.0.0.0 cdn-app.plus500.com
 0.0.0.0 cdn.bunchbox.co
@@ -122,7 +118,6 @@
 0.0.0.0 free-stream.bys98ifvam55.top
 0.0.0.0 fxpj394let.kameleoon.eu
 0.0.0.0 glitoseko.com
-0.0.0.0 googleads.g.doubleclick.com
 0.0.0.0 hb.hb.selectmedia.asia
 0.0.0.0 h.df-srv.de
 0.0.0.0 iconmedia.containers.piwik.pro
@@ -155,7 +150,6 @@
 0.0.0.0 nkwintenc.biz
 0.0.0.0 onlinetopchoice.com
 0.0.0.0 p1.zemanta.com
-0.0.0.0 ping.chartbeat.com
 0.0.0.0 piwik.pro.de-central-1.piwik.pro
 0.0.0.0 pixel.betweenx.com
 0.0.0.0 pixel.bsmartdata.com
@@ -163,7 +157,6 @@
 0.0.0.0 pixel.ionos.at
 0.0.0.0 pixel.ionos.co.uk
 0.0.0.0 pixel.ipinfo.io
-0.0.0.0 pixel.jumptap.com
 0.0.0.0 pixel.onead.com.tw
 0.0.0.0 pixel.patch.com
 0.0.0.0 pixel.placed.com
@@ -182,7 +175,6 @@
 0.0.0.0 rsafrwdr.com
 0.0.0.0 rvo.piwik.pro
 0.0.0.0 scout24sw-d.openx.net
-0.0.0.0 secureads.g.doubleclick.net
 0.0.0.0 s.ktxtr.com
 0.0.0.0 sm4xqadz4o.kameleoon.eu
 0.0.0.0 staptephito.com
@@ -203,7 +195,6 @@
 0.0.0.0 tracker.connectif.cloud
 0.0.0.0 tracker.daexauto.com
 0.0.0.0 tracker.gaconnector.com
-0.0.0.0 tracker.twenga.de
 0.0.0.0 tracker.xlmoto.eu
 0.0.0.0 track.gaconnector.com
 0.0.0.0 tracking1.force24.co.uk
@@ -215,7 +206,6 @@
 0.0.0.0 tracking.refersion.com
 0.0.0.0 tracking.shopstyle.co.uk
 0.0.0.0 track.ksta.de
-0.0.0.0 track.ksta.deadservice.google.de
 0.0.0.0 track.meine-vhs.de
 0.0.0.0 track.rheinpfalz.de
 0.0.0.0 track.uptownaces.eu
