@@ -183,9 +183,6 @@
 0.0.0.0 tracking.rus.miui.com
 0.0.0.0 cdn.ad.xiaomi.com
 #
-0.0.0.0 privacy.zelo72.info
-#
-#
 # Lokale Hosts (Loopback)
 #
 127.0.0.1 localhost
