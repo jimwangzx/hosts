@@ -21,11 +21,11 @@
 #
 # Whitelist: 22001
 # Deadlist: 271993
-# Blacklist: 3007
+# Blacklist: 1675
 # 1. Source: 4138 - https://raw.githubusercontent.com/stonecrusher/filterlists-pihole/master/watchlist-internet-ph.txt
 #
 # ---------------------------------------------
-# 9616 Domains - V2021.06.06-19:18:27
+# 9616 Domains - V2021.06.06-20:23:19
 # ---------------------------------------------
 #
 0.0.0.0 100jahrehochbahn.de
