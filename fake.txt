@@ -19,12 +19,12 @@
 # Statistik
 # ---------
 #
-# White-/Deadlist: 302145
-# Blacklist: 3005
+# White-/Deadlist: 297209
+# Blacklist: 3007
 # 1. Source: 4138 - https://raw.githubusercontent.com/stonecrusher/filterlists-pihole/master/watchlist-internet-ph.txt
 #
 # ---------------------------------------------
-# 14065 Domains - V2021.06.05-09:37:47
+# 14069 Domains - V2021.06.06-03:31:52
 # ---------------------------------------------
 #
 0.0.0.0 100jahrehochbahn.de
@@ -1737,6 +1737,7 @@
 0.0.0.0 elektroconsult.de
 0.0.0.0 elektrodo.de
 0.0.0.0 elektro-domestika.com
+0.0.0.0 elektro-ecke.de
 0.0.0.0 elektro-engel.de
 0.0.0.0 elektrofachgeschaft.com
 0.0.0.0 elektro-fest.org
@@ -6048,6 +6049,7 @@
 0.0.0.0 techswap.de
 0.0.0.0 techtorks.de
 0.0.0.0 tech-translation.de
+0.0.0.0 tech-vario.de
 0.0.0.0 tech-versand.com
 0.0.0.0 tech-vitals.com
 0.0.0.0 tecksypro.com
@@ -8631,6 +8633,7 @@
 0.0.0.0 www.elektroconsult.de
 0.0.0.0 www.elektrodo.de
 0.0.0.0 www.elektro-domestika.com
+0.0.0.0 www.elektro-ecke.de
 0.0.0.0 www.elektro-engel.de
 0.0.0.0 www.elektrofachgeschaft.com
 0.0.0.0 www.elektro-fest.org
@@ -12846,6 +12849,7 @@
 0.0.0.0 www.techswap.de
 0.0.0.0 www.techtorks.de
 0.0.0.0 www.tech-translation.de
+0.0.0.0 www.tech-vario.de
 0.0.0.0 www.tech-versand.com
 0.0.0.0 www.tech-vitals.com
 0.0.0.0 www.tecksypro.com
