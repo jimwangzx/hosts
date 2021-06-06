@@ -21,9 +21,9 @@
 
 # White-/Deadlist: 289500
 
-# Blacklist global: 250
+# Blacklist global: 294
 # Blacklist source: 1
-# Blacklist: 251
+# Blacklist: 295
 
 # 1. Source: 1001 - https://raw.githubusercontent.com/jkrejcha/AdmiraList/master/AdmiraList.txt
 # 2. Source: 662 - https://v.firebog.net/hosts/Admiral.txt
@@ -63,18 +63,18 @@
 # 36. Source: 311 - https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareHosts.txt
 # 37. Source: 1197 - https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # 38. Source: 1386 - https://raw.githubusercontent.com/mitchellkrogza/Badd-Boyz-Hosts/master/hosts
-# 39. Source: 1247 - https://urlhaus.abuse.ch/downloads/hostfile/
+# 39. Source: 1249 - https://urlhaus.abuse.ch/downloads/hostfile/
 # 40. Source: 73 - https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Spam/hosts
 # 41. Source: 2556 - https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Risk/hosts
 # 42. Source: 439 - https://raw.githubusercontent.com/Laicure/hosts/master/shithosts
-# #. Source: 878699
+# #. Source: 878701
 
 Statistik multi.txt:
 == Source:      447041
-++ Black:       447289 (+248)
--- White:       360078 (-87211)
--- Hosts:       360051 (-27)
-++ Block:       360053 (+2)
--- Unblock:     359657 (-396)
-++ WWW-Domains: 433086 (+73429)
-++ FLD-Domains: 433778 (+692)
+++ Black:       447292 (+251)
+-- White:       360081 (-87211)
+-- Hosts:       360054 (-27)
+++ Block:       360056 (+2)
+-- Unblock:     359660 (-396)
+++ WWW-Domains: 433087 (+73427)
+++ FLD-Domains: 433780 (+693)

@@ -106,6 +106,8 @@
 0.0.0.0 biwhamto.com
 0.0.0.0 cam4.com
 0.0.0.0 cam4.de.com
+0.0.0.0 captive.pagead2.googlesyndication.com
+0.0.0.0 captive.tpc.googlesyndication.com
 0.0.0.0 cdn.adnxs-simple.com
 0.0.0.0 cdn-app.plus500.com
 0.0.0.0 cdn.bunchbox.co
@@ -175,6 +177,7 @@
 0.0.0.0 r0ljlru609.kameleoon.eu
 0.0.0.0 rd.frontend.weborama.fr
 0.0.0.0 redirect.frontend.weborama.fr
+0.0.0.0 redirector.c.googlesyndication.com
 0.0.0.0 repellat.com
 0.0.0.0 rsafrwdr.com
 0.0.0.0 rvo.piwik.pro
