@@ -19,13 +19,13 @@
 # Statistik
 # ---------
 #
-# Whitelist: 22001
-# Deadlist: 271993
-# Blacklist: 1675
+# Whitelist: 22193
+# Deadlist: 368833
+# Blacklist: 1682
 # 1. Source: 4138 - https://raw.githubusercontent.com/stonecrusher/filterlists-pihole/master/watchlist-internet-ph.txt
 #
 # ---------------------------------------------
-# 9616 Domains - V2021.06.06-20:23:19
+# 9626 Domains - V2021.06.07-22:31:19
 # ---------------------------------------------
 #
 0.0.0.0 100jahrehochbahn.de
@@ -1752,7 +1752,10 @@
 0.0.0.0 goldhandel-preissieger.de
 0.0.0.0 goldhandel-seit1986.de
 0.0.0.0 goldhandel-team.de
+0.0.0.0 goldhandel-testsieger-2021.de
 0.0.0.0 goldhandel-testsieger.de
+0.0.0.0 goldhandel-testsieger-seit1972.de
+0.0.0.0 goldhandel-und-beratung.de
 0.0.0.0 goldhandel-vorsorge.de
 0.0.0.0 goldhandel-zertifiziert.de
 0.0.0.0 golding-house.com
@@ -3575,6 +3578,7 @@
 0.0.0.0 ravensburger-krippenland.de
 0.0.0.0 rawchanger.com
 0.0.0.0 ray-markt.de
+0.0.0.0 rbasenbox.com
 0.0.0.0 rbhgr.com
 0.0.0.0 rbkat.net
 0.0.0.0 rbtef.com
@@ -4659,6 +4663,7 @@
 0.0.0.0 web-meinkorb.com
 0.0.0.0 wedderbruuk-bremen.de
 0.0.0.0 weddingdresshouse.com
+0.0.0.0 weettr.com
 0.0.0.0 wegenerteam.de
 0.0.0.0 weidmann-kueche.net
 0.0.0.0 weigl-handel.de
@@ -6444,7 +6449,10 @@
 0.0.0.0 www.goldhandel-preissieger.de
 0.0.0.0 www.goldhandel-seit1986.de
 0.0.0.0 www.goldhandel-team.de
+0.0.0.0 www.goldhandel-testsieger-2021.de
 0.0.0.0 www.goldhandel-testsieger.de
+0.0.0.0 www.goldhandel-testsieger-seit1972.de
+0.0.0.0 www.goldhandel-und-beratung.de
 0.0.0.0 www.goldhandel-vorsorge.de
 0.0.0.0 www.goldhandel-zertifiziert.de
 0.0.0.0 www.golding-house.com
@@ -8216,6 +8224,7 @@
 0.0.0.0 www.ravensburger-krippenland.de
 0.0.0.0 www.rawchanger.com
 0.0.0.0 www.ray-markt.de
+0.0.0.0 www.rbasenbox.com
 0.0.0.0 www.rbhgr.com
 0.0.0.0 www.rbkat.net
 0.0.0.0 www.rbtef.com
@@ -9275,6 +9284,7 @@
 0.0.0.0 www.web-meinkorb.com
 0.0.0.0 www.wedderbruuk-bremen.de
 0.0.0.0 www.weddingdresshouse.com
+0.0.0.0 www.weettr.com
 0.0.0.0 www.wegenerteam.de
 0.0.0.0 www.weidmann-kueche.net
 0.0.0.0 www.weigl-handel.de

@@ -16,15 +16,15 @@
 #                 https://t.me/piholefans_DACH
 # ---------------------------------------------
 
-# Hosts fake.txt: 9616
-# Hosts: 9616
+# Hosts fake.txt: 9626
+# Hosts: 9626
 
 # Whitelist: 22193
 # Deadlist: 368833
 
-# Blacklist global: 240
+# Blacklist global: 239
 # Blacklist source: 
-# Blacklist: 240
+# Blacklist: 239
 
 # 1. Source: 1001 - https://raw.githubusercontent.com/jkrejcha/AdmiraList/master/AdmiraList.txt
 # 2. Source: 662 - https://v.firebog.net/hosts/Admiral.txt
@@ -37,17 +37,17 @@
 # 9. Source: 904 - https://v.firebog.net/hosts/static/w3kbl.txt
 # 10. Source: 48806 - https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/easylist.txt
 # 11. Source: 12400 - https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/combined_disguised_trackers_justdomains.txt
-# 12. Source: 59068 - https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/adguarddns.txt
+# 12. Source: 59100 - https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/adguarddns.txt
 # 13. Source: 122584 - https://blocklist.cyberthreatcoalition.org/vetted/domain.txt
 # 14. Source: 336 - https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-malware.txt
 # 15. Source: 46 - https://osint.digitalside.it/Threat-Intel/lists/latestdomains.txt
-# 16. Source: 36765 - https://phishing.army/download/phishing_army_blocklist_extended.txt
+# 16. Source: 37019 - https://phishing.army/download/phishing_army_blocklist_extended.txt
 # 17. Source: 8154 - https://raw.githubusercontent.com/Spam404/lists/master/main-blacklist.txt
-# 18. Source: 39043 - https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-main.txt
-# 19. Source: 446 - https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-personal.txt
+# 18. Source: 38537 - https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-main.txt
+# 19. Source: 447 - https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-personal.txt
 # 20. Source: 2046 - https://bitbucket.org/ethanr/dns-blacklists/raw/8575c9f96e5b4a1308f2f12394abd86d0927a4a0/bad_lists/Mandiant_APT1_Report_Appendix_D.txt
 # 21. Source: 324 - https://raw.githubusercontent.com/hpthreatresearch/iocs/main/TA551/domains.txt
-# 22. Source: 8789 - https://adaway.org/hosts.txt
+# 22. Source: 8783 - https://adaway.org/hosts.txt
 # 23. Source: 3630 - https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
 # 24. Source: 10 - https://raw.githubusercontent.com/FadeMind/hosts.extras/master/UncheckyAds/hosts
 # 25. Source: 755 - https://raw.githubusercontent.com/Yhonay/antipopads/master/hosts
@@ -64,19 +64,19 @@
 # 36. Source: 311 - https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareHosts.txt
 # 37. Source: 1198 - https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # 38. Source: 1386 - https://raw.githubusercontent.com/mitchellkrogza/Badd-Boyz-Hosts/master/hosts
-# 39. Source: 1214 - https://urlhaus.abuse.ch/downloads/hostfile/
+# 39. Source: 1221 - https://urlhaus.abuse.ch/downloads/hostfile/
 # 40. Source: 73 - https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Spam/hosts
 # 41. Source: 2556 - https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Risk/hosts
 # 42. Source: 439 - https://raw.githubusercontent.com/Laicure/hosts/master/shithosts
-# #. Source: 852687
+# #. Source: 852469
 
 Statistik multi.txt:
-== Source (unique): 433229
-++ Black:           433468 (+239)
--- White:           430143 (-3325)
--- Dead:            300580 (-129563)
--- Hosts:           300558 (-22)
-++ Block:           300560 (+2)
--- Unblock:         300167 (-393)
-++ WWW-Domains:     349375 (+49208)
-++ FLD-Domains:     350045 (+670)
+== Source (unique): 433054
+++ Black:           433293 (+239)
+-- White:           429970 (-3323)
+-- Dead:            300640 (-129330)
+-- Hosts:           300618 (-22)
+++ Block:           300620 (+2)
+-- Unblock:         300227 (-393)
+++ WWW-Domains:     349438 (+49211)
+++ FLD-Domains:     350107 (+669)
