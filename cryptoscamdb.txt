@@ -26,7 +26,7 @@
 # Telegram-Gruppe PiHole + Unbound Fans (DACH)
 #                 https://t.me/piholefans_DACH
 # ---------------------------------------------
-# 4139 Domains - 2021.06.06-21:24:38
+# 4161 Domains - 2021.06.07-12:17:13
 # ---------------------------------------------
 #
 0.0.0.0 0978f655-465b-4434-99fb-f8357c7bca4b.htmlpasta.com
@@ -653,6 +653,7 @@
 0.0.0.0 czgive.site
 0.0.0.0 d6513d71-ee0e-41c3-8bda-83587ac4e863.htmlpasta.com
 0.0.0.0 dai-stablecoin.com
+0.0.0.0 daostack-ico.io
 0.0.0.0 daostack.onuniverse.com
 0.0.0.0 dashcoinminer.space
 0.0.0.0 data-token.com
@@ -713,6 +714,7 @@
 0.0.0.0 ehterdelta.ru.com
 0.0.0.0 electrumapps.com
 0.0.0.0 electrumbase.com
+0.0.0.0 electrum.bz
 0.0.0.0 electrumfix.com
 0.0.0.0 electrum.mx
 0.0.0.0 electrumofficial.com
@@ -944,6 +946,7 @@
 0.0.0.0 eth-give.org
 0.0.0.0 eth-giveout.com
 0.0.0.0 ethgiving.000webhostapp.com
+0.0.0.0 eth-giving.com
 0.0.0.0 ethgrab.com
 0.0.0.0 ethiy.com
 0.0.0.0 ethiz.blogspot.com
@@ -1105,6 +1108,7 @@
 0.0.0.0 getfree-neo.blogspot.my
 0.0.0.0 get-geth.com
 0.0.0.0 get-geth.org
+0.0.0.0 getherwallet.com
 0.0.0.0 getmyetho.paperplane.io
 0.0.0.0 get.safepaycoin.com
 0.0.0.0 get-stellar.com
@@ -1378,6 +1382,7 @@
 0.0.0.0 mjyetherwallet.com
 0.0.0.0 mmyetherwallet.com
 0.0.0.0 mnaxy.blogspot.com
+0.0.0.0 mnyetnherwaliet.com
 0.0.0.0 monero-rings.org
 0.0.0.0 monobtc.com
 0.0.0.0 moontrade.org
@@ -1385,6 +1390,7 @@
 0.0.0.0 morphtoken.co
 0.0.0.0 moyblogspor.blogspot.com
 0.0.0.0 moz-extension.link
+0.0.0.0 mqetherwallet.com
 0.0.0.0 mrbeastbtc.info
 0.0.0.0 msetherwallet.com
 0.0.0.0 msyetherwallet.com
@@ -1528,6 +1534,7 @@
 0.0.0.0 myethervallet.000webhostapp.com
 0.0.0.0 myethervallet.com
 0.0.0.0 myethervvallet.com
+0.0.0.0 myethervvallet.org
 0.0.0.0 myetherw2allet.com
 0.0.0.0 myetherw3allet.com
 0.0.0.0 myetherwa11et.com
@@ -1600,6 +1607,7 @@
 0.0.0.0 myetherwallet.com.api5.icu
 0.0.0.0 myetherwallet.com.de
 0.0.0.0 myetherwallet.comim.org
+0.0.0.0 myetherwallet.company
 0.0.0.0 myetherwallet.custom-token.com
 0.0.0.0 myetherwallet.de
 0.0.0.0 myetherwallet.dev
@@ -1944,6 +1952,7 @@
 0.0.0.0 rewards-coin.000webhostapp.com
 0.0.0.0 rifbit.com
 0.0.0.0 riklex.blogspot.com
+0.0.0.0 rippleairdrop.club
 0.0.0.0 ripplebonus.blogspot.com
 0.0.0.0 ripplebounty.blogspot.com
 0.0.0.0 ripple.com.bz
@@ -2100,6 +2109,7 @@
 0.0.0.0 tesla-eth.getforge.io
 0.0.0.0 teslaforfree.wordpress.com
 0.0.0.0 teslagate.top
+0.0.0.0 tesla-gift.club
 0.0.0.0 tesla-gift.com
 0.0.0.0 teslagifts.tumblr.com
 0.0.0.0 tesla-giveaway.getforge.io
@@ -2731,6 +2741,7 @@
 0.0.0.0 www.cz-binance.com
 0.0.0.0 www.czgive.site
 0.0.0.0 www.dai-stablecoin.com
+0.0.0.0 www.daostack-ico.io
 0.0.0.0 www.dashcoinminer.space
 0.0.0.0 www.data-token.com
 0.0.0.0 www.dave-btc.info
@@ -2779,6 +2790,7 @@
 0.0.0.0 www.ecptoken.com
 0.0.0.0 www.electrumapps.com
 0.0.0.0 www.electrumbase.com
+0.0.0.0 www.electrum.bz
 0.0.0.0 www.electrumfix.com
 0.0.0.0 www.electrum.mx
 0.0.0.0 www.electrumofficial.com
@@ -2913,6 +2925,7 @@
 0.0.0.0 www.ethgive.online
 0.0.0.0 www.eth-give.org
 0.0.0.0 www.eth-giveout.com
+0.0.0.0 www.eth-giving.com
 0.0.0.0 www.ethgrab.com
 0.0.0.0 www.ethiy.com
 0.0.0.0 www.ethkd.com
@@ -3016,6 +3029,7 @@
 0.0.0.0 www.get-ethereum.org
 0.0.0.0 www.get-geth.com
 0.0.0.0 www.get-geth.org
+0.0.0.0 www.getherwallet.com
 0.0.0.0 www.get-stellar.com
 0.0.0.0 www.gift-binance.com
 0.0.0.0 www.giftbinance.com
@@ -3204,12 +3218,14 @@
 0.0.0.0 www.miroskii.com
 0.0.0.0 www.mjyetherwallet.com
 0.0.0.0 www.mmyetherwallet.com
+0.0.0.0 www.mnyetnherwaliet.com
 0.0.0.0 www.monero-rings.org
 0.0.0.0 www.monobtc.com
 0.0.0.0 www.moontrade.org
 0.0.0.0 www.more-eth.com
 0.0.0.0 www.morphtoken.co
 0.0.0.0 www.moz-extension.link
+0.0.0.0 www.mqetherwallet.com
 0.0.0.0 www.mrbeastbtc.info
 0.0.0.0 www.msetherwallet.com
 0.0.0.0 www.msyetherwallet.com
@@ -3347,6 +3363,7 @@
 0.0.0.0 www.myethertwallet.com
 0.0.0.0 www.myethervallet.com
 0.0.0.0 www.myethervvallet.com
+0.0.0.0 www.myethervvallet.org
 0.0.0.0 www.myetherw2allet.com
 0.0.0.0 www.myetherw3allet.com
 0.0.0.0 www.myetherwa11et.com
@@ -3408,6 +3425,7 @@
 0.0.0.0 www.my-etherwallet.com
 0.0.0.0 www.myether-wallet.com
 0.0.0.0 wwwmyetherwallet.com
+0.0.0.0 www.myetherwallet.company
 0.0.0.0 www.myetherwallet.de
 0.0.0.0 www.myetherwallet.dev
 0.0.0.0 www.myetherwallet.digital
@@ -3677,6 +3695,7 @@
 0.0.0.0 www.republic-protocol.net
 0.0.0.0 www.reward-crypto.com
 0.0.0.0 www.rifbit.com
+0.0.0.0 www.rippleairdrop.club
 0.0.0.0 www.ripple.expert
 0.0.0.0 www.ripplelabs.space
 0.0.0.0 www.ripple.re
@@ -3793,6 +3812,7 @@
 0.0.0.0 www.teslacoins.club
 0.0.0.0 www.teslaearn.com
 0.0.0.0 www.teslagate.top
+0.0.0.0 www.tesla-gift.club
 0.0.0.0 www.tesla-gift.com
 0.0.0.0 www.teslamining.ltd
 0.0.0.0 www.tesla-musk.net
@@ -4013,6 +4033,7 @@
 0.0.0.0 www.xn--unswap-q9a.com
 0.0.0.0 www.xn--unswap-xk8b.com
 0.0.0.0 www.xrp21.net
+0.0.0.0 www.xrp-airdrop.net
 0.0.0.0 www.xrpdoubler.us
 0.0.0.0 www.xrp.earth
 0.0.0.0 www.xrp-event.com
@@ -4118,6 +4139,7 @@
 0.0.0.0 xn--unswap-xk8b.com
 0.0.0.0 xripplex.tumblr.com
 0.0.0.0 xrp21.net
+0.0.0.0 xrp-airdrop.net
 0.0.0.0 xrpbinan.blogspot.com
 0.0.0.0 xrpbullish.blogspot.com
 0.0.0.0 xrpcontest.tumblr.com
