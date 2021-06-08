@@ -64,19 +64,19 @@
 # 36. Source: 311 - https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareHosts.txt
 # 37. Source: 1192 - https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # 38. Source: 1386 - https://raw.githubusercontent.com/mitchellkrogza/Badd-Boyz-Hosts/master/hosts
-# 39. Source: 1225 - https://urlhaus.abuse.ch/downloads/hostfile/
+# 39. Source: 1238 - https://urlhaus.abuse.ch/downloads/hostfile/
 # 40. Source: 73 - https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Spam/hosts
 # 41. Source: 2556 - https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Risk/hosts
 # 42. Source: 439 - https://raw.githubusercontent.com/Laicure/hosts/master/shithosts
-# #. Source: 829156
+# #. Source: 829169
 
 Statistik multi.txt:
-== Source (unique): 409081
-++ Black:           409320 (+239)
--- White:           406076 (-3244)
--- Dead:            296089 (-109987)
--- Hosts:           296067 (-22)
-++ Block:           296069 (+2)
--- Unblock:         295674 (-395)
-++ WWW-Domains:     342098 (+46424)
-++ FLD-Domains:     342741 (+643)
+== Source (unique): 409079
+++ Black:           409318 (+239)
+-- White:           406074 (-3244)
+-- Dead:            296087 (-109987)
+-- Hosts:           296065 (-22)
+++ Block:           296067 (+2)
+-- Unblock:         295672 (-395)
+++ WWW-Domains:     342092 (+46420)
+++ FLD-Domains:     342735 (+643)
