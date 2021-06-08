@@ -26,7 +26,7 @@
 # Telegram-Gruppe PiHole + Unbound Fans (DACH)
 #                 https://t.me/piholefans_DACH
 # ---------------------------------------------
-# 4134 Domains - 2021.06.08-03:31:36
+# 4134 Domains - 2021.06.08-07:23:21
 # ---------------------------------------------
 #
 0.0.0.0 0978f655-465b-4434-99fb-f8357c7bca4b.htmlpasta.com
@@ -128,7 +128,6 @@
 0.0.0.0 app.uniswap.tokens-airdrop-holders.com
 0.0.0.0 aprilcontest.tumblr.com
 0.0.0.0 april.trade
-0.0.0.0 arbitragecrypto.org
 0.0.0.0 aronum.com
 0.0.0.0 artoken.co
 0.0.0.0 atlantis-wallet.com
@@ -1207,6 +1206,7 @@
 0.0.0.0 idice.epizy.com
 0.0.0.0 iluminatto.com.br
 0.0.0.0 im-creator.com
+0.0.0.0 immvrse.io
 0.0.0.0 indexcryptofx.com
 0.0.0.0 infinances.com
 0.0.0.0 infinitimoney.com
@@ -2091,7 +2091,6 @@
 0.0.0.0 tesla3-now.com
 0.0.0.0 tesla3.org
 0.0.0.0 tesla-btc.info
-0.0.0.0 tesla.bz
 0.0.0.0 tesla.center
 0.0.0.0 teslacoins.club
 0.0.0.0 teslaearn.com
@@ -2347,7 +2346,6 @@
 0.0.0.0 www.app-bittrex.com
 0.0.0.0 www.applegive.club
 0.0.0.0 www.april.trade
-0.0.0.0 www.arbitragecrypto.org
 0.0.0.0 www.aronum.com
 0.0.0.0 www.artoken.co
 0.0.0.0 www.atlantis-wallet.com
@@ -3076,6 +3074,7 @@
 0.0.0.0 www.idex.pw
 0.0.0.0 www.idex.xyz
 0.0.0.0 www.im-creator.com
+0.0.0.0 www.immvrse.io
 0.0.0.0 www.indexcryptofx.com
 0.0.0.0 www.infinances.com
 0.0.0.0 www.infinitimoney.com
@@ -3783,7 +3782,6 @@
 0.0.0.0 www.tesla3-now.com
 0.0.0.0 www.tesla3.org
 0.0.0.0 www.tesla-btc.info
-0.0.0.0 www.tesla.bz
 0.0.0.0 www.tesla.center
 0.0.0.0 www.teslacoins.club
 0.0.0.0 www.teslaearn.com
@@ -3977,6 +3975,7 @@
 0.0.0.0 www.xn--medum-vsa.com
 0.0.0.0 www.xn--metherwallet-qlb.com
 0.0.0.0 www.xn--mxer-qpa.money
+0.0.0.0 www.xn--myetherallt-0k9ejx.com
 0.0.0.0 www.xn--myetherwalet-lcc.com
 0.0.0.0 www.xn--myetherwallt-cfb.com
 0.0.0.0 www.xn--myetherwallt-leb.com
@@ -4081,6 +4080,7 @@
 0.0.0.0 xn--medum-vsa.com
 0.0.0.0 xn--metherwallet-qlb.com
 0.0.0.0 xn--mxer-qpa.money
+0.0.0.0 xn--myetherallt-0k9ejx.com
 0.0.0.0 xn--myetherwalet-lcc.com
 0.0.0.0 xn--myetherwallt-cfb.com
 0.0.0.0 xn--myetherwallt-leb.com
