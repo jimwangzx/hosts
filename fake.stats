@@ -17,19 +17,19 @@
 
 # Hosts: 0
 
-# Whitelist: 22193
-# Deadlist: 368833
+# Whitelist: 22192
+# Deadlist: 368898
 
-# Blacklist: 1682
+# Blacklist: 1675
 
 # 1. Source: 4138 - https://raw.githubusercontent.com/stonecrusher/filterlists-pihole/master/watchlist-internet-ph.txt
 # #. Source: 4138
 
 Statistik fake.txt:
 == Source (unique): 4138
-++ Black:           5818 (+1680)
--- White:           5813 (-5)
--- Dead:            4883 (-930)
--- Unblock:         4883 (-0)
-++ WWW-Domains:     9626 (+4743)
-++ FLD-Domains:     9626 (+0)
+++ Black:           5813 (+1675)
+-- White:           5808 (-5)
+-- Dead:            4876 (-932)
+-- Unblock:         4876 (-0)
+++ WWW-Domains:     9612 (+4736)
+++ FLD-Domains:     9612 (+0)

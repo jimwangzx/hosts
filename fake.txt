@@ -19,13 +19,13 @@
 # Statistik
 # ---------
 #
-# Whitelist: 22193
-# Deadlist: 368833
-# Blacklist: 1682
+# Whitelist: 22192
+# Deadlist: 368898
+# Blacklist: 1675
 # 1. Source: 4138 - https://raw.githubusercontent.com/stonecrusher/filterlists-pihole/master/watchlist-internet-ph.txt
 #
 # ---------------------------------------------
-# 9626 Domains - V2021.06.07-22:31:19
+# 9612 Domains - V2021.06.08-03:32:19
 # ---------------------------------------------
 #
 0.0.0.0 100jahrehochbahn.de
@@ -60,7 +60,6 @@
 0.0.0.0 aaafashion.ru
 0.0.0.0 aaa-handel.net
 0.0.0.0 aacan.site
-0.0.0.0 aaemauleg.com
 0.0.0.0 aalborgfrivilligraad.dk
 0.0.0.0 aandrzej.pl
 0.0.0.0 abaherhat.com
@@ -329,7 +328,6 @@
 0.0.0.0 axa-immo.us
 0.0.0.0 axialgeo.com
 0.0.0.0 axorisshop.com
-0.0.0.0 ayanmartc.com
 0.0.0.0 ayparwebt.com
 0.0.0.0 ayurreadpro.com
 0.0.0.0 aziur.de
@@ -1153,7 +1151,6 @@
 0.0.0.0 dumbbell-fitness.de
 0.0.0.0 dumpingwhale.com
 0.0.0.0 du-und-ich.at
-0.0.0.0 duvanelstore.com
 0.0.0.0 dvdsetstore.com
 0.0.0.0 dvg-hagen-mitte.de
 0.0.0.0 dvshopm.com
@@ -2031,7 +2028,6 @@
 0.0.0.0 hroudra.com
 0.0.0.0 hrs-lassnitzhoehe.at
 0.0.0.0 hsd-installationstechnik.at
-0.0.0.0 hsiaglf.com
 0.0.0.0 htansys.top
 0.0.0.0 hugfirst.com
 0.0.0.0 hulahip.de
@@ -2080,7 +2076,6 @@
 0.0.0.0 idsschweiz.org
 0.0.0.0 id-willhaben.at
 0.0.0.0 iefjcoiefhv.myshopify.com
-0.0.0.0 ielmufid.com
 0.0.0.0 igrt-mbh.de
 0.0.0.0 igulaser.com
 0.0.0.0 ihre-hausverwalter.de
@@ -2536,7 +2531,6 @@
 0.0.0.0 limetree.at
 0.0.0.0 limondo.shop
 0.0.0.0 linearnetrik.de
-0.0.0.0 line-eu.com
 0.0.0.0 line-express-group.com
 0.0.0.0 lingoget.com
 0.0.0.0 linh-nguyen.de
@@ -4446,7 +4440,6 @@
 0.0.0.0 umsatz-generator.de
 0.0.0.0 umshopp.com
 0.0.0.0 umwatchvip.com
-0.0.0.0 umziehen-heppenheim.de
 0.0.0.0 umziehen-in-europa.de
 0.0.0.0 umzug-moedling.at
 0.0.0.0 unabhaengige-verlage.de
@@ -4809,7 +4802,6 @@
 0.0.0.0 www.aaafashion.ru
 0.0.0.0 www.aaa-handel.net
 0.0.0.0 www.aacan.site
-0.0.0.0 www.aaemauleg.com
 0.0.0.0 www.aalborgfrivilligraad.dk
 0.0.0.0 www.aandrzej.pl
 0.0.0.0 www.abaherhat.com
@@ -5073,7 +5065,6 @@
 0.0.0.0 www.axa-immo.us
 0.0.0.0 www.axialgeo.com
 0.0.0.0 www.axorisshop.com
-0.0.0.0 www.ayanmartc.com
 0.0.0.0 www.ayparwebt.com
 0.0.0.0 www.ayurreadpro.com
 0.0.0.0 www.aziur.de
@@ -5860,7 +5851,6 @@
 0.0.0.0 www.dumbbell-fitness.de
 0.0.0.0 www.dumpingwhale.com
 0.0.0.0 www.du-und-ich.at
-0.0.0.0 www.duvanelstore.com
 0.0.0.0 www.dvdsetstore.com
 0.0.0.0 www.dvg-hagen-mitte.de
 0.0.0.0 www.dvshopm.com
@@ -6724,7 +6714,6 @@
 0.0.0.0 www.hroudra.com
 0.0.0.0 www.hrs-lassnitzhoehe.at
 0.0.0.0 www.hsd-installationstechnik.at
-0.0.0.0 www.hsiaglf.com
 0.0.0.0 www.htansys.top
 0.0.0.0 www.hugfirst.com
 0.0.0.0 www.hulahip.de
@@ -6772,7 +6761,6 @@
 0.0.0.0 www.idsgermany.com
 0.0.0.0 www.idsschweiz.org
 0.0.0.0 www.id-willhaben.at
-0.0.0.0 www.ielmufid.com
 0.0.0.0 www.igrt-mbh.de
 0.0.0.0 www.igulaser.com
 0.0.0.0 www.ihre-hausverwalter.de
@@ -7221,7 +7209,6 @@
 0.0.0.0 www.limetree.at
 0.0.0.0 www.limondo.shop
 0.0.0.0 www.linearnetrik.de
-0.0.0.0 www.line-eu.com
 0.0.0.0 www.line-express-group.com
 0.0.0.0 www.lingoget.com
 0.0.0.0 www.linh-nguyen.de
@@ -9070,7 +9057,6 @@
 0.0.0.0 www.umsatz-generator.de
 0.0.0.0 www.umshopp.com
 0.0.0.0 www.umwatchvip.com
-0.0.0.0 www.umziehen-heppenheim.de
 0.0.0.0 www.umziehen-in-europa.de
 0.0.0.0 www.umzug-moedling.at
 0.0.0.0 www.unabhaengige-verlage.de
