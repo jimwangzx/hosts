@@ -5,7 +5,7 @@
 # Erstellt zur rein persönlichen, privaten
 # Nutzung.
 #
-# Blockt Telemetrie & Metriken von 
+# Blockt Telemetrie & Metriken von
 # Endgeräten, Diensten und Systemen
 # diverser Hersteller.
 #
@@ -39,15 +39,19 @@
 #
 # Huawei
 #
-0.0.0.0 grs.dbankcloud.asia 
-0.0.0.0 grs.dbankcloud.cn 
-0.0.0.0 grs.dbankcloud.com 
-0.0.0.0 grs.dbankcloud.eu 
+0.0.0.0 data.hicloud.com
+0.0.0.0 datacollector-drru.dt.hicloud.com
+0.0.0.0 grs.dbankcloud.asia
+0.0.0.0 grs.dbankcloud.cn
+0.0.0.0 grs.dbankcloud.com
 0.0.0.0 logbak.hicloud.com
+0.0.0.0 logservice-dra.platform.hicloud.com
 0.0.0.0 logservice.hicloud.com
 0.0.0.0 logservice1.hicloud.com
+0.0.0.0 logtransform.hicloud.com
 0.0.0.0 metrics-dra.dt.hicloud.com
 0.0.0.0 metrics.data.hicloud.com
+0.0.0.0 metrics.dt.hicloud.com
 0.0.0.0 metrics1.data.hicloud.com
 0.0.0.0 metrics2.data.hicloud.com
 0.0.0.0 metrics3.data.hicloud.com
@@ -97,6 +101,28 @@
 0.0.0.0 samsungads.com
 0.0.0.0 smetrics.samsung.com
 #
+# Snapchat
+#
+0.0.0.0 ad-center.snapchat.com
+0.0.0.0 ads.snapchat.com
+0.0.0.0 adsapi.snapchat.com
+0.0.0.0 adsapi2.snapchat.com
+0.0.0.0 adsapimus.snapchat.com
+0.0.0.0 advertising.snapchat.com
+0.0.0.0 app-analytics-v2.snapchat.com
+0.0.0.0 app-analytics.snapchat.com
+0.0.0.0 content-insights-revenue.snapchat.com
+0.0.0.0 intg.snapchat.com
+0.0.0.0 learn.advertising.snapchat.com
+0.0.0.0 omnicollector.snapchat.com
+0.0.0.0 pro-insights.snapchat.com
+0.0.0.0 rtam-collector.snapchat.com
+0.0.0.0 server-analytics.snapchat.com
+0.0.0.0 staging.app-analytics.snapchat.com
+0.0.0.0 staging.server-analytics.snapchat.com
+0.0.0.0 story-insights.snapchat.com
+0.0.0.0 tr.snapchat.com
+#
 # Sonos
 #
 0.0.0.0 msmetrics-test.ws.sonos.com
@@ -111,6 +137,17 @@
 0.0.0.0 ssm1.internet.sony.tv
 0.0.0.0 ssm2.internet.sony.tv
 0.0.0.0 ssm3.internet.sony.tv
+#
+# Tiktok
+#
+0.0.0.0 log-va.tiktokv.com
+0.0.0.0 log.tiktokv.com
+0.0.0.0 mcs-va.tiktokv.com
+0.0.0.0 mon-va.tiktokv.com
+0.0.0.0 mon.tiktokv.com
+0.0.0.0 rtlog.tiktokv.com
+0.0.0.0 xlog-va.tiktokv.com
+0.0.0.0 xlog.tiktokv.com
 #
 # Microsoft
 #
