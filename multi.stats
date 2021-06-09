@@ -62,22 +62,23 @@
 # 34. Source: 3548 - https://zerodot1.gitlab.io/CoinBlockerLists/hosts_browser
 # 35. Source: 82070 - https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
 # 36. Source: 248950 - https://raw.githubusercontent.com/notracking/hosts-blocklists/master/hostnames.txt
-# 37. Source: 311 - https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareHosts.txt
-# 38. Source: 1181 - https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
-# 39. Source: 1386 - https://raw.githubusercontent.com/mitchellkrogza/Badd-Boyz-Hosts/master/hosts
-# 40. Source: 1370 - https://urlhaus.abuse.ch/downloads/hostfile/
-# 41. Source: 73 - https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Spam/hosts
-# 42. Source: 2556 - https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Risk/hosts
-# 43. Source: 439 - https://raw.githubusercontent.com/Laicure/hosts/master/shithosts
-# #. Source: 925201
+# 37. Source: 21935 - https://raw.githubusercontent.com/PolishFiltersTeam/KADhosts/master/KADhosts.txt
+# 38. Source: 311 - https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareHosts.txt
+# 39. Source: 1181 - https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
+# 40. Source: 1386 - https://raw.githubusercontent.com/mitchellkrogza/Badd-Boyz-Hosts/master/hosts
+# 41. Source: 1366 - https://urlhaus.abuse.ch/downloads/hostfile/
+# 42. Source: 73 - https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Spam/hosts
+# 43. Source: 2556 - https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Risk/hosts
+# 44. Source: 439 - https://raw.githubusercontent.com/Laicure/hosts/master/shithosts
+# #. Source: 947132
 
 Statistik multi.txt:
-== Source (unique): 427620
-++ Black:           428856 (+1236)
--- White:           425515 (-3341)
--- Dead:            302720 (-122795)
--- Hosts:           302696 (-24)
-++ Block:           302698 (+2)
--- Unblock:         302280 (-418)
-++ WWW-Domains:     348597 (+46317)
-++ FLD-Domains:     349288 (+691)
+== Source (unique): 427636
+++ Black:           428872 (+1236)
+-- White:           425531 (-3341)
+-- Dead:            302735 (-122796)
+-- Hosts:           302711 (-24)
+++ Block:           302713 (+2)
+-- Unblock:         302295 (-418)
+++ WWW-Domains:     348611 (+46316)
+++ FLD-Domains:     349301 (+690)
