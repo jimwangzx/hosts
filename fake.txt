@@ -19,13 +19,13 @@
 # Statistik
 # ---------
 #
-# Whitelist: 22192
-# Deadlist: 368898
-# Blacklist: 1675
+# Whitelist: 22199
+# Deadlist: 367729
+# Blacklist: 1679
 # 1. Source: 4138 - https://raw.githubusercontent.com/stonecrusher/filterlists-pihole/master/watchlist-internet-ph.txt
 #
 # ---------------------------------------------
-# 9612 Domains - V2021.06.08-03:32:19
+# 9616 Domains - V2021.06.09-22:04:33
 # ---------------------------------------------
 #
 0.0.0.0 100jahrehochbahn.de
@@ -2119,6 +2119,7 @@
 0.0.0.0 ing-ruecker.de
 0.0.0.0 inheing.com
 0.0.0.0 inhomepi.com
+0.0.0.0 inkjet.de
 0.0.0.0 ink-production.de
 0.0.0.0 innocook-pro.com
 0.0.0.0 inoplay.de
@@ -2941,6 +2942,7 @@
 0.0.0.0 moongor.com
 0.0.0.0 moonplay.de
 0.0.0.0 mooplay.de
+0.0.0.0 mooxy.de
 0.0.0.0 moozin.de
 0.0.0.0 morbidtales.de
 0.0.0.0 morgentau-media.de
@@ -6804,6 +6806,7 @@
 0.0.0.0 www.ing-ruecker.de
 0.0.0.0 www.inheing.com
 0.0.0.0 www.inhomepi.com
+0.0.0.0 www.inkjet.de
 0.0.0.0 www.ink-production.de
 0.0.0.0 www.innocook-pro.com
 0.0.0.0 www.inoplay.de
@@ -7597,6 +7600,7 @@
 0.0.0.0 www.moongor.com
 0.0.0.0 www.moonplay.de
 0.0.0.0 www.mooplay.de
+0.0.0.0 www.mooxy.de
 0.0.0.0 www.moozin.de
 0.0.0.0 www.morbidtales.de
 0.0.0.0 www.morgentau-media.de
