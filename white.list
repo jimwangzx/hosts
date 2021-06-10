@@ -68,6 +68,8 @@ v20.events.data.microsoft.com
 ichnaea.netflix.com
 nrdp.prod.ftl.netflix.com
 push.prod.netflix.com
+customerevents.netflix.com
+dualstack.beaconserver-ce-vpc0-1537565064.eu-west-1.elb.amazonaws.com
 
 # Nintendo
 image.ccg.nintendo.net
