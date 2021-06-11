@@ -1,0 +1,32 @@
+# ---------------------------------------------
+# Zelo*s "Affiliate & Tracking" Blockliste
+# ---------------------------------------------
+#
+# Erstellt zur rein persönlichen, privaten
+# Nutzung.
+#
+# Blockt Werbung und Tracking (+Ad-Links).
+#
+# ---------------------------------------------
+# GitHub: https://github.com/Zelo72
+# Mail:   zelo72@dismail.de
+# ---------------------------------------------
+# Telegram-Gruppe PiHole + Unbound Fans (DACH)
+#                 https://t.me/piholefans_DACH
+# ---------------------------------------------
+
+# Hosts: 0
+
+# Whitelist: 0
+# Deadlist: 0
+
+# Blacklist: 0
+
+# 1. Source: 180 - https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/data/ads_tracking.txt
+# 2. Source: 422 - https://raw.githubusercontent.com/nextdns/metadata/master/privacy/affiliate-tracking-domains
+# #. Source: 602
+
+Statistik affiliatetracking.txt:
+== Source (unique): 596
+++ WWW-Domains:     647 (+51)
+++ FLD-Domains:     650 (+3)
