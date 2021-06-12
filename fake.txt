@@ -19,13 +19,13 @@
 # Statistik
 # ---------
 #
-# Whitelist: 22133
-# Deadlist: 356782
+# Whitelist: 13199
+# Deadlist: 334797
 # Blacklist: 1677
 # 1. Source: 4230 - https://raw.githubusercontent.com/stonecrusher/filterlists-pihole/master/watchlist-internet-ph.txt
 #
 # ---------------------------------------------
-# 9793 Domains - V2021.06.11-03:32:05
+# 9795 Domains - V2021.06.12-08:34:55
 # ---------------------------------------------
 #
 0.0.0.0 100jahrehochbahn.de
@@ -2567,6 +2567,7 @@
 0.0.0.0 liftr.eu
 0.0.0.0 lighteu.de
 0.0.0.0 lightflix.de
+0.0.0.0 lightinthebox.com
 0.0.0.0 likelymore.com
 0.0.0.0 likelymorely.com
 0.0.0.0 lilabogen.de
@@ -7335,6 +7336,7 @@
 0.0.0.0 www.liftr.eu
 0.0.0.0 www.lighteu.de
 0.0.0.0 www.lightflix.de
+0.0.0.0 www.lightinthebox.com
 0.0.0.0 www.likelymore.com
 0.0.0.0 www.likelymorely.com
 0.0.0.0 www.lilabogen.de
