@@ -20,6 +20,8 @@ sb.scorecardresearch.com
 
 # Apple
 stats.gc.apple.com
+ocsp.apple.com
+ocsp2.apple.com
 
 # Cookies (Spiegel/...)
 cdn.cookielaw.org
