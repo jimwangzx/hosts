@@ -28,6 +28,7 @@
 0.0.0.0 books-analytics-events.apple.com
 0.0.0.0 books-analytics-events.news.apple-dns.net
 0.0.0.0 dzc-metrics.mzstatic.com
+0.0.0.0 iadsdk.apple.com
 0.0.0.0 metrics.apple.com
 0.0.0.0 metrics.icloud.com
 0.0.0.0 metrics.mzstatic.com
@@ -36,6 +37,10 @@
 0.0.0.0 stocks-analytics-events.news.apple-dns.net
 0.0.0.0 supportmetrics.apple.com
 0.0.0.0 trackingshipment.apple.com
+#
+# Google
+#
+0.0.0.0 app-measurement.com
 #
 # Huawei
 #
@@ -108,20 +113,26 @@
 0.0.0.0 adsapi.snapchat.com
 0.0.0.0 adsapi2.snapchat.com
 0.0.0.0 adsapimus.snapchat.com
+0.0.0.0 adserver.snapads.com
 0.0.0.0 advertising.snapchat.com
 0.0.0.0 app-analytics-v2.snapchat.com
 0.0.0.0 app-analytics.snapchat.com
+0.0.0.0 app-analytics.snapchat.com
+0.0.0.0 ase.adserver.snapads.com
 0.0.0.0 content-insights-revenue.snapchat.com
+0.0.0.0 euw.adserver.snapads.com
 0.0.0.0 intg.snapchat.com
 0.0.0.0 learn.advertising.snapchat.com
 0.0.0.0 omnicollector.snapchat.com
 0.0.0.0 pro-insights.snapchat.com
 0.0.0.0 rtam-collector.snapchat.com
+0.0.0.0 sc-analytics.appspot.com
 0.0.0.0 server-analytics.snapchat.com
 0.0.0.0 staging.app-analytics.snapchat.com
 0.0.0.0 staging.server-analytics.snapchat.com
 0.0.0.0 story-insights.snapchat.com
 0.0.0.0 tr.snapchat.com
+0.0.0.0 usc.adserver.snapads.com
 #
 # Sonos
 #
@@ -205,6 +216,7 @@
 #
 0.0.0.0 dit.whatsapp.net
 0.0.0.0 privatestats.whatsapp.net
+0.0.0.0 crashlogs.whatsapp.net
 #
 # Xiaomi
 #
