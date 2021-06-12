@@ -34,7 +34,6 @@
 0.0.0.0 metrics.apple.com
 0.0.0.0 metrics.icloud.com
 0.0.0.0 metrics.mzstatic.com
-0.0.0.0 ocsp2.apple.com
 0.0.0.0 notes-analytics-events.apple.com
 0.0.0.0 securemetrics.apple.com
 0.0.0.0 stocks-analytics-events.apple.com
