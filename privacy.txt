@@ -27,16 +27,28 @@
 #
 0.0.0.0 books-analytics-events.apple.com
 0.0.0.0 books-analytics-events.news.apple-dns.net
+0.0.0.0 ca.iadsdk.apple.com
+0.0.0.0 cf.iadsdk.apple.com
 0.0.0.0 dzc-metrics.mzstatic.com
 0.0.0.0 iadsdk.apple.com
 0.0.0.0 metrics.apple.com
 0.0.0.0 metrics.icloud.com
 0.0.0.0 metrics.mzstatic.com
+0.0.0.0 ocsp2.apple.com
+0.0.0.0 notes-analytics-events.apple.com
 0.0.0.0 securemetrics.apple.com
 0.0.0.0 stocks-analytics-events.apple.com
 0.0.0.0 stocks-analytics-events.news.apple-dns.net
 0.0.0.0 supportmetrics.apple.com
 0.0.0.0 trackingshipment.apple.com
+0.0.0.0 tr.iadsdk.apple.com
+0.0.0.0 weather-analytics-events.apple.com
+#
+# Crashlytics
+#
+0.0.0.0 crashlyticsreports-pa.googleapis.com
+0.0.0.0 firebase-settings.crashlytics.com
+0.0.0.0 settings.crashlytics.com
 #
 # Google
 #
