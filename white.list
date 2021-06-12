@@ -56,6 +56,14 @@ ssl.google-analytics.com
 www-google-analytics.l.google.com
 www-googletagmanager.l.google.com
 
+# Kicker Mobile App
+interaction.apester.com
+img.apester.com
+static.apester.com
+events.apester.com
+display.apester.com
+renderer.apester.com
+
 # Microsoft
 arc.msn.com
 browser.pipe.aria.microsoft.com
