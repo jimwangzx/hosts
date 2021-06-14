@@ -34,20 +34,23 @@
 0.0.0.0 metrics.apple.com
 0.0.0.0 metrics.icloud.com
 0.0.0.0 metrics.mzstatic.com
+0.0.0.0 news.iadsdk.apple.com
 0.0.0.0 notes-analytics-events.apple.com
 0.0.0.0 securemetrics.apple.com
 0.0.0.0 stocks-analytics-events.apple.com
 0.0.0.0 stocks-analytics-events.news.apple-dns.net
+0.0.0.0 su.iadsdk.apple.com
 0.0.0.0 supportmetrics.apple.com
-0.0.0.0 trackingshipment.apple.com
 0.0.0.0 tr.iadsdk.apple.com
+0.0.0.0 trackingshipment.apple.com
+0.0.0.0 ut.iadsdk.apple.com
 0.0.0.0 weather-analytics-events.apple.com
+0.0.0.0 www.iadsdk.apple.com
 #
 # Crashlytics
 #
 0.0.0.0 crashlyticsreports-pa.googleapis.com
 0.0.0.0 firebase-settings.crashlytics.com
-0.0.0.0 settings.crashlytics.com
 #
 # Google
 #
@@ -109,12 +112,15 @@
 0.0.0.0 ad.samsungadhub.com
 0.0.0.0 analytics-api.samsunghealthcn.com
 0.0.0.0 analytics.samsungknox.com
+0.0.0.0 bldr.mkt.samsung.com
+0.0.0.0 channelusa.samsung.com
 0.0.0.0 config.samsungads.com
 0.0.0.0 insights.samsung.com
 0.0.0.0 nmetrics.samsung.com
 0.0.0.0 samsung-com.112.2o7.net
 0.0.0.0 samsungadhub.com
 0.0.0.0 samsungads.com
+0.0.0.0 seao.business.samsung.com
 0.0.0.0 smetrics.samsung.com
 #
 # Snapchat
