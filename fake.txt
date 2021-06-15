@@ -19,13 +19,13 @@
 # Statistik
 # ---------
 #
-# Whitelist: 22238
-# Deadlist: 329403
-# Blacklist: 1673
+# Whitelist: 13331
+# Deadlist: 332557
+# Blacklist: 1677
 # 1. Source: 4230 - https://raw.githubusercontent.com/stonecrusher/filterlists-pihole/master/watchlist-internet-ph.txt
 #
 # ---------------------------------------------
-# 9793 Domains - V2021.06.14-13:41:13
+# 9775 Domains - V2021.06.15-11:30:48
 # ---------------------------------------------
 #
 0.0.0.0 100jahrehochbahn.de
@@ -199,7 +199,6 @@
 0.0.0.0 ament.at
 0.0.0.0 amicale-des-alberes.fr
 0.0.0.0 amirhpc.com
-0.0.0.0 amorehill.com
 0.0.0.0 ams-markt.de
 0.0.0.0 anabolenkopen24.nl
 0.0.0.0 anabolika24.biz
@@ -428,7 +427,6 @@
 0.0.0.0 belstaffofficial.com
 0.0.0.0 bemoplay.de
 0.0.0.0 bene-taichi.at
-0.0.0.0 benoza-mode.de
 0.0.0.0 beratungs-werkstatt-dortmund.de
 0.0.0.0 bercasa.de
 0.0.0.0 bergmannsschach.at
@@ -738,7 +736,6 @@
 0.0.0.0 celondo.de
 0.0.0.0 cem-bulut.de
 0.0.0.0 centocanti.it
-0.0.0.0 century-21.uk
 0.0.0.0 cesar-klein-schule.de
 0.0.0.0 cesvovpertutti.it
 0.0.0.0 cfcs.co.uk
@@ -1052,9 +1049,11 @@
 0.0.0.0 dexia-hyp.de
 0.0.0.0 dezuu.at
 0.0.0.0 dgsys.de
+0.0.0.0 dh-immobilien.at
 0.0.0.0 dhk-transport.com
 0.0.0.0 didi-tec.de
 0.0.0.0 didplay.de
+0.0.0.0 didro.de
 0.0.0.0 diebestenparfums.xyz
 0.0.0.0 dienst-elektronischer.com
 0.0.0.0 dieretrokonsole.com
@@ -1063,6 +1062,7 @@
 0.0.0.0 dietnr1.com
 0.0.0.0 diezweigrafikdesign.at
 0.0.0.0 differenta.com
+0.0.0.0 diggedidope.de
 0.0.0.0 digitalakku.de
 0.0.0.0 digitale-einreiseanmeldung.de
 0.0.0.0 digital-restock.com
@@ -1270,7 +1270,6 @@
 0.0.0.0 elektronius.com
 0.0.0.0 elektronius.eu
 0.0.0.0 elektronlinestore.com
-0.0.0.0 elektrono24.de
 0.0.0.0 elektropanda.de
 0.0.0.0 elektro-parc.de
 0.0.0.0 elektro-polar.de
@@ -1306,7 +1305,6 @@
 0.0.0.0 ellerne.com
 0.0.0.0 elleslife.com
 0.0.0.0 ellmauplus.at
-0.0.0.0 elmiracolo.store
 0.0.0.0 elmodis.de
 0.0.0.0 elobuy.net
 0.0.0.0 eloquentika.de
@@ -1469,6 +1467,7 @@
 0.0.0.0 favwearj.com
 0.0.0.0 fazzporn.top
 0.0.0.0 fcirlich.de
+0.0.0.0 fc-pflaumloch.de
 0.0.0.0 fctraunstein.de
 0.0.0.0 fdachdeck.com
 0.0.0.0 febsale.com
@@ -1610,7 +1609,6 @@
 0.0.0.0 frohzeit.de
 0.0.0.0 froplay.de
 0.0.0.0 fruchtpresse.at
-0.0.0.0 ftm-soryn-kg.at
 0.0.0.0 ftx-store.de
 0.0.0.0 fuehrerscheinfabrik.com
 0.0.0.0 fuehrungszeugnis-online-beantragen.de
@@ -2009,7 +2007,6 @@
 0.0.0.0 hockerty.de
 0.0.0.0 hockeyinvest.de
 0.0.0.0 hoerstern.at
-0.0.0.0 hof-hicken.de
 0.0.0.0 hog-honigberg.de
 0.0.0.0 hoisingtonshop.com
 0.0.0.0 hokaoneoneosterreich.at
@@ -2054,7 +2051,6 @@
 0.0.0.0 hotelsofnewyorkcity.net
 0.0.0.0 hotliky.com
 0.0.0.0 hotpremiumdate.de
-0.0.0.0 hottrendtou.com
 0.0.0.0 hounony.com
 0.0.0.0 housetdi.com
 0.0.0.0 houssyn-store.com
@@ -2101,7 +2097,6 @@
 0.0.0.0 icgproducts.net
 0.0.0.0 ich-creativ.de
 0.0.0.0 ichhabe-ichwill.at
-0.0.0.0 ichingliu.com
 0.0.0.0 icinden.at
 0.0.0.0 icm-consulting.de
 0.0.0.0 iconstoretv.com
@@ -2204,7 +2199,6 @@
 0.0.0.0 itcloth.net
 0.0.0.0 itc-schwarz.de
 0.0.0.0 i-translogistics.com
-0.0.0.0 iubqx.com
 0.0.0.0 iued.ch
 0.0.0.0 iva-mihanovic-sopran.de
 0.0.0.0 ivcuafuku.com
@@ -2271,6 +2265,7 @@
 0.0.0.0 judyandpunch.de
 0.0.0.0 juechuang.cc
 0.0.0.0 juengling-karcher.de
+0.0.0.0 julianeh.de
 0.0.0.0 julia-rothmann.de
 0.0.0.0 julias-jinan.de
 0.0.0.0 julireh.com
@@ -2304,6 +2299,7 @@
 0.0.0.0 kaltesbroetchen.de
 0.0.0.0 kaluxo.de
 0.0.0.0 kamagrabestellen.shop
+0.0.0.0 kameraexperten.de
 0.0.0.0 kaminfegerriediker.ch
 0.0.0.0 kandiny.com
 0.0.0.0 kandiny.de
@@ -2540,7 +2536,6 @@
 0.0.0.0 letsgric.myshopify.com
 0.0.0.0 lets-schmitt-it.de
 0.0.0.0 leuchtendeeule.de
-0.0.0.0 levas24.de
 0.0.0.0 lexflix.de
 0.0.0.0 lfidsor.com
 0.0.0.0 lfimicc.com
@@ -2567,6 +2562,7 @@
 0.0.0.0 liftr.eu
 0.0.0.0 lighteu.de
 0.0.0.0 lightflix.de
+0.0.0.0 lightinthebox.com
 0.0.0.0 likelymore.com
 0.0.0.0 likelymorely.com
 0.0.0.0 lilabogen.de
@@ -2642,7 +2638,6 @@
 0.0.0.0 luluestore.com
 0.0.0.0 lumilights.de
 0.0.0.0 lunavelvets.com
-0.0.0.0 lunestedter-gewerbeverein.de
 0.0.0.0 luppo.at
 0.0.0.0 lushdream.de
 0.0.0.0 luskepoker.com
@@ -2728,6 +2723,7 @@
 0.0.0.0 maroplay.de
 0.0.0.0 marosina.at
 0.0.0.0 martens-elektro.de
+0.0.0.0 marti-bosom.de
 0.0.0.0 marti-bosom.net
 0.0.0.0 martyritaville.com
 0.0.0.0 marvinmartin.de
@@ -2756,7 +2752,6 @@
 0.0.0.0 mediafritz.com
 0.0.0.0 media-haushalt.de
 0.0.0.0 media-hungry.de
-0.0.0.0 media-kaufhaus.de
 0.0.0.0 medialovers.de
 0.0.0.0 media-marktonline.com
 0.0.0.0 mediamartinsen.de
@@ -3607,6 +3602,7 @@
 0.0.0.0 qsaney.com
 0.0.0.0 quaestus.at
 0.0.0.0 quantheco.com
+0.0.0.0 quantomator.de
 0.0.0.0 queeneva.com
 0.0.0.0 quick-ebuyer.com
 0.0.0.0 qv-salzburg.at
@@ -3728,7 +3724,6 @@
 0.0.0.0 ritterplanvienna.at
 0.0.0.0 rkzhb.com
 0.0.0.0 rlhfirmh.com
-0.0.0.0 rnthaulage.com
 0.0.0.0 robolectro.de
 0.0.0.0 robuxforyou.info
 0.0.0.0 rockactivestore.com
@@ -3975,7 +3970,6 @@
 0.0.0.0 sisterok.de
 0.0.0.0 sj-steyr.at
 0.0.0.0 skateabalooza.at
-0.0.0.0 skechersdamen.at
 0.0.0.0 skechersosterreich.at
 0.0.0.0 skinrockfur.de
 0.0.0.0 skrum.at
@@ -4442,7 +4436,6 @@
 0.0.0.0 trendy-gadgets.net
 0.0.0.0 trendypreis.at
 0.0.0.0 trendypreis.de
-0.0.0.0 trendyshopvip.com
 0.0.0.0 tretrollerladen.de
 0.0.0.0 triangle-ink.de
 0.0.0.0 trikotsale.de
@@ -4591,7 +4584,6 @@
 0.0.0.0 vdd-osnabrueck.de
 0.0.0.0 vds-delivery.net
 0.0.0.0 veganfoodie.de
-0.0.0.0 veggiemuscles.de
 0.0.0.0 velenza.de
 0.0.0.0 veloberlin.de
 0.0.0.0 velurio.com
@@ -5029,7 +5021,6 @@
 0.0.0.0 www.ament.at
 0.0.0.0 www.amicale-des-alberes.fr
 0.0.0.0 www.amirhpc.com
-0.0.0.0 www.amorehill.com
 0.0.0.0 www.ams-markt.de
 0.0.0.0 www.anabolenkopen24.nl
 0.0.0.0 www.anabolika24.biz
@@ -5253,7 +5244,6 @@
 0.0.0.0 www.belstaffofficial.com
 0.0.0.0 www.bemoplay.de
 0.0.0.0 www.bene-taichi.at
-0.0.0.0 www.benoza-mode.de
 0.0.0.0 www.beratungs-werkstatt-dortmund.de
 0.0.0.0 www.bercasa.de
 0.0.0.0 www.bergmannsschach.at
@@ -5551,7 +5541,6 @@
 0.0.0.0 www.celondo.de
 0.0.0.0 www.cem-bulut.de
 0.0.0.0 www.centocanti.it
-0.0.0.0 www.century-21.uk
 0.0.0.0 www.cesar-klein-schule.de
 0.0.0.0 www.cesvovpertutti.it
 0.0.0.0 www.cfundemy.com
@@ -5845,9 +5834,11 @@
 0.0.0.0 www.dexia-hyp.de
 0.0.0.0 www.dezuu.at
 0.0.0.0 www.dgsys.de
+0.0.0.0 www.dh-immobilien.at
 0.0.0.0 www.dhk-transport.com
 0.0.0.0 www.didi-tec.de
 0.0.0.0 www.didplay.de
+0.0.0.0 www.didro.de
 0.0.0.0 www.diebestenparfums.xyz
 0.0.0.0 www.dienst-elektronischer.com
 0.0.0.0 www.dieretrokonsole.com
@@ -5856,6 +5847,7 @@
 0.0.0.0 www.dietnr1.com
 0.0.0.0 www.diezweigrafikdesign.at
 0.0.0.0 www.differenta.com
+0.0.0.0 www.diggedidope.de
 0.0.0.0 www.digitalakku.de
 0.0.0.0 www.digitale-einreiseanmeldung.de
 0.0.0.0 www.digital-restock.com
@@ -6060,7 +6052,6 @@
 0.0.0.0 www.elektronius.com
 0.0.0.0 www.elektronius.eu
 0.0.0.0 www.elektronlinestore.com
-0.0.0.0 www.elektrono24.de
 0.0.0.0 www.elektropanda.de
 0.0.0.0 www.elektro-parc.de
 0.0.0.0 www.elektro-polar.de
@@ -6096,7 +6087,6 @@
 0.0.0.0 www.ellerne.com
 0.0.0.0 www.elleslife.com
 0.0.0.0 www.ellmauplus.at
-0.0.0.0 www.elmiracolo.store
 0.0.0.0 www.elmodis.de
 0.0.0.0 www.elobuy.net
 0.0.0.0 www.eloquentika.de
@@ -6253,6 +6243,7 @@
 0.0.0.0 www.favwearj.com
 0.0.0.0 www.fazzporn.top
 0.0.0.0 www.fcirlich.de
+0.0.0.0 www.fc-pflaumloch.de
 0.0.0.0 www.fctraunstein.de
 0.0.0.0 www.fdachdeck.com
 0.0.0.0 www.febsale.com
@@ -6393,7 +6384,6 @@
 0.0.0.0 www.frohzeit.de
 0.0.0.0 www.froplay.de
 0.0.0.0 www.fruchtpresse.at
-0.0.0.0 www.ftm-soryn-kg.at
 0.0.0.0 www.ftx-store.de
 0.0.0.0 www.fuehrerscheinfabrik.com
 0.0.0.0 www.fuehrungszeugnis-online-beantragen.de
@@ -6787,7 +6777,6 @@
 0.0.0.0 www.hockerty.de
 0.0.0.0 www.hockeyinvest.de
 0.0.0.0 www.hoerstern.at
-0.0.0.0 www.hof-hicken.de
 0.0.0.0 www.hog-honigberg.de
 0.0.0.0 www.hoisingtonshop.com
 0.0.0.0 www.hokaoneoneosterreich.at
@@ -6830,7 +6819,6 @@
 0.0.0.0 www.hotelsofnewyorkcity.net
 0.0.0.0 www.hotliky.com
 0.0.0.0 www.hotpremiumdate.de
-0.0.0.0 www.hottrendtou.com
 0.0.0.0 www.hounony.com
 0.0.0.0 www.housetdi.com
 0.0.0.0 www.houssyn-store.com
@@ -6877,7 +6865,6 @@
 0.0.0.0 www.icgproducts.net
 0.0.0.0 www.ich-creativ.de
 0.0.0.0 www.ichhabe-ichwill.at
-0.0.0.0 www.ichingliu.com
 0.0.0.0 www.icinden.at
 0.0.0.0 www.icm-consulting.de
 0.0.0.0 www.iconstoretv.com
@@ -6978,7 +6965,6 @@
 0.0.0.0 www.itcloth.net
 0.0.0.0 www.itc-schwarz.de
 0.0.0.0 www.i-translogistics.com
-0.0.0.0 www.iubqx.com
 0.0.0.0 www.iued.ch
 0.0.0.0 www.iva-mihanovic-sopran.de
 0.0.0.0 www.ivcuafuku.com
@@ -7045,6 +7031,7 @@
 0.0.0.0 www.judyandpunch.de
 0.0.0.0 www.juechuang.cc
 0.0.0.0 www.juengling-karcher.de
+0.0.0.0 www.julianeh.de
 0.0.0.0 www.julia-rothmann.de
 0.0.0.0 www.julias-jinan.de
 0.0.0.0 www.julireh.com
@@ -7078,6 +7065,7 @@
 0.0.0.0 www.kaltesbroetchen.de
 0.0.0.0 www.kaluxo.de
 0.0.0.0 www.kamagrabestellen.shop
+0.0.0.0 www.kameraexperten.de
 0.0.0.0 www.kaminfegerriediker.ch
 0.0.0.0 www.kandiny.com
 0.0.0.0 www.kandiny.de
@@ -7309,7 +7297,6 @@
 0.0.0.0 www.letscomfy.de
 0.0.0.0 www.lets-schmitt-it.de
 0.0.0.0 www.leuchtendeeule.de
-0.0.0.0 www.levas24.de
 0.0.0.0 www.lexflix.de
 0.0.0.0 www.lfidsor.com
 0.0.0.0 www.lfimicc.com
@@ -7335,6 +7322,7 @@
 0.0.0.0 www.liftr.eu
 0.0.0.0 www.lighteu.de
 0.0.0.0 www.lightflix.de
+0.0.0.0 www.lightinthebox.com
 0.0.0.0 www.likelymore.com
 0.0.0.0 www.likelymorely.com
 0.0.0.0 www.lilabogen.de
@@ -7409,7 +7397,6 @@
 0.0.0.0 www.luluestore.com
 0.0.0.0 www.lumilights.de
 0.0.0.0 www.lunavelvets.com
-0.0.0.0 www.lunestedter-gewerbeverein.de
 0.0.0.0 www.luppo.at
 0.0.0.0 www.lushdream.de
 0.0.0.0 www.luskepoker.com
@@ -7494,6 +7481,7 @@
 0.0.0.0 www.maroplay.de
 0.0.0.0 www.marosina.at
 0.0.0.0 www.martens-elektro.de
+0.0.0.0 www.marti-bosom.de
 0.0.0.0 www.marti-bosom.net
 0.0.0.0 www.martyritaville.com
 0.0.0.0 www.marvinmartin.de
@@ -7522,7 +7510,6 @@
 0.0.0.0 www.mediafritz.com
 0.0.0.0 www.media-haushalt.de
 0.0.0.0 www.media-hungry.de
-0.0.0.0 www.media-kaufhaus.de
 0.0.0.0 www.medialovers.de
 0.0.0.0 www.media-marktonline.com
 0.0.0.0 www.mediamartinsen.de
@@ -8336,6 +8323,7 @@
 0.0.0.0 www.qsaney.com
 0.0.0.0 www.quaestus.at
 0.0.0.0 www.quantheco.com
+0.0.0.0 www.quantomator.de
 0.0.0.0 www.queeneva.com
 0.0.0.0 www.quick-ebuyer.com
 0.0.0.0 www.qv-salzburg.at
@@ -8456,7 +8444,6 @@
 0.0.0.0 www.ritterplanvienna.at
 0.0.0.0 www.rkzhb.com
 0.0.0.0 www.rlhfirmh.com
-0.0.0.0 www.rnthaulage.com
 0.0.0.0 www.robolectro.de
 0.0.0.0 www.robuxforyou.info
 0.0.0.0 www.rockactivestore.com
@@ -8698,7 +8685,6 @@
 0.0.0.0 www.sisterok.de
 0.0.0.0 www.sj-steyr.at
 0.0.0.0 www.skateabalooza.at
-0.0.0.0 www.skechersdamen.at
 0.0.0.0 www.skechersosterreich.at
 0.0.0.0 www.skinrockfur.de
 0.0.0.0 www.skrum.at
@@ -9158,7 +9144,6 @@
 0.0.0.0 www.trendy-gadgets.net
 0.0.0.0 www.trendypreis.at
 0.0.0.0 www.trendypreis.de
-0.0.0.0 www.trendyshopvip.com
 0.0.0.0 www.tretrollerladen.de
 0.0.0.0 www.triangle-ink.de
 0.0.0.0 www.trikotsale.de
@@ -9296,7 +9281,6 @@
 0.0.0.0 www.vdd-osnabrueck.de
 0.0.0.0 www.vds-delivery.net
 0.0.0.0 www.veganfoodie.de
-0.0.0.0 www.veggiemuscles.de
 0.0.0.0 www.velenza.de
 0.0.0.0 www.veloberlin.de
 0.0.0.0 www.velurio.com
@@ -9602,7 +9586,6 @@
 0.0.0.0 www.yogabaum.at
 0.0.0.0 www.yogaonlineb.com
 0.0.0.0 www.yokemart.com
-0.0.0.0 www.yolandal.com
 0.0.0.0 www.yoncyou.com
 0.0.0.0 www.yooraka.com
 0.0.0.0 www.yoplay.de
@@ -9736,7 +9719,6 @@
 0.0.0.0 yogabaum.at
 0.0.0.0 yogaonlineb.com
 0.0.0.0 yokemart.com
-0.0.0.0 yolandal.com
 0.0.0.0 yoncyou.com
 0.0.0.0 yooraka.com
 0.0.0.0 yoplay.de
