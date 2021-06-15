@@ -81,6 +81,63 @@
 #
 0.0.0.0 webhook.logentries.com
 #
+# Microsoft
+#
+0.0.0.0 asimov-win.settings.data.microsoft.com.akadns.net
+0.0.0.0 cache.datamart.windows.com
+0.0.0.0 ceuswatcab01.blob.core.windows.net
+0.0.0.0 ceuswatcab02.blob.core.windows.net
+0.0.0.0 choice.microsoft.com
+0.0.0.0 db5.vortex.data.microsoft.com.akadns.net
+0.0.0.0 diagnostics.support.microsoft.com
+0.0.0.0 eaus2watcab01.blob.core.windows.net
+0.0.0.0 eaus2watcab02.blob.core.windows.net
+0.0.0.0 eu.vortex-win.data.microsoft.com
+0.0.0.0 feedback.search.microsoft.com
+0.0.0.0 feedback.windows.com
+0.0.0.0 geo.vortex.data.microsoft.com.akadns.net
+0.0.0.0 hubblecontent.osi.office.net
+0.0.0.0 i1.services.social.microsoft.com
+0.0.0.0 nexus.officeapps.live.com
+0.0.0.0 oca.telemetry.microsoft.com
+0.0.0.0 onecollector.cloudapp.aria.akadns.net
+0.0.0.0 prod.nexusrules.live.com.akadns.net
+0.0.0.0 redir.metaservices.microsoft.com
+#self-events-data.trafficmanager.net
+#self.events.data.microsoft.com
+0.0.0.0 settings-sandbox.data.microsoft.com
+#settings-win.data.microsoft.com
+0.0.0.0 spynet2.microsoft.com
+0.0.0.0 spynetalt.microsoft.com
+0.0.0.0 telemetry.microsoft.com
+0.0.0.0 telemetry.urs.microsoft.com
+0.0.0.0 us.vortex-win.data.microsoft.com
+0.0.0.0 v10-win.vortex.data.microsoft.com.akadns.net
+#v10.events.data.microsoft.com
+0.0.0.0 v10.vortex-win.data.microsoft.com
+#v20.events.data.microsoft.com
+0.0.0.0 vortex-sandbox.data.microsoft.com
+0.0.0.0 vortex-win-sandbox.data.microsoft.com
+0.0.0.0 vortex-win.data.microsoft.com
+0.0.0.0 vortex.data.microsoft.com
+0.0.0.0 watson.live.com
+0.0.0.0 watson.microsoft.com
+0.0.0.0 watson.telemetry.microsoft.com
+0.0.0.0 weus2watcab01.blob.core.windows.net
+0.0.0.0 weus2watcab02.blob.core.windows.net
+#
+# Mozilla / Firefox
+#
+0.0.0.0 incoming.telemetry.mozilla.org
+0.0.0.0 telemetry-incoming.r53-2.services.mozilla.com
+#
+# OnePlus
+#
+0.0.0.0 analytics.oneplus.cn
+0.0.0.0 click.oneplus.cn
+0.0.0.0 click.oneplus.com
+0.0.0.0 open.oneplus.net
+#
 # Oppo
 #
 0.0.0.0 adsfs.oppomobile.com
@@ -89,6 +146,11 @@
 0.0.0.0 ck.ads.oppomobile.com
 0.0.0.0 data.ads.oppomobile.com
 0.0.0.0 g1.ads.oppomobile.com
+#
+# Overwolf
+#
+0.0.0.0 analyticsnew.overwolf.com
+0.0.0.0 tracking.overwolf.com
 #
 # Realme
 #
@@ -176,63 +238,6 @@
 0.0.0.0 rtlog.tiktokv.com
 0.0.0.0 xlog-va.tiktokv.com
 0.0.0.0 xlog.tiktokv.com
-#
-# Microsoft
-#
-0.0.0.0 asimov-win.settings.data.microsoft.com.akadns.net
-0.0.0.0 cache.datamart.windows.com
-0.0.0.0 ceuswatcab01.blob.core.windows.net
-0.0.0.0 ceuswatcab02.blob.core.windows.net
-0.0.0.0 choice.microsoft.com
-0.0.0.0 db5.vortex.data.microsoft.com.akadns.net
-0.0.0.0 diagnostics.support.microsoft.com
-0.0.0.0 eaus2watcab01.blob.core.windows.net
-0.0.0.0 eaus2watcab02.blob.core.windows.net
-0.0.0.0 eu.vortex-win.data.microsoft.com
-0.0.0.0 feedback.search.microsoft.com
-0.0.0.0 feedback.windows.com
-0.0.0.0 geo.vortex.data.microsoft.com.akadns.net
-0.0.0.0 hubblecontent.osi.office.net
-0.0.0.0 i1.services.social.microsoft.com
-0.0.0.0 nexus.officeapps.live.com
-0.0.0.0 oca.telemetry.microsoft.com
-0.0.0.0 onecollector.cloudapp.aria.akadns.net
-0.0.0.0 prod.nexusrules.live.com.akadns.net
-0.0.0.0 redir.metaservices.microsoft.com
-#self-events-data.trafficmanager.net
-#self.events.data.microsoft.com
-0.0.0.0 settings-sandbox.data.microsoft.com
-#settings-win.data.microsoft.com
-0.0.0.0 spynet2.microsoft.com
-0.0.0.0 spynetalt.microsoft.com
-0.0.0.0 telemetry.microsoft.com
-0.0.0.0 telemetry.urs.microsoft.com
-0.0.0.0 us.vortex-win.data.microsoft.com
-0.0.0.0 v10-win.vortex.data.microsoft.com.akadns.net
-#v10.events.data.microsoft.com
-0.0.0.0 v10.vortex-win.data.microsoft.com
-#v20.events.data.microsoft.com
-0.0.0.0 vortex-sandbox.data.microsoft.com
-0.0.0.0 vortex-win-sandbox.data.microsoft.com
-0.0.0.0 vortex-win.data.microsoft.com
-0.0.0.0 vortex.data.microsoft.com
-0.0.0.0 watson.live.com
-0.0.0.0 watson.microsoft.com
-0.0.0.0 watson.telemetry.microsoft.com
-0.0.0.0 weus2watcab01.blob.core.windows.net
-0.0.0.0 weus2watcab02.blob.core.windows.net
-#
-# Mozilla / Firefox
-#
-0.0.0.0 incoming.telemetry.mozilla.org
-0.0.0.0 telemetry-incoming.r53-2.services.mozilla.com
-#
-# OnePlus
-#
-0.0.0.0 analytics.oneplus.cn
-0.0.0.0 click.oneplus.cn
-0.0.0.0 click.oneplus.com
-0.0.0.0 open.oneplus.net
 #
 # Whatsapp
 #
