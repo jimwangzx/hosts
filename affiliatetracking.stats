@@ -22,11 +22,11 @@
 
 # Blacklist: 0
 
-# 1. Source: 180 - https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/data/ads_tracking.txt
+# 1. Source: 181 - https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/data/ads_tracking.txt
 # 2. Source: 424 - https://raw.githubusercontent.com/nextdns/metadata/master/privacy/affiliate-tracking-domains
-# #. Source: 604
+# #. Source: 605
 
 Statistik affiliatetracking.txt:
-== Source (unique): 598
-++ WWW-Domains:     649 (+51)
-++ FLD-Domains:     652 (+3)
+== Source (unique): 599
+++ WWW-Domains:     650 (+51)
+++ FLD-Domains:     653 (+3)

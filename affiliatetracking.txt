@@ -22,11 +22,11 @@
 # Whitelist: 0
 # Deadlist: 0
 # Blacklist: 0
-# 1. Source: 180 - https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/data/ads_tracking.txt
+# 1. Source: 181 - https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/data/ads_tracking.txt
 # 2. Source: 424 - https://raw.githubusercontent.com/nextdns/metadata/master/privacy/affiliate-tracking-domains
 #
 # ---------------------------------------------
-# 652 Domains - V2021.06.12-21:26:21
+# 653 Domains - V2021.06.15-14:06:29
 # ---------------------------------------------
 #
 0.0.0.0 19534.redirect.appmetrica.yandex.com
@@ -484,6 +484,7 @@
 0.0.0.0 log.fc.yahoo.com
 0.0.0.0 log.pinterest.com
 0.0.0.0 mads.amazon-adsystem.com
+0.0.0.0 mads-eu.amazon.com
 0.0.0.0 marketingsolutions.yahoo.com
 0.0.0.0 matchid.adfox.yandex.ru
 0.0.0.0 mc.yandex.ru
