@@ -19,13 +19,13 @@
 # Statistik
 # ---------
 #
-# Whitelist: 13331
-# Deadlist: 332557
-# Blacklist: 1677
+# Whitelist: 13332
+# Deadlist: 241275
+# Blacklist: 1679
 # 1. Source: 4230 - https://raw.githubusercontent.com/stonecrusher/filterlists-pihole/master/watchlist-internet-ph.txt
 #
 # ---------------------------------------------
-# 9775 Domains - V2021.06.15-11:30:48
+# 9783 Domains - V2021.06.16-11:59:15
 # ---------------------------------------------
 #
 0.0.0.0 100jahrehochbahn.de
@@ -1084,6 +1084,7 @@
 0.0.0.0 divceb.top
 0.0.0.0 divebuddy.at
 0.0.0.0 djabcu.com
+0.0.0.0 djfkracing.com
 0.0.0.0 djkali.de
 0.0.0.0 dkamilcar.com
 0.0.0.0 dkirmizu.com
@@ -1776,6 +1777,7 @@
 0.0.0.0 goldhandel-imperium.de
 0.0.0.0 goldhandel-markt.de
 0.0.0.0 goldhandel-preissieger.de
+0.0.0.0 goldhandel-seit-1981.de
 0.0.0.0 goldhandel-seit1986.de
 0.0.0.0 goldhandel-team.de
 0.0.0.0 goldhandel-testsieger-2021.de
@@ -4509,6 +4511,7 @@
 0.0.0.0 uhrhaus-kramlich.de
 0.0.0.0 ujmixf.com
 0.0.0.0 uk-polo.com
+0.0.0.0 ulacglobalfinanzen.com
 0.0.0.0 ulrichweil.de
 0.0.0.0 ultraheroshop.com
 0.0.0.0 ultraonlinede.com
@@ -4744,6 +4747,7 @@
 0.0.0.0 weigl-handel.de
 0.0.0.0 wein-ankauf.at
 0.0.0.0 weingalerie-odenhausen.de
+0.0.0.0 weisehaus.de
 0.0.0.0 weka-markt.com
 0.0.0.0 wellensteynjacke.com
 0.0.0.0 wellindal.com
@@ -5868,6 +5872,7 @@
 0.0.0.0 www.divceb.top
 0.0.0.0 www.divebuddy.at
 0.0.0.0 www.djabcu.com
+0.0.0.0 www.djfkracing.com
 0.0.0.0 www.djkali.de
 0.0.0.0 www.dkamilcar.com
 0.0.0.0 www.dkirmizu.com
@@ -6548,6 +6553,7 @@
 0.0.0.0 www.goldhandel-imperium.de
 0.0.0.0 www.goldhandel-markt.de
 0.0.0.0 www.goldhandel-preissieger.de
+0.0.0.0 www.goldhandel-seit-1981.de
 0.0.0.0 www.goldhandel-seit1986.de
 0.0.0.0 www.goldhandel-team.de
 0.0.0.0 www.goldhandel-testsieger-2021.de
@@ -9207,6 +9213,7 @@
 0.0.0.0 www.uhrhaus-kramlich.de
 0.0.0.0 www.ujmixf.com
 0.0.0.0 www.uk-polo.com
+0.0.0.0 www.ulacglobalfinanzen.com
 0.0.0.0 www.ulrichweil.de
 0.0.0.0 www.ultraheroshop.com
 0.0.0.0 www.ultraonlinede.com
@@ -9439,6 +9446,7 @@
 0.0.0.0 www.weigl-handel.de
 0.0.0.0 www.wein-ankauf.at
 0.0.0.0 www.weingalerie-odenhausen.de
+0.0.0.0 www.weisehaus.de
 0.0.0.0 www.weka-markt.com
 0.0.0.0 www.wellensteynjacke.com
 0.0.0.0 www.wellindal.com
