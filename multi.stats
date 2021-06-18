@@ -19,17 +19,17 @@
 # Hosts fake.txt: 9783
 # Hosts: 9783
 
-# Whitelist: 13324
-# Deadlist: 243460
+# Whitelist: 13326
+# Deadlist: 391695
 
-# Blacklist global: 2000
+# Blacklist global: 1705
 # Blacklist source: 
-# Blacklist: 2000
+# Blacklist: 1705
 
 # 1. Source: 1001 - https://raw.githubusercontent.com/jkrejcha/AdmiraList/master/AdmiraList.txt
 # 2. Source: 662 - https://v.firebog.net/hosts/Admiral.txt
 # 3. Source: 15007 - https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt
-# 4. Source: 100364 - https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/nextdns.txt
+# 4. Source: 100434 - https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/nextdns.txt
 # 5. Source: 6027 - https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/prigentads.txt
 # 6. Source: 177 - https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/privacy.txt
 # 7. Source: 182 - https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/data/ads_tracking.txt
@@ -38,12 +38,12 @@
 # 10. Source: 904 - https://v.firebog.net/hosts/static/w3kbl.txt
 # 11. Source: 50842 - https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/easylist.txt
 # 12. Source: 11750 - https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/combined_disguised_trackers_justdomains.txt
-# 13. Source: 67853 - https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/adguarddns.txt
+# 13. Source: 67870 - https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/adguarddns.txt
 # 14. Source: 77095 - https://dbl.oisd.nl/basic/
 # 15. Source: 122584 - https://blocklist.cyberthreatcoalition.org/vetted/domain.txt
 # 16. Source: 333 - https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-malware.txt
-# 17. Source: 47 - https://osint.digitalside.it/Threat-Intel/lists/latestdomains.txt
-# 18. Source: 38138 - https://phishing.army/download/phishing_army_blocklist_extended.txt
+# 17. Source: 51 - https://osint.digitalside.it/Threat-Intel/lists/latestdomains.txt
+# 18. Source: 38096 - https://phishing.army/download/phishing_army_blocklist_extended.txt
 # 19. Source: 8154 - https://raw.githubusercontent.com/Spam404/lists/master/main-blacklist.txt
 # 20. Source: 15389 - https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-main.txt
 # 21. Source: 554 - https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-personal.txt
@@ -52,7 +52,7 @@
 # 24. Source: 228 - https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-certego.txt
 # 25. Source: 514 - https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-unit42-playbook.txt
 # 26. Source: 23232 - https://raw.githubusercontent.com/scafroglia93/blocklists/master/blocklists-unit42-silverterrier.txt
-# 27. Source: 8775 - https://adaway.org/hosts.txt
+# 27. Source: 8774 - https://adaway.org/hosts.txt
 # 28. Source: 56975 - https://hostfiles.frogeye.fr/firstparty-trackers-hosts.txt
 # 29. Source: 3633 - https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
 # 30. Source: 10 - https://raw.githubusercontent.com/FadeMind/hosts.extras/master/UncheckyAds/hosts
@@ -62,33 +62,33 @@
 # 34. Source: 325 - https://raw.githubusercontent.com/shreyasminocha/shady-hosts/main/hosts
 # 35. Source: 15492 - https://someonewhocares.org/hosts/
 # 36. Source: 8728 - https://winhelp2002.mvps.org/hosts.txt
-# 37. Source: 17559 - https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts
+# 37. Source: 17450 - https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts
 # 38. Source: 1286 - https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.2o7Net/hosts
 # 39. Source: 484 - https://raw.githubusercontent.com/infinitytec/blocklists/master/ads-and-trackers.txt
 # 40. Source: 689 - https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/hosts.txt
 # 41. Source: 3548 - https://zerodot1.gitlab.io/CoinBlockerLists/hosts_browser
 # 42. Source: 5830 - https://raw.githubusercontent.com/anudeepND/blacklist/master/CoinMiner.txt
 # 43. Source: 81107 - https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
-# 44. Source: 248358 - https://raw.githubusercontent.com/notracking/hosts-blocklists/master/hostnames.txt
+# 44. Source: 247966 - https://raw.githubusercontent.com/notracking/hosts-blocklists/master/hostnames.txt
 # 45. Source: 22228 - https://raw.githubusercontent.com/PolishFiltersTeam/KADhosts/master/KADhosts.txt
 # 46. Source: 334 - https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareHosts.txt
-# 47. Source: 1198 - https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
+# 47. Source: 1180 - https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # 48. Source: 1386 - https://raw.githubusercontent.com/mitchellkrogza/Badd-Boyz-Hosts/master/hosts
-# 49. Source: 1096 - https://urlhaus.abuse.ch/downloads/hostfile/
+# 49. Source: 1093 - https://urlhaus.abuse.ch/downloads/hostfile/
 # 50. Source: 73 - https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Spam/hosts
 # 51. Source: 2556 - https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Risk/hosts
 # 52. Source: 3009 - https://raw.githubusercontent.com/infinitytec/blocklists/master/scams-and-phishing.txt
 # 53. Source: 439 - https://raw.githubusercontent.com/Laicure/hosts/master/shithosts
-# 54. Source: 16159 - https://raw.githubusercontent.com/infinitytec/blocklists/master/medicalpseudoscience.txt
-# #. Source: 1099143
+# 54. Source: 16690 - https://raw.githubusercontent.com/infinitytec/blocklists/master/medicalpseudoscience.txt
+# #. Source: 1099200
 
 Statistik multi.txt:
-== Source (unique): 560450
-++ Black:           562157 (+1707)
--- White:           559007 (-3150)
--- Dead:            492619 (-66388)
--- Hosts:           492594 (-25)
-++ Block:           492596 (+2)
--- Unblock:         491968 (-628)
-++ WWW-Domains:     587120 (+95152)
-++ FLD-Domains:     588016 (+896)
+== Source (unique): 560634
+++ Black:           562339 (+1705)
+-- White:           559190 (-3149)
+-- Dead:            397187 (-162003)
+-- Hosts:           397162 (-25)
+++ Block:           397164 (+2)
+-- Unblock:         396535 (-629)
+++ WWW-Domains:     444314 (+47779)
+++ FLD-Domains:     445129 (+815)
