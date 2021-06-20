@@ -19,13 +19,13 @@
 # Statistik
 # ---------
 #
-# Whitelist: 13332
-# Deadlist: 241275
-# Blacklist: 1679
-# 1. Source: 4230 - https://raw.githubusercontent.com/stonecrusher/filterlists-pihole/master/watchlist-internet-ph.txt
+# Whitelist: 13314
+# Deadlist: 383406
+# Blacklist: 1677
+# 1. Source: 4282 - https://raw.githubusercontent.com/stonecrusher/filterlists-pihole/master/watchlist-internet-ph.txt
 #
 # ---------------------------------------------
-# 9783 Domains - V2021.06.16-11:59:15
+# 9887 Domains - V2021.06.20-03:32:59
 # ---------------------------------------------
 #
 0.0.0.0 100jahrehochbahn.de
@@ -35,6 +35,7 @@
 0.0.0.0 21-willhaben.at
 0.0.0.0 24things.de
 0.0.0.0 2rad-hanke.de
+0.0.0.0 2rad-kern.de
 0.0.0.0 2rad-klein.de
 0.0.0.0 2rad-xxl.de
 0.0.0.0 30netzteil.de
@@ -277,9 +278,11 @@
 0.0.0.0 art-technologies.at
 0.0.0.0 asancol.com
 0.0.0.0 asb-ruhrgebiet.de
+0.0.0.0 ashlen.co
 0.0.0.0 asicminerco.com
 0.0.0.0 asleme.com
 0.0.0.0 assipozzi.it
+0.0.0.0 as-transport.org
 0.0.0.0 atakku.at
 0.0.0.0 atelierpesce.it
 0.0.0.0 atesco.de
@@ -398,6 +401,7 @@
 0.0.0.0 bbgadget.de
 0.0.0.0 bbq24.store
 0.0.0.0 b-checker.at
+0.0.0.0 bcm-shop.de
 0.0.0.0 bdsm.de.wundertesting.com
 0.0.0.0 beamg.de
 0.0.0.0 beathel.com
@@ -791,6 +795,7 @@
 0.0.0.0 cichic.com
 0.0.0.0 cicilemon.com
 0.0.0.0 cicilookshop.com
+0.0.0.0 cikivis.com
 0.0.0.0 cim-media.de
 0.0.0.0 cinderellashops.myshopify.com
 0.0.0.0 cinemaflix.de
@@ -934,6 +939,7 @@
 0.0.0.0 cvmaker.de
 0.0.0.0 cwikibios.com
 0.0.0.0 cxcactus.com
+0.0.0.0 cyber-world24.de
 0.0.0.0 cydiaappdownloader.wordpress.com
 0.0.0.0 cydiacloud.com
 0.0.0.0 cydiadownloaders.com
@@ -1167,6 +1173,7 @@
 0.0.0.0 duesseldorf-botschaft.de
 0.0.0.0 dumbbell-fitness.de
 0.0.0.0 dumpingwhale.com
+0.0.0.0 duplay.de
 0.0.0.0 du-und-ich.at
 0.0.0.0 duyphamr.com
 0.0.0.0 dvdsetstore.com
@@ -1179,12 +1186,14 @@
 0.0.0.0 ea-jena.de
 0.0.0.0 eamimisale.com
 0.0.0.0 eaolopdep.com
+0.0.0.0 e-apo.com
 0.0.0.0 earelax.it
 0.0.0.0 earlydike.de
 0.0.0.0 easycarpay-deutschland.de
 0.0.0.0 easyclothco.com
 0.0.0.0 easy-ltd.eu
 0.0.0.0 e-belil.de
+0.0.0.0 ebikedragon.com
 0.0.0.0 e-bikeexperten.de
 0.0.0.0 ebopeep.com
 0.0.0.0 ebusiness-challenge.at
@@ -1222,6 +1231,7 @@
 0.0.0.0 ej2012.at
 0.0.0.0 ejoy.ch
 0.0.0.0 ejrjx.top
+0.0.0.0 ekiezayetu.com
 0.0.0.0 ekomfort.de
 0.0.0.0 ekt-wohnhof.de
 0.0.0.0 elbe-baudienst.de
@@ -1233,6 +1243,7 @@
 0.0.0.0 electro-eshoper.com
 0.0.0.0 electrolus-market.com
 0.0.0.0 electromarkt.shop
+0.0.0.0 electronicavenecia.com
 0.0.0.0 electronikforyou.de
 0.0.0.0 electro-onlinemarket.com
 0.0.0.0 electrosdomesticos.com
@@ -1246,6 +1257,7 @@
 0.0.0.0 elektrobester.com
 0.0.0.0 elektrobillig.com
 0.0.0.0 elektro-borse-koeln.de
+0.0.0.0 elektrocandy.de
 0.0.0.0 elektroconsult.de
 0.0.0.0 elektrodo.de
 0.0.0.0 elektro-domestika.com
@@ -1253,6 +1265,7 @@
 0.0.0.0 elektro-fest.org
 0.0.0.0 elektro-geldsparer.com
 0.0.0.0 elektro-gerber.de
+0.0.0.0 elektrogott.net
 0.0.0.0 elektro-handel.store
 0.0.0.0 elektrohandler.com
 0.0.0.0 elektrohoppe.de
@@ -1363,11 +1376,13 @@
 0.0.0.0 esmitfandb.com
 0.0.0.0 esommerhus.de
 0.0.0.0 espirted.de
+0.0.0.0 estate-divine.com
 0.0.0.0 estate-go.com
 0.0.0.0 etzlbergerhof.at
 0.0.0.0 eubiofficial.com
 0.0.0.0 eu-first.com
 0.0.0.0 eupeta.store
+0.0.0.0 euphorial.de
 0.0.0.0 eurenzo.com
 0.0.0.0 euroadmaps.com
 0.0.0.0 eurodeliverieslogistics.com
@@ -1523,6 +1538,7 @@
 0.0.0.0 filmstreaming-de.life
 0.0.0.0 filzaffairen.de
 0.0.0.0 financerevision.de
+0.0.0.0 findedeinrad.de
 0.0.0.0 finensly.com
 0.0.0.0 finflix.de
 0.0.0.0 finophotostudio.com
@@ -1541,6 +1557,7 @@
 0.0.0.0 fleezie.de
 0.0.0.0 fleischer-badegruber.at
 0.0.0.0 flensfahrschule.com
+0.0.0.0 flexumgel-official.shop
 0.0.0.0 fliesen-cieslack.de
 0.0.0.0 flixabo.de
 0.0.0.0 flixer.de
@@ -1638,6 +1655,7 @@
 0.0.0.0 gaestehausconrad.de
 0.0.0.0 gaestehaus-lasser.at
 0.0.0.0 gagaplay.de
+0.0.0.0 galacal.com
 0.0.0.0 galaxybal.com
 0.0.0.0 galaxylicht.shop
 0.0.0.0 gamarex.de
@@ -1925,10 +1943,12 @@
 0.0.0.0 haushaltino.de
 0.0.0.0 haushaltking24.de
 0.0.0.0 haushaltsfreude.de
+0.0.0.0 haushaltsgeraete-mueller.de
 0.0.0.0 haushaltsideal.de
 0.0.0.0 haushaltskreis.de
 0.0.0.0 haushaltsreich.de
 0.0.0.0 haus-klinger.at
+0.0.0.0 hausmarkt.direct
 0.0.0.0 haus-media.de
 0.0.0.0 hausstelen.de
 0.0.0.0 haustechnik-kraemer.de
@@ -1972,6 +1992,7 @@
 0.0.0.0 hellomarkt.com
 0.0.0.0 heloplay.de
 0.0.0.0 helorose.com
+0.0.0.0 helperlo24.de
 0.0.0.0 helpthebees.net
 0.0.0.0 henlenhebe.com
 0.0.0.0 hennac.com
@@ -2021,6 +2042,7 @@
 0.0.0.0 holycrossmoravianchurch.com
 0.0.0.0 holzbau-hunger.de
 0.0.0.0 holzpflegewachs.com
+0.0.0.0 holzti.com
 0.0.0.0 homariss.com
 0.0.0.0 home-eilig.de
 0.0.0.0 homeinlay.com
@@ -2101,6 +2123,7 @@
 0.0.0.0 ichhabe-ichwill.at
 0.0.0.0 icinden.at
 0.0.0.0 icm-consulting.de
+0.0.0.0 iconicnetwork.de
 0.0.0.0 iconstoretv.com
 0.0.0.0 icrtec.at
 0.0.0.0 ideal-elektro.de
@@ -2197,6 +2220,7 @@
 0.0.0.0 isiqiri.at
 0.0.0.0 ismody.com
 0.0.0.0 ismye.shop
+0.0.0.0 isocals.com
 0.0.0.0 italiadesigns.com
 0.0.0.0 itcloth.net
 0.0.0.0 itc-schwarz.de
@@ -2214,6 +2238,7 @@
 0.0.0.0 jackview.com
 0.0.0.0 jagute.de
 0.0.0.0 jakobi-herbern.de
+0.0.0.0 jakobo-tech.com
 0.0.0.0 jalousien-neufend.de
 0.0.0.0 jamunto.de
 0.0.0.0 jasadoty.com
@@ -2249,6 +2274,7 @@
 0.0.0.0 joey-store.com
 0.0.0.0 johannessteffen.de
 0.0.0.0 johanning-online.de
+0.0.0.0 joinyourss.com
 0.0.0.0 joinyous.com
 0.0.0.0 jojolikes.com
 0.0.0.0 jokoelite.com
@@ -2283,6 +2309,7 @@
 0.0.0.0 jwerdmann.de
 0.0.0.0 jxaricde.com
 0.0.0.0 jxixiya.com
+0.0.0.0 kabpro-vitrinen.com
 0.0.0.0 kadonimo.de
 0.0.0.0 kaeour.com
 0.0.0.0 kaffee-binder.de
@@ -2375,6 +2402,7 @@
 0.0.0.0 kinox.su
 0.0.0.0 kintonpro.com
 0.0.0.0 kinzokusteel.com
+0.0.0.0 kiranolir.com
 0.0.0.0 kirchenmusik-mhl.de
 0.0.0.0 kistand.de
 0.0.0.0 kistner-handel.de
@@ -2457,6 +2485,7 @@
 0.0.0.0 kunstzeit-ruhr.de
 0.0.0.0 kupfermaehne.at
 0.0.0.0 kupitmann.de
+0.0.0.0 kussleben.com
 0.0.0.0 kustermann-ulm.de
 0.0.0.0 kvt-training.at
 0.0.0.0 kwaliteitvoorweinig.com
@@ -2466,6 +2495,7 @@
 0.0.0.0 labelito.com
 0.0.0.0 lacastagna.ch
 0.0.0.0 la-class.com
+0.0.0.0 ladplay.de
 0.0.0.0 lady-coat.com
 0.0.0.0 ladydemofashion.com
 0.0.0.0 ladyones.com
@@ -2631,6 +2661,7 @@
 0.0.0.0 ls-works.de
 0.0.0.0 ltehnovar.com
 0.0.0.0 ltripxd.top
+0.0.0.0 lucckyiflz.com
 0.0.0.0 luckfashions.com
 0.0.0.0 luckstark.com
 0.0.0.0 luckyukii.com
@@ -3009,6 +3040,7 @@
 0.0.0.0 mosview.com
 0.0.0.0 mothi.at
 0.0.0.0 motiontutsr.com
+0.0.0.0 motoglobal-trucking.com
 0.0.0.0 move-forward-e-car.com
 0.0.0.0 movie4k.su
 0.0.0.0 movieshub.de
@@ -3034,6 +3066,7 @@
 0.0.0.0 multimedia-market.store
 0.0.0.0 multimediapalast.de
 0.0.0.0 multiworkers.at
+0.0.0.0 mundobrands.de
 0.0.0.0 munkelmedia.de
 0.0.0.0 munkeltech.de
 0.0.0.0 murusidis.de
@@ -3120,6 +3153,7 @@
 0.0.0.0 neurochirurgie-sadik.de
 0.0.0.0 neuwirth-baustoffe.at
 0.0.0.0 neva-sharm.ru
+0.0.0.0 nevi-media.com
 0.0.0.0 newbalancesneakers.de.com
 0.0.0.0 new-chakra.com
 0.0.0.0 newchic.com
@@ -3210,6 +3244,7 @@
 0.0.0.0 obindo.de
 0.0.0.0 oddomarkt.de
 0.0.0.0 oebhw.at
+0.0.0.0 oefinancejm.com
 0.0.0.0 oeibi.at
 0.0.0.0 oelvirasys.com
 0.0.0.0 oertlicher.at
@@ -3306,6 +3341,7 @@
 0.0.0.0 panzer-industriebedarf.de
 0.0.0.0 papskenya.com
 0.0.0.0 papsttasche.de
+0.0.0.0 parabound.de
 0.0.0.0 parazax.com
 0.0.0.0 parker-and-williams.com
 0.0.0.0 partner-gw.de
@@ -3433,6 +3469,7 @@
 0.0.0.0 playmay.de
 0.0.0.0 playmes.de
 0.0.0.0 playmeta.de
+0.0.0.0 playmet.de
 0.0.0.0 playmine.de
 0.0.0.0 playmium.de
 0.0.0.0 playmoba.de
@@ -3458,6 +3495,7 @@
 0.0.0.0 playnoro.de
 0.0.0.0 playoza.de
 0.0.0.0 playpas.de
+0.0.0.0 playpor.de
 0.0.0.0 playrapid.de
 0.0.0.0 playred.de
 0.0.0.0 playre.de
@@ -3478,6 +3516,7 @@
 0.0.0.0 playtax.de
 0.0.0.0 playted.de
 0.0.0.0 playtogo.de
+0.0.0.0 playton.de
 0.0.0.0 playtor.de
 0.0.0.0 playtory.de
 0.0.0.0 playtuda.de
@@ -3511,6 +3550,7 @@
 0.0.0.0 poobia.com
 0.0.0.0 popnewin.com
 0.0.0.0 popshily.com
+0.0.0.0 popstarland.com
 0.0.0.0 populily.com
 0.0.0.0 popuor.com
 0.0.0.0 popwelle.com
@@ -3554,6 +3594,7 @@
 0.0.0.0 primehyp.de
 0.0.0.0 primelogisticllc.com
 0.0.0.0 print-controlling.at
+0.0.0.0 printyourgesicht24.de
 0.0.0.0 privatefloor.com
 0.0.0.0 professor-lasertoner.de
 0.0.0.0 profi-gartenschlauch.de
@@ -3694,6 +3735,7 @@
 0.0.0.0 rethwisch-handball.de
 0.0.0.0 retrocyclingtops.com
 0.0.0.0 retro-stage.de
+0.0.0.0 retrostages.de
 0.0.0.0 reva-konsolen.com
 0.0.0.0 reva-shops.com
 0.0.0.0 rexkino.com
@@ -3739,6 +3781,7 @@
 0.0.0.0 rollerclub-wieselburg.at
 0.0.0.0 rollerkarl.de
 0.0.0.0 romantic-butterfly.com
+0.0.0.0 romantisches-mecklenburg.de
 0.0.0.0 romaxica.com
 0.0.0.0 romflowers.com
 0.0.0.0 romoplay.de
@@ -3801,6 +3844,7 @@
 0.0.0.0 saramond.de
 0.0.0.0 sardegna-saharawi.it
 0.0.0.0 saremco-cosmetics.ch
+0.0.0.0 sarlsbholding.com
 0.0.0.0 saru.ch
 0.0.0.0 sasung.at
 0.0.0.0 sauberes-handwerk.de
@@ -3950,6 +3994,7 @@
 0.0.0.0 shoprosada.com
 0.0.0.0 shops-disney-uk.com
 0.0.0.0 shrimp-rebels.at
+0.0.0.0 sicheredeutscherfuhrerschein.com
 0.0.0.0 sieclothes.com
 0.0.0.0 sielyss.com
 0.0.0.0 sier-24.tech
@@ -3972,6 +4017,7 @@
 0.0.0.0 sisterok.de
 0.0.0.0 sj-steyr.at
 0.0.0.0 skateabalooza.at
+0.0.0.0 skatess.cc
 0.0.0.0 skechersosterreich.at
 0.0.0.0 skinrockfur.de
 0.0.0.0 skrum.at
@@ -4185,6 +4231,7 @@
 0.0.0.0 swatreact.com
 0.0.0.0 sweetobsession.ch
 0.0.0.0 swissmasai.ch
+0.0.0.0 swristbandpro.com
 0.0.0.0 sycha-edv.de
 0.0.0.0 sydmeey.de
 0.0.0.0 synagoge.at
@@ -4340,6 +4387,7 @@
 0.0.0.0 thomassabosuk.com
 0.0.0.0 thomassabouksale.com
 0.0.0.0 thomeifoods.com
+0.0.0.0 thuefol-gmbh.de
 0.0.0.0 tidebuy.com
 0.0.0.0 tieker-versandhandel.de
 0.0.0.0 tiere.at
@@ -4469,6 +4517,7 @@
 0.0.0.0 tuuik.com
 0.0.0.0 tvdeal24.net
 0.0.0.0 twovillas.com
+0.0.0.0 twpfactory.com
 0.0.0.0 tyjmuq.com
 0.0.0.0 typo-vision.de
 0.0.0.0 uabirkhan.com
@@ -4577,6 +4626,7 @@
 0.0.0.0 vanitycosmetics.us
 0.0.0.0 vanmarco.at
 0.0.0.0 vano-media.com
+0.0.0.0 vanskens-transport.com
 0.0.0.0 vaporizerd.com
 0.0.0.0 varibel.de
 0.0.0.0 vaschoen.com
@@ -4650,6 +4700,7 @@
 0.0.0.0 vitals-elektroniks.com
 0.0.0.0 vite-envogue.de
 0.0.0.0 vivabrush.de
+0.0.0.0 vivaiacollection.com
 0.0.0.0 viva-med.de
 0.0.0.0 vivibay.com
 0.0.0.0 vividpretty.com
@@ -4853,6 +4904,7 @@
 0.0.0.0 wowperucken.de
 0.0.0.0 wpgame.shop
 0.0.0.0 wpyslr.com
+0.0.0.0 wsoftia.com
 0.0.0.0 wsonio.com
 0.0.0.0 wundershark.de
 0.0.0.0 wunderwahl.de
@@ -4864,6 +4916,7 @@
 0.0.0.0 www.21-willhaben.at
 0.0.0.0 www.24things.de
 0.0.0.0 www.2rad-hanke.de
+0.0.0.0 www.2rad-kern.de
 0.0.0.0 www.2rad-klein.de
 0.0.0.0 www.2rad-xxl.de
 0.0.0.0 www.30netzteil.de
@@ -5101,9 +5154,11 @@
 0.0.0.0 www.art-technologies.at
 0.0.0.0 www.asancol.com
 0.0.0.0 www.asb-ruhrgebiet.de
+0.0.0.0 www.ashlen.co
 0.0.0.0 www.asicminerco.com
 0.0.0.0 www.asleme.com
 0.0.0.0 www.assipozzi.it
+0.0.0.0 www.as-transport.org
 0.0.0.0 www.atakku.at
 0.0.0.0 www.atelierpesce.it
 0.0.0.0 www.atesco.de
@@ -5220,6 +5275,7 @@
 0.0.0.0 www.bbgadget.de
 0.0.0.0 www.bbq24.store
 0.0.0.0 www.b-checker.at
+0.0.0.0 www.bcm-shop.de
 0.0.0.0 www.beamg.de
 0.0.0.0 www.beathel.com
 0.0.0.0 www.beatsbydrereviews.com
@@ -5596,6 +5652,7 @@
 0.0.0.0 www.cichic.com
 0.0.0.0 www.cicilemon.com
 0.0.0.0 www.cicilookshop.com
+0.0.0.0 www.cikivis.com
 0.0.0.0 www.cim-media.de
 0.0.0.0 www.cinemaflix.de
 0.0.0.0 www.cinemaxx24.com
@@ -5730,6 +5787,7 @@
 0.0.0.0 www.cvmaker.de
 0.0.0.0 www.cwikibios.com
 0.0.0.0 www.cxcactus.com
+0.0.0.0 www.cyber-world24.de
 0.0.0.0 www.cydiacloud.com
 0.0.0.0 www.cydiadownloaders.com
 0.0.0.0 www.cydia-download.us
@@ -5953,6 +6011,7 @@
 0.0.0.0 www.duesseldorf-botschaft.de
 0.0.0.0 www.dumbbell-fitness.de
 0.0.0.0 www.dumpingwhale.com
+0.0.0.0 www.duplay.de
 0.0.0.0 www.du-und-ich.at
 0.0.0.0 www.duyphamr.com
 0.0.0.0 www.dvdsetstore.com
@@ -5965,12 +6024,14 @@
 0.0.0.0 www.ea-jena.de
 0.0.0.0 www.eamimisale.com
 0.0.0.0 www.eaolopdep.com
+0.0.0.0 www.e-apo.com
 0.0.0.0 www.earelax.it
 0.0.0.0 www.earlydike.de
 0.0.0.0 www.easycarpay-deutschland.de
 0.0.0.0 www.easyclothco.com
 0.0.0.0 www.easy-ltd.eu
 0.0.0.0 www.e-belil.de
+0.0.0.0 www.ebikedragon.com
 0.0.0.0 www.e-bikeexperten.de
 0.0.0.0 www.ebopeep.com
 0.0.0.0 www.ebusiness-challenge.at
@@ -6008,6 +6069,7 @@
 0.0.0.0 www.ej2012.at
 0.0.0.0 www.ejoy.ch
 0.0.0.0 www.ejrjx.top
+0.0.0.0 www.ekiezayetu.com
 0.0.0.0 www.ekomfort.de
 0.0.0.0 www.ekt-wohnhof.de
 0.0.0.0 www.elbe-baudienst.de
@@ -6019,6 +6081,7 @@
 0.0.0.0 www.electro-eshoper.com
 0.0.0.0 www.electrolus-market.com
 0.0.0.0 www.electromarkt.shop
+0.0.0.0 www.electronicavenecia.com
 0.0.0.0 www.electronikforyou.de
 0.0.0.0 www.electro-onlinemarket.com
 0.0.0.0 www.electrosdomesticos.com
@@ -6032,6 +6095,7 @@
 0.0.0.0 www.elektrobester.com
 0.0.0.0 www.elektrobillig.com
 0.0.0.0 www.elektro-borse-koeln.de
+0.0.0.0 www.elektrocandy.de
 0.0.0.0 www.elektroconsult.de
 0.0.0.0 www.elektrodo.de
 0.0.0.0 www.elektro-domestika.com
@@ -6039,6 +6103,7 @@
 0.0.0.0 www.elektro-fest.org
 0.0.0.0 www.elektro-geldsparer.com
 0.0.0.0 www.elektro-gerber.de
+0.0.0.0 www.elektrogott.net
 0.0.0.0 www.elektro-handel.store
 0.0.0.0 www.elektrohandler.com
 0.0.0.0 www.elektrohoppe.de
@@ -6149,11 +6214,13 @@
 0.0.0.0 www.esmitfandb.com
 0.0.0.0 www.esommerhus.de
 0.0.0.0 www.espirted.de
+0.0.0.0 www.estate-divine.com
 0.0.0.0 www.estate-go.com
 0.0.0.0 www.etzlbergerhof.at
 0.0.0.0 www.eubiofficial.com
 0.0.0.0 www.eu-first.com
 0.0.0.0 www.eupeta.store
+0.0.0.0 www.euphorial.de
 0.0.0.0 www.eurenzo.com
 0.0.0.0 www.euroadmaps.com
 0.0.0.0 www.eurodeliverieslogistics.com
@@ -6303,6 +6370,7 @@
 0.0.0.0 www.filmstreaming-de.life
 0.0.0.0 www.filzaffairen.de
 0.0.0.0 www.financerevision.de
+0.0.0.0 www.findedeinrad.de
 0.0.0.0 www.finensly.com
 0.0.0.0 www.finflix.de
 0.0.0.0 www.finophotostudio.com
@@ -6321,6 +6389,7 @@
 0.0.0.0 www.fleezie.de
 0.0.0.0 www.fleischer-badegruber.at
 0.0.0.0 www.flensfahrschule.com
+0.0.0.0 www.flexumgel-official.shop
 0.0.0.0 www.fliesen-cieslack.de
 0.0.0.0 www.flixabo.de
 0.0.0.0 www.flixer.de
@@ -6417,6 +6486,7 @@
 0.0.0.0 www.gaestehausconrad.de
 0.0.0.0 www.gaestehaus-lasser.at
 0.0.0.0 www.gagaplay.de
+0.0.0.0 www.galacal.com
 0.0.0.0 www.galaxybal.com
 0.0.0.0 www.galaxylicht.shop
 0.0.0.0 www.gamarex.de
@@ -6699,10 +6769,12 @@
 0.0.0.0 www.haushaltino.de
 0.0.0.0 www.haushaltking24.de
 0.0.0.0 www.haushaltsfreude.de
+0.0.0.0 www.haushaltsgeraete-mueller.de
 0.0.0.0 www.haushaltsideal.de
 0.0.0.0 www.haushaltskreis.de
 0.0.0.0 www.haushaltsreich.de
 0.0.0.0 www.haus-klinger.at
+0.0.0.0 www.hausmarkt.direct
 0.0.0.0 www.haus-media.de
 0.0.0.0 www.hausstelen.de
 0.0.0.0 www.haustechnik-kraemer.de
@@ -6746,6 +6818,7 @@
 0.0.0.0 www.hellomarkt.com
 0.0.0.0 www.heloplay.de
 0.0.0.0 www.helorose.com
+0.0.0.0 www.helperlo24.de
 0.0.0.0 www.helpthebees.net
 0.0.0.0 www.henlenhebe.com
 0.0.0.0 www.hennac.com
@@ -6795,6 +6868,7 @@
 0.0.0.0 www.holycrossmoravianchurch.com
 0.0.0.0 www.holzbau-hunger.de
 0.0.0.0 www.holzpflegewachs.com
+0.0.0.0 www.holzti.com
 0.0.0.0 www.homariss.com
 0.0.0.0 www.home-eilig.de
 0.0.0.0 www.homeinlay.com
@@ -6873,6 +6947,7 @@
 0.0.0.0 www.ichhabe-ichwill.at
 0.0.0.0 www.icinden.at
 0.0.0.0 www.icm-consulting.de
+0.0.0.0 www.iconicnetwork.de
 0.0.0.0 www.iconstoretv.com
 0.0.0.0 www.icrtec.at
 0.0.0.0 www.ideal-elektro.de
@@ -6967,6 +7042,7 @@
 0.0.0.0 www.isiqiri.at
 0.0.0.0 www.ismody.com
 0.0.0.0 www.ismye.shop
+0.0.0.0 www.isocals.com
 0.0.0.0 www.italiadesigns.com
 0.0.0.0 www.itcloth.net
 0.0.0.0 www.itc-schwarz.de
@@ -6984,6 +7060,7 @@
 0.0.0.0 www.jackview.com
 0.0.0.0 www.jagute.de
 0.0.0.0 www.jakobi-herbern.de
+0.0.0.0 www.jakobo-tech.com
 0.0.0.0 www.jalousien-neufend.de
 0.0.0.0 www.jamunto.de
 0.0.0.0 www.jasadoty.com
@@ -7019,6 +7096,7 @@
 0.0.0.0 www.joey-store.com
 0.0.0.0 www.johannessteffen.de
 0.0.0.0 www.johanning-online.de
+0.0.0.0 www.joinyourss.com
 0.0.0.0 www.joinyous.com
 0.0.0.0 www.jojolikes.com
 0.0.0.0 www.jokoelite.com
@@ -7053,6 +7131,7 @@
 0.0.0.0 www.jwerdmann.de
 0.0.0.0 www.jxaricde.com
 0.0.0.0 www.jxixiya.com
+0.0.0.0 www.kabpro-vitrinen.com
 0.0.0.0 www.kadonimo.de
 0.0.0.0 www.kaeour.com
 0.0.0.0 www.kaffee-binder.de
@@ -7143,6 +7222,7 @@
 0.0.0.0 www.kinox.su
 0.0.0.0 www.kintonpro.com
 0.0.0.0 www.kinzokusteel.com
+0.0.0.0 www.kiranolir.com
 0.0.0.0 www.kirchenmusik-mhl.de
 0.0.0.0 www.kistand.de
 0.0.0.0 www.kistner-handel.de
@@ -7223,6 +7303,7 @@
 0.0.0.0 www.kunstzeit-ruhr.de
 0.0.0.0 www.kupfermaehne.at
 0.0.0.0 www.kupitmann.de
+0.0.0.0 www.kussleben.com
 0.0.0.0 www.kustermann-ulm.de
 0.0.0.0 www.kvt-training.at
 0.0.0.0 www.kwaliteitvoorweinig.com
@@ -7232,6 +7313,7 @@
 0.0.0.0 www.labelito.com
 0.0.0.0 www.lacastagna.ch
 0.0.0.0 www.la-class.com
+0.0.0.0 www.ladplay.de
 0.0.0.0 www.lady-coat.com
 0.0.0.0 www.ladydemofashion.com
 0.0.0.0 www.ladyones.com
@@ -7394,6 +7476,7 @@
 0.0.0.0 www.ls-works.de
 0.0.0.0 www.ltehnovar.com
 0.0.0.0 www.ltripxd.top
+0.0.0.0 www.lucckyiflz.com
 0.0.0.0 www.luckfashions.com
 0.0.0.0 www.luckstark.com
 0.0.0.0 www.luckyukii.com
@@ -7751,6 +7834,7 @@
 0.0.0.0 www.mosview.com
 0.0.0.0 www.mothi.at
 0.0.0.0 www.motiontutsr.com
+0.0.0.0 www.motoglobal-trucking.com
 0.0.0.0 www.move-forward-e-car.com
 0.0.0.0 www.movie4k.su
 0.0.0.0 www.movieshub.de
@@ -7776,6 +7860,7 @@
 0.0.0.0 www.multimedia-market.store
 0.0.0.0 www.multimediapalast.de
 0.0.0.0 www.multiworkers.at
+0.0.0.0 www.mundobrands.de
 0.0.0.0 www.munkelmedia.de
 0.0.0.0 www.munkeltech.de
 0.0.0.0 www.murusidis.de
@@ -7862,6 +7947,7 @@
 0.0.0.0 www.neurochirurgie-sadik.de
 0.0.0.0 www.neuwirth-baustoffe.at
 0.0.0.0 www.neva-sharm.ru
+0.0.0.0 www.nevi-media.com
 0.0.0.0 www.new-chakra.com
 0.0.0.0 www.newchic.com
 0.0.0.0 www.new-promotions24.com
@@ -7951,6 +8037,7 @@
 0.0.0.0 www.obindo.de
 0.0.0.0 www.oddomarkt.de
 0.0.0.0 www.oebhw.at
+0.0.0.0 www.oefinancejm.com
 0.0.0.0 www.oeibi.at
 0.0.0.0 www.oelvirasys.com
 0.0.0.0 www.oertlicher.at
@@ -8037,6 +8124,7 @@
 0.0.0.0 www.panzer-industriebedarf.de
 0.0.0.0 www.papskenya.com
 0.0.0.0 www.papsttasche.de
+0.0.0.0 www.parabound.de
 0.0.0.0 www.parazax.com
 0.0.0.0 www.parker-and-williams.com
 0.0.0.0 www.partner-gw.de
@@ -8162,6 +8250,7 @@
 0.0.0.0 www.playmay.de
 0.0.0.0 www.playmes.de
 0.0.0.0 www.playmeta.de
+0.0.0.0 www.playmet.de
 0.0.0.0 www.playmine.de
 0.0.0.0 www.playmium.de
 0.0.0.0 www.playmoba.de
@@ -8187,6 +8276,7 @@
 0.0.0.0 www.playnoro.de
 0.0.0.0 www.playoza.de
 0.0.0.0 www.playpas.de
+0.0.0.0 www.playpor.de
 0.0.0.0 www.playrapid.de
 0.0.0.0 www.playred.de
 0.0.0.0 www.playre.de
@@ -8207,6 +8297,7 @@
 0.0.0.0 www.playtax.de
 0.0.0.0 www.playted.de
 0.0.0.0 www.playtogo.de
+0.0.0.0 www.playton.de
 0.0.0.0 www.playtor.de
 0.0.0.0 www.playtory.de
 0.0.0.0 www.playtuda.de
@@ -8240,6 +8331,7 @@
 0.0.0.0 www.poobia.com
 0.0.0.0 www.popnewin.com
 0.0.0.0 www.popshily.com
+0.0.0.0 www.popstarland.com
 0.0.0.0 www.populily.com
 0.0.0.0 www.popuor.com
 0.0.0.0 www.popwelle.com
@@ -8283,6 +8375,7 @@
 0.0.0.0 www.primehyp.de
 0.0.0.0 www.primelogisticllc.com
 0.0.0.0 www.print-controlling.at
+0.0.0.0 www.printyourgesicht24.de
 0.0.0.0 www.privatefloor.com
 0.0.0.0 www.professor-lasertoner.de
 0.0.0.0 www.profi-gartenschlauch.de
@@ -8418,6 +8511,7 @@
 0.0.0.0 www.rethwisch-handball.de
 0.0.0.0 www.retrocyclingtops.com
 0.0.0.0 www.retro-stage.de
+0.0.0.0 www.retrostages.de
 0.0.0.0 www.reva-konsolen.com
 0.0.0.0 www.reva-shops.com
 0.0.0.0 www.rexkino.com
@@ -8463,6 +8557,7 @@
 0.0.0.0 www.rollerclub-wieselburg.at
 0.0.0.0 www.rollerkarl.de
 0.0.0.0 www.romantic-butterfly.com
+0.0.0.0 www.romantisches-mecklenburg.de
 0.0.0.0 www.romaxica.com
 0.0.0.0 www.romflowers.com
 0.0.0.0 www.romoplay.de
@@ -8525,6 +8620,7 @@
 0.0.0.0 www.saramond.de
 0.0.0.0 www.sardegna-saharawi.it
 0.0.0.0 www.saremco-cosmetics.ch
+0.0.0.0 www.sarlsbholding.com
 0.0.0.0 www.saru.ch
 0.0.0.0 www.sasung.at
 0.0.0.0 www.sauberes-handwerk.de
@@ -8669,6 +8765,7 @@
 0.0.0.0 www.shoprosada.com
 0.0.0.0 www.shops-disney-uk.com
 0.0.0.0 www.shrimp-rebels.at
+0.0.0.0 www.sicheredeutscherfuhrerschein.com
 0.0.0.0 www.sieclothes.com
 0.0.0.0 www.sielyss.com
 0.0.0.0 www.sier-24.tech
@@ -8691,6 +8788,7 @@
 0.0.0.0 www.sisterok.de
 0.0.0.0 www.sj-steyr.at
 0.0.0.0 www.skateabalooza.at
+0.0.0.0 www.skatess.cc
 0.0.0.0 www.skechersosterreich.at
 0.0.0.0 www.skinrockfur.de
 0.0.0.0 www.skrum.at
@@ -8901,6 +8999,7 @@
 0.0.0.0 www.swatreact.com
 0.0.0.0 www.sweetobsession.ch
 0.0.0.0 www.swissmasai.ch
+0.0.0.0 www.swristbandpro.com
 0.0.0.0 www.sycha-edv.de
 0.0.0.0 www.sydmeey.de
 0.0.0.0 www.synagoge.at
@@ -9053,6 +9152,7 @@
 0.0.0.0 www.thomassabosuk.com
 0.0.0.0 www.thomassabouksale.com
 0.0.0.0 www.thomeifoods.com
+0.0.0.0 www.thuefol-gmbh.de
 0.0.0.0 www.tidebuy.com
 0.0.0.0 www.tieker-versandhandel.de
 0.0.0.0 www.tiere.at
@@ -9180,6 +9280,7 @@
 0.0.0.0 www.tuuik.com
 0.0.0.0 www.tvdeal24.net
 0.0.0.0 www.twovillas.com
+0.0.0.0 www.twpfactory.com
 0.0.0.0 www.tyjmuq.com
 0.0.0.0 www.typo-vision.de
 0.0.0.0 www.uabirkhan.com
@@ -9278,6 +9379,7 @@
 0.0.0.0 www.vanitycosmetics.us
 0.0.0.0 www.vanmarco.at
 0.0.0.0 www.vano-media.com
+0.0.0.0 www.vanskens-transport.com
 0.0.0.0 www.vaporizerd.com
 0.0.0.0 www.varibel.de
 0.0.0.0 www.vaschoen.com
@@ -9351,6 +9453,7 @@
 0.0.0.0 www.vitals-elektroniks.com
 0.0.0.0 www.vite-envogue.de
 0.0.0.0 www.vivabrush.de
+0.0.0.0 www.vivaiacollection.com
 0.0.0.0 www.viva-med.de
 0.0.0.0 www.vivibay.com
 0.0.0.0 www.vividpretty.com
@@ -9542,6 +9645,7 @@
 0.0.0.0 www.wowperucken.de
 0.0.0.0 www.wpgame.shop
 0.0.0.0 www.wpyslr.com
+0.0.0.0 www.wsoftia.com
 0.0.0.0 www.wsonio.com
 0.0.0.0 www.wundershark.de
 0.0.0.0 www.wunderwahl.de
