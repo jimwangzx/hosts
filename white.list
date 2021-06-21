@@ -18,7 +18,7 @@ c.amazon-adsystem.com
 app.link
 mobilesdk-us.kampyle.com
 sdk.split.io
-app-measurement.com		
+#app-measurement.com		
 sb.scorecardresearch.com
 
 # Apple
@@ -48,17 +48,17 @@ graph.instagram.com
 user-images.githubusercontent.com
 
 # Google
-analytics.google.com
-google-analytics.com
-www.google-analytics.com
-googletagmanager.com
-www.googletagmanager.com
-googletagservices.com
-www.googletagservices.com
-ssl-google-analytics.l.google.com
-ssl.google-analytics.com
-www-google-analytics.l.google.com
-www-googletagmanager.l.google.com
+#analytics.google.com
+#google-analytics.com
+#www.google-analytics.com
+#googletagmanager.com
+#www.googletagmanager.com
+#googletagservices.com
+#www.googletagservices.com
+#ssl-google-analytics.l.google.com
+#ssl.google-analytics.com
+#www-google-analytics.l.google.com
+#www-googletagmanager.l.google.com
 
 # Kicker Mobile App
 interaction.apester.com
@@ -84,7 +84,7 @@ ichnaea.netflix.com
 nrdp.prod.ftl.netflix.com
 push.prod.netflix.com
 customerevents.netflix.com
-dualstack.beaconserver-ce-vpc0-1537565064.eu-west-1.elb.amazonaws.com
+#dualstack.beaconserver-ce-vpc0-1537565064.eu-west-1.elb.amazonaws.com
 
 # Nintendo
 image.ccg.nintendo.net

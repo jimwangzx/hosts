@@ -19,13 +19,13 @@
 # Statistik
 # ---------
 #
-# Whitelist: 13673
+# Whitelist: 13645
 # Deadlist: 386808
-# Blacklist: 1702
+# Blacklist: 1688
 # 1. Source: 4282 - https://raw.githubusercontent.com/stonecrusher/filterlists-pihole/master/watchlist-internet-ph.txt
 #
 # ---------------------------------------------
-# 9900 Domains - V2021.06.21-09:15:44
+# 9908 Domains - V2021.06.21-22:10:23
 # ---------------------------------------------
 #
 0.0.0.0 100jahrehochbahn.de
@@ -197,6 +197,7 @@
 0.0.0.0 ambroxitp.com
 0.0.0.0 ambusama.de
 0.0.0.0 amechad.de
+0.0.0.0 amellys-damenboutique.de
 0.0.0.0 ament.at
 0.0.0.0 amicale-des-alberes.fr
 0.0.0.0 amirhpc.com
@@ -286,6 +287,7 @@
 0.0.0.0 as-transport.org
 0.0.0.0 atakku.at
 0.0.0.0 atelierpesce.it
+0.0.0.0 ateris-versandhandel.de
 0.0.0.0 atesco.de
 0.0.0.0 atleisures.com
 0.0.0.0 atlienstore.com
@@ -2382,6 +2384,7 @@
 0.0.0.0 kfz-hogen.de
 0.0.0.0 kfz-tiptop.at
 0.0.0.0 kg-treppchen.de
+0.0.0.0 kiatajhizd.com
 0.0.0.0 kickoutracism.de
 0.0.0.0 kiddiesstarkmachen.de
 0.0.0.0 kidimo.at
@@ -4684,6 +4687,7 @@
 0.0.0.0 viagogo.de
 0.0.0.0 viagrafuerfrauen.com
 0.0.0.0 viciac.com
+0.0.0.0 victormartincollection.com
 0.0.0.0 videofilm-reinhardt.de
 0.0.0.0 videokaarten.eu
 0.0.0.0 viennaapartments.org
@@ -5082,6 +5086,7 @@
 0.0.0.0 www.ambroxitp.com
 0.0.0.0 www.ambusama.de
 0.0.0.0 www.amechad.de
+0.0.0.0 www.amellys-damenboutique.de
 0.0.0.0 www.ament.at
 0.0.0.0 www.amicale-des-alberes.fr
 0.0.0.0 www.amirhpc.com
@@ -5169,6 +5174,7 @@
 0.0.0.0 www.as-transport.org
 0.0.0.0 www.atakku.at
 0.0.0.0 www.atelierpesce.it
+0.0.0.0 www.ateris-versandhandel.de
 0.0.0.0 www.atesco.de
 0.0.0.0 www.atleisures.com
 0.0.0.0 www.atlienstore.com
@@ -7210,6 +7216,7 @@
 0.0.0.0 www.kfz-hogen.de
 0.0.0.0 www.kfz-tiptop.at
 0.0.0.0 www.kg-treppchen.de
+0.0.0.0 www.kiatajhizd.com
 0.0.0.0 www.kickoutracism.de
 0.0.0.0 www.kiddiesstarkmachen.de
 0.0.0.0 www.kidimo.at
@@ -9443,6 +9450,7 @@
 0.0.0.0 www.viagogo.de
 0.0.0.0 www.viagrafuerfrauen.com
 0.0.0.0 www.viciac.com
+0.0.0.0 www.victormartincollection.com
 0.0.0.0 www.videofilm-reinhardt.de
 0.0.0.0 www.videokaarten.eu
 0.0.0.0 www.viennaapartments.org

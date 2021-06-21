@@ -22,11 +22,11 @@
 # Whitelist: 0
 # Deadlist: 0
 # Blacklist: 0
-# 1. Source: 182 - https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/data/ads_tracking.txt
+# 1. Source: 187 - https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/data/ads_tracking.txt
 # 2. Source: 424 - https://raw.githubusercontent.com/nextdns/metadata/master/privacy/affiliate-tracking-domains
 #
 # ---------------------------------------------
-# 654 Domains - V2021.06.16-03:36:41
+# 659 Domains - V2021.06.21-22:18:31
 # ---------------------------------------------
 #
 0.0.0.0 19534.redirect.appmetrica.yandex.com
@@ -296,11 +296,16 @@
 0.0.0.0 ads.facebook.com
 0.0.0.0 ads.google.com
 0.0.0.0 ads.linkedin.com
+0.0.0.0 ads.netflix.com
 0.0.0.0 adspecs.yahoo.com
 0.0.0.0 ads.pinterest.com
 0.0.0.0 ads.reddit.com
+0.0.0.0 ads.test.netflix.com
 0.0.0.0 ads.tiktok.com
+0.0.0.0 ads.tiktok.com.edgekey.net
 0.0.0.0 ads-twitter.com
+0.0.0.0 ads.us-east-1.prodaa.netflix.com
+0.0.0.0 ads.us-west-2.prodaa.netflix.com
 0.0.0.0 ads.yahoo.com
 0.0.0.0 ads.yap.yahoo.com
 0.0.0.0 ads.youtube.com
