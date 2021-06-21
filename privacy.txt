@@ -49,6 +49,7 @@
 #
 # Crashlytics
 #
+0.0.0.0 crashlytics.com
 0.0.0.0 crashlyticsreports-pa.googleapis.com
 0.0.0.0 firebase-settings.crashlytics.com
 #
@@ -152,6 +153,11 @@
 0.0.0.0 analyticsnew.overwolf.com
 0.0.0.0 tracking.overwolf.com
 #
+# PayPal
+#
+0.0.0.0 stats.paypal.com
+0.0.0.0 t.paypal.com
+#
 # Realme
 #
 0.0.0.0 bdapi-in-ads.realmemobile.com
@@ -163,10 +169,12 @@
 # SambaTV
 #
 0.0.0.0 api.cid.samba.tv
+0.0.0.0 api.recommendations.samba.tv
 0.0.0.0 events.cid.samba.tv
+0.0.0.0 flingo.tv
 0.0.0.0 platform.cid.samba.tv
 0.0.0.0 preferences.cid.samba.tv
-0.0.0.0 flingo.tv
+0.0.0.0 samba.tv
 0.0.0.0 www.flingo.tv
 #
 # Samsung
@@ -184,6 +192,27 @@
 0.0.0.0 samsungads.com
 0.0.0.0 seao.business.samsung.com
 0.0.0.0 smetrics.samsung.com
+#
+# Sentry
+#
+0.0.0.0 a.sentry.io
+0.0.0.0 browser.sentry-cdn.com
+0.0.0.0 ingest.sentry.io
+0.0.0.0 my.sentry.io
+0.0.0.0 sentry-cdn.com
+0.0.0.0 sentry.io
+0.0.0.0 services.sentry.io
+#
+# Smartclip
+#
+0.0.0.0 ad.smartclip.net
+0.0.0.0 ad.sxp.smartclip.net
+0.0.0.0 ci.atv.smartclip.net
+0.0.0.0 ci.sxp.smartclip.net
+0.0.0.0 smartclip.com
+0.0.0.0 smartclip.net
+0.0.0.0 stats.smartclip.net
+0.0.0.0 sxp.smartclip.net
 #
 # Snapchat
 #
@@ -228,14 +257,37 @@
 0.0.0.0 ssm2.internet.sony.tv
 0.0.0.0 ssm3.internet.sony.tv
 #
+# Spotify
+#
+0.0.0.0 adeventtracker.spotify.com
+#
+# Tapatalk
+#
+0.0.0.0 log.tapatalk.com
+0.0.0.0 track.tapatalk.com
+#
 # Tiktok
 #
+0.0.0.0 applog.musical.ly
+0.0.0.0 byteoversea.com
+0.0.0.0 i.byteoversea.com
+0.0.0.0 ichannel.musical.ly
+0.0.0.0 ichannel.snssdk.com
 0.0.0.0 log-va.tiktokv.com
+0.0.0.0 log.byteoversea.com
+0.0.0.0 log.snssdk.com
 0.0.0.0 log.tiktokv.com
+0.0.0.0 log15.byteoversea.com
+0.0.0.0 log16-normal-c-useast1a.tiktokv.com
 0.0.0.0 mcs-va.tiktokv.com
 0.0.0.0 mon-va.tiktokv.com
 0.0.0.0 mon.tiktokv.com
+0.0.0.0 rtlog.byteoversea.com
+0.0.0.0 rtlog.musical.ly
+0.0.0.0 rtlog.snssdk.com
 0.0.0.0 rtlog.tiktokv.com
+0.0.0.0 snssdk.com
+0.0.0.0 toutiao.com
 0.0.0.0 xlog-va.tiktokv.com
 0.0.0.0 xlog.tiktokv.com
 #
@@ -247,21 +299,39 @@
 #
 # Xiaomi
 #
+0.0.0.0 abtest.mistat.xiaomi.com
+0.0.0.0 activity.browser.intl.miui.com
+0.0.0.0 adv.sec.intl.miui.com
+0.0.0.0 adv.sec.miui.com
 0.0.0.0 api.ad.xiaomi.com
+0.0.0.0 api.brs.intl.miui.com
+0.0.0.0 api.miui.security.xiaomi.com
+0.0.0.0 api.newsfeed.intl.miui.com
 0.0.0.0 app.chat.xiaomi.net
+0.0.0.0 auth.be.sec.miui.com
+0.0.0.0 cdn.ad.xiaomi.com
 0.0.0.0 data.mistat.india.xiaomi.com
 0.0.0.0 data.mistat.intl.xiaomi.com
 0.0.0.0 data.mistat.rus.xiaomi.com
 0.0.0.0 data.mistat.xiaomi.com
 0.0.0.0 globalapi.ad.xiaomi.com
+0.0.0.0 huangye.miui.com
+0.0.0.0 log.ad.xiaomi.com
+0.0.0.0 logupdate.avlyun.sec.miui.com
+0.0.0.0 mazu.sec.miui.com
+0.0.0.0 metok.sys.miui.com
+0.0.0.0 o2o.api.xiaomi.com
+0.0.0.0 r.browser.miui.com
 0.0.0.0 sa.api.intl.miui.com
 0.0.0.0 sdkconfig.ad.intl.xiaomi.com
 0.0.0.0 sdkconfig.ad.xiaomi.com
+0.0.0.0 stat.duokanbox.com
+0.0.0.0 track.ad.xiaomi.com
 0.0.0.0 tracking.india.miui.com
 0.0.0.0 tracking.intl.miui.com
 0.0.0.0 tracking.miui.com
 0.0.0.0 tracking.rus.miui.com
-0.0.0.0 cdn.ad.xiaomi.com
+0.0.0.0 xlmc.sandai.net
 #
 # Lokale Hosts (Loopback)
 #
