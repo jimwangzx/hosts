@@ -19,13 +19,13 @@
 # Statistik
 # ---------
 #
-# Whitelist: 13314
-# Deadlist: 383406
-# Blacklist: 1677
+# Whitelist: 13673
+# Deadlist: 386808
+# Blacklist: 1702
 # 1. Source: 4282 - https://raw.githubusercontent.com/stonecrusher/filterlists-pihole/master/watchlist-internet-ph.txt
 #
 # ---------------------------------------------
-# 9887 Domains - V2021.06.20-03:32:59
+# 9900 Domains - V2021.06.21-09:15:44
 # ---------------------------------------------
 #
 0.0.0.0 100jahrehochbahn.de
@@ -252,6 +252,7 @@
 0.0.0.0 app-testina.com
 0.0.0.0 app-testion.com
 0.0.0.0 apricot-pudel.at
+0.0.0.0 aprs-karlsruhe.de
 0.0.0.0 aqdixj.com
 0.0.0.0 aquaclean-das-original.de
 0.0.0.0 aquamax.at
@@ -779,6 +780,7 @@
 0.0.0.0 chichandbagsshop.com
 0.0.0.0 chicladdy.com
 0.0.0.0 chicrina.com
+0.0.0.0 chicsoda.de
 0.0.0.0 chicsoso.com
 0.0.0.0 chiliaug.com
 0.0.0.0 chili-pepper.ch
@@ -1739,6 +1741,7 @@
 0.0.0.0 getzor.com
 0.0.0.0 geuer-elektronline.com
 0.0.0.0 ggv-tk.de
+0.0.0.0 ghostarmy.de
 0.0.0.0 gh-stadtwald.at
 0.0.0.0 ghyifellowe.site
 0.0.0.0 giabardi.shop
@@ -3980,6 +3983,7 @@
 0.0.0.0 shop.dragon.bike
 0.0.0.0 shop.electro-center.lu
 0.0.0.0 shopeplace.com
+0.0.0.0 shop.haushaltsideal.de
 0.0.0.0 shopidoro.eu
 0.0.0.0 shopkrone.de
 0.0.0.0 shopmood.de
@@ -4421,6 +4425,7 @@
 0.0.0.0 todoplay.de
 0.0.0.0 todos-lala.com
 0.0.0.0 tonfeld-freiburg.de
+0.0.0.0 toni-greif.de
 0.0.0.0 tonobi.de
 0.0.0.0 tonspy.com
 0.0.0.0 topamarkt.de
@@ -4779,6 +4784,7 @@
 0.0.0.0 watchesinfashion.se
 0.0.0.0 watchesstore.co
 0.0.0.0 waw-hausoptimierung.de
+0.0.0.0 waworld.de
 0.0.0.0 wayfale.com
 0.0.0.0 wayplay.de
 0.0.0.0 wayrates.com
@@ -4906,6 +4912,7 @@
 0.0.0.0 wpyslr.com
 0.0.0.0 wsoftia.com
 0.0.0.0 wsonio.com
+0.0.0.0 wunderlandwelpenhaus.com
 0.0.0.0 wundershark.de
 0.0.0.0 wunderwahl.de
 0.0.0.0 wunderwild.de
@@ -5129,6 +5136,7 @@
 0.0.0.0 www.app-testina.com
 0.0.0.0 www.app-testion.com
 0.0.0.0 www.apricot-pudel.at
+0.0.0.0 www.aprs-karlsruhe.de
 0.0.0.0 www.aqdixj.com
 0.0.0.0 www.aquaclean-das-original.de
 0.0.0.0 www.aquamax.at
@@ -5637,6 +5645,7 @@
 0.0.0.0 www.chichandbagsshop.com
 0.0.0.0 www.chicladdy.com
 0.0.0.0 www.chicrina.com
+0.0.0.0 www.chicsoda.de
 0.0.0.0 www.chicsoso.com
 0.0.0.0 www.chiliaug.com
 0.0.0.0 www.chili-pepper.ch
@@ -6568,6 +6577,7 @@
 0.0.0.0 www.getzor.com
 0.0.0.0 www.geuer-elektronline.com
 0.0.0.0 www.ggv-tk.de
+0.0.0.0 www.ghostarmy.de
 0.0.0.0 www.gh-stadtwald.at
 0.0.0.0 www.ghyifellowe.site
 0.0.0.0 www.giabardi.shop
@@ -9186,6 +9196,7 @@
 0.0.0.0 www.todoplay.de
 0.0.0.0 www.todos-lala.com
 0.0.0.0 www.tonfeld-freiburg.de
+0.0.0.0 www.toni-greif.de
 0.0.0.0 www.tonobi.de
 0.0.0.0 www.tonspy.com
 0.0.0.0 www.topamarkt.de
@@ -9530,6 +9541,7 @@
 0.0.0.0 www.watchesinfashion.se
 0.0.0.0 www.watchesstore.co
 0.0.0.0 www.waw-hausoptimierung.de
+0.0.0.0 www.waworld.de
 0.0.0.0 www.wayfale.com
 0.0.0.0 www.wayplay.de
 0.0.0.0 www.wayrates.com
@@ -9647,6 +9659,7 @@
 0.0.0.0 www.wpyslr.com
 0.0.0.0 www.wsoftia.com
 0.0.0.0 www.wsonio.com
+0.0.0.0 www.wunderlandwelpenhaus.com
 0.0.0.0 www.wundershark.de
 0.0.0.0 www.wunderwahl.de
 0.0.0.0 www.wunderwild.de
