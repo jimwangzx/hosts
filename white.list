@@ -18,13 +18,15 @@ c.amazon-adsystem.com
 app.link
 mobilesdk-us.kampyle.com
 sdk.split.io
-#app-measurement.com		
+#app-measurement.com
 sb.scorecardresearch.com
 
 # Apple
-stats.gc.apple.com
+iphone-ld.apple.com
+iphone-ld.origin-apple.com.akadns.net
 ocsp.apple.com
 ocsp2.apple.com
+stats.gc.apple.com
 
 # Cookies (Spiegel/...)
 cdn.cookielaw.org
@@ -156,4 +158,4 @@ r3.o.lencr.org
 # Zoom
 logfiles.zoom.us
 log.zoom.us
-click.zoom.us 
+click.zoom.us
