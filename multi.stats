@@ -22,9 +22,9 @@
 # Whitelist: 45369
 # Deadlist: 399264
 
-# Blacklist global: 868
+# Blacklist global: 839
 # Blacklist source: 
-# Blacklist: 868
+# Blacklist: 839
 
 # 1. Source: 1001 - https://raw.githubusercontent.com/jkrejcha/AdmiraList/master/AdmiraList.txt
 # 2. Source: 662 - https://v.firebog.net/hosts/Admiral.txt
@@ -96,12 +96,12 @@
 # #. Source: 1661737
 
 Statistik multi.txt:
-== Source (unique): 957553
-++ Black:           958392 (+839)
--- White:           953957 (-4435)
--- Dead:            784412 (-169545)
--- Hosts:           784344 (-68)
-++ Block:           784352 (+8)
--- Unblock:         780962 (-3391)
-++ WWW-Domains:     852644 (+71682)
-++ FLD-Domains:     853809 (+1165)
+== Source (unique): 957552
+++ Black:           958391 (+839)
+-- White:           953956 (-4435)
+-- Dead:            784411 (-169545)
+-- Hosts:           784343 (-68)
+++ Block:           784351 (+8)
+-- Unblock:         780961 (-3391)
+++ WWW-Domains:     852644 (+71683)
+++ FLD-Domains:     853808 (+1164)
