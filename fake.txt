@@ -19,13 +19,13 @@
 # Statistik
 # ---------
 #
-# Whitelist: 13660
-# Deadlist: 390160
-# Blacklist: 1689
+# Whitelist: 13608
+# Deadlist: 399732
+# Blacklist: 1692
 # 1. Source: 4282 - https://raw.githubusercontent.com/stonecrusher/filterlists-pihole/master/watchlist-internet-ph.txt
 #
 # ---------------------------------------------
-# 9910 Domains - V2021.06.23-11:20:09
+# 9916 Domains - V2021.06.24-03:17:02
 # ---------------------------------------------
 #
 0.0.0.0 100jahrehochbahn.de
@@ -981,6 +981,7 @@
 0.0.0.0 darhinos.com
 0.0.0.0 darkbodybuilding.net
 0.0.0.0 darkpods.at
+0.0.0.0 daschachten.de
 0.0.0.0 dasglobetrotterforum.de
 0.0.0.0 dashausimgarten.de
 0.0.0.0 das-home.com
@@ -2684,6 +2685,7 @@
 0.0.0.0 luvay.de
 0.0.0.0 luvpear.com
 0.0.0.0 luvyle.com
+0.0.0.0 luxfewo.de
 0.0.0.0 luxishop.de
 0.0.0.0 luxsofabezuege.com
 0.0.0.0 luxuryforcheapgermany.de
@@ -4097,6 +4099,7 @@
 0.0.0.0 sparkauf24.com
 0.0.0.0 sparluchs.net
 0.0.0.0 spar-markt.de
+0.0.0.0 sparturn.de
 0.0.0.0 speaklife.at
 0.0.0.0 special-sports.at
 0.0.0.0 spedition-starodab.eu
@@ -5839,6 +5842,7 @@
 0.0.0.0 www.darhinos.com
 0.0.0.0 www.darkbodybuilding.net
 0.0.0.0 www.darkpods.at
+0.0.0.0 www.daschachten.de
 0.0.0.0 www.dasglobetrotterforum.de
 0.0.0.0 www.dashausimgarten.de
 0.0.0.0 www.das-home.com
@@ -7511,6 +7515,7 @@
 0.0.0.0 www.luvay.de
 0.0.0.0 www.luvpear.com
 0.0.0.0 www.luvyle.com
+0.0.0.0 www.luxfewo.de
 0.0.0.0 www.luxishop.de
 0.0.0.0 www.luxsofabezuege.com
 0.0.0.0 www.luxuryforcheapgermany.de
@@ -8879,6 +8884,7 @@
 0.0.0.0 www.sparkauf24.com
 0.0.0.0 www.sparluchs.net
 0.0.0.0 www.spar-markt.de
+0.0.0.0 www.sparturn.de
 0.0.0.0 www.speaklife.at
 0.0.0.0 www.special-sports.at
 0.0.0.0 www.spedition-starodab.eu
