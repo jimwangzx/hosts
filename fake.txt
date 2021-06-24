@@ -19,13 +19,13 @@
 # Statistik
 # ---------
 #
-# Whitelist: 13608
-# Deadlist: 399732
-# Blacklist: 1692
+# Whitelist: 14294
+# Deadlist: 396733
+# Blacklist: 1698
 # 1. Source: 4282 - https://raw.githubusercontent.com/stonecrusher/filterlists-pihole/master/watchlist-internet-ph.txt
 #
 # ---------------------------------------------
-# 9916 Domains - V2021.06.24-03:17:02
+# 9928 Domains - V2021.06.24-10:10:29
 # ---------------------------------------------
 #
 0.0.0.0 100jahrehochbahn.de
@@ -154,6 +154,7 @@
 0.0.0.0 allaboutexhibition.de
 0.0.0.0 allconsumstore.com
 0.0.0.0 alleein.com
+0.0.0.0 alle-goldhandler-bewerten.de
 0.0.0.0 allenett.com
 0.0.0.0 allescasual.at
 0.0.0.0 allescasual.ch
@@ -1797,6 +1798,7 @@
 0.0.0.0 goldenretrieverzuchter.de
 0.0.0.0 goldenwaters.de
 0.0.0.0 goldhandel-beratung-kauf.de
+0.0.0.0 goldhandel-clever-kaufen.de
 0.0.0.0 goldhandel-depot.de
 0.0.0.0 goldhandel-imperium.de
 0.0.0.0 goldhandel-markt.de
@@ -3300,6 +3302,7 @@
 0.0.0.0 onlinejobs2020.at
 0.0.0.0 online-mode-1.de
 0.0.0.0 onlineoutletsale2021.com
+0.0.0.0 onlineshops-bewerten-shopnr19382.de
 0.0.0.0 online-uggs.net
 0.0.0.0 onward.store
 0.0.0.0 optic-dias.ru
@@ -4509,6 +4512,9 @@
 0.0.0.0 trusted-gold-shops.de
 0.0.0.0 trusted-goldshops-handel.de
 0.0.0.0 trusted-goldshops-liste.de
+0.0.0.0 trusted-goldshops-nr2183.de
+0.0.0.0 trusted-goldshops-nr3873.de
+0.0.0.0 trusted-goldshops-nr9813.de
 0.0.0.0 trusted-onlineshops-liste.de
 0.0.0.0 trusted-shops-goldlieferanten.de
 0.0.0.0 trusted-shops-in-deutschland.de
@@ -5048,6 +5054,7 @@
 0.0.0.0 www.allaboutexhibition.de
 0.0.0.0 www.allconsumstore.com
 0.0.0.0 www.alleein.com
+0.0.0.0 www.alle-goldhandler-bewerten.de
 0.0.0.0 www.allenett.com
 0.0.0.0 www.allescasual.at
 0.0.0.0 www.allescasual.ch
@@ -6640,6 +6647,7 @@
 0.0.0.0 www.goldenretrieverzuchter.de
 0.0.0.0 www.goldenwaters.de
 0.0.0.0 www.goldhandel-beratung-kauf.de
+0.0.0.0 www.goldhandel-clever-kaufen.de
 0.0.0.0 www.goldhandel-depot.de
 0.0.0.0 www.goldhandel-imperium.de
 0.0.0.0 www.goldhandel-markt.de
@@ -8105,6 +8113,7 @@
 0.0.0.0 www.onlinejobs2020.at
 0.0.0.0 www.online-mode-1.de
 0.0.0.0 www.onlineoutletsale2021.com
+0.0.0.0 www.onlineshops-bewerten-shopnr19382.de
 0.0.0.0 www.online-uggs.net
 0.0.0.0 www.onward.store
 0.0.0.0 www.optic-dias.ru
@@ -9287,6 +9296,9 @@
 0.0.0.0 www.trusted-gold-shops.de
 0.0.0.0 www.trusted-goldshops-handel.de
 0.0.0.0 www.trusted-goldshops-liste.de
+0.0.0.0 www.trusted-goldshops-nr2183.de
+0.0.0.0 www.trusted-goldshops-nr3873.de
+0.0.0.0 www.trusted-goldshops-nr9813.de
 0.0.0.0 www.trusted-onlineshops-liste.de
 0.0.0.0 www.trusted-shops-goldlieferanten.de
 0.0.0.0 www.trusted-shops-in-deutschland.de
