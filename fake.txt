@@ -19,14 +19,14 @@
 # Statistik
 # ---------
 #
-# Whitelist: 14294
+# Whitelist: 45369
 # Deadlist: 399264
 # Blacklist: 1661
 # 1. Source: 4282 - https://raw.githubusercontent.com/stonecrusher/filterlists-pihole/master/watchlist-internet-ph.txt
 # 2. Source: 1480 - https://raw.githubusercontent.com/cbuijs/shallalist/master/costtraps/domains
 #
 # ---------------------------------------------
-# 10300 Domains - V2021.06.24-17:41:23
+# 10292 Domains - V2021.06.24-18:24:45
 # ---------------------------------------------
 #
 0.0.0.0 1000gratisproben.com
@@ -2297,7 +2297,6 @@
 0.0.0.0 installateurnotdienste.at
 0.0.0.0 installateur-notdienst-wien.co.at
 0.0.0.0 instametall.de
-0.0.0.0 instantcheckmate.com
 0.0.0.0 insvive.com
 0.0.0.0 inteltey.com
 0.0.0.0 intercamping-grossbreitenbach.com
@@ -2367,7 +2366,6 @@
 0.0.0.0 jieper.com
 0.0.0.0 jilg-market.de
 0.0.0.0 jjctrans.com
-0.0.0.0 jjshouse.com
 0.0.0.0 jkarnil.com
 0.0.0.0 jkbikesout.cc
 0.0.0.0 jkhckf.top
@@ -4110,7 +4108,6 @@
 0.0.0.0 shebeautys.com
 0.0.0.0 sheheaven.com
 0.0.0.0 sheicloth.com
-0.0.0.0 shein.com
 0.0.0.0 sheinyci.com
 0.0.0.0 sheistyle.com
 0.0.0.0 shelanu.at
@@ -4613,7 +4610,6 @@
 0.0.0.0 topmodareps.es
 0.0.0.0 topmultimediashop.com
 0.0.0.0 top-of-software.de
-0.0.0.0 top-password.com
 0.0.0.0 topservice-buende.de
 0.0.0.0 topshopdeal.com
 0.0.0.0 top-steroide-kaufen.com
@@ -7324,7 +7320,6 @@
 0.0.0.0 www.installateurmax.at
 0.0.0.0 www.installateurnotdienste.at
 0.0.0.0 www.instametall.de
-0.0.0.0 www.instantcheckmate.com
 0.0.0.0 www.insvive.com
 0.0.0.0 www.inteltey.com
 0.0.0.0 www.intercamping-grossbreitenbach.com
@@ -7394,7 +7389,6 @@
 0.0.0.0 www.jieper.com
 0.0.0.0 www.jilg-market.de
 0.0.0.0 www.jjctrans.com
-0.0.0.0 www.jjshouse.com
 0.0.0.0 www.jkarnil.com
 0.0.0.0 www.jkbikesout.cc
 0.0.0.0 www.jkhckf.top
@@ -9086,7 +9080,6 @@
 0.0.0.0 www.shebeautys.com
 0.0.0.0 www.sheheaven.com
 0.0.0.0 www.sheicloth.com
-0.0.0.0 www.shein.com
 0.0.0.0 www.sheinyci.com
 0.0.0.0 www.sheistyle.com
 0.0.0.0 www.shelanu.at
@@ -9578,7 +9571,6 @@
 0.0.0.0 www.topmodareps.es
 0.0.0.0 www.topmultimediashop.com
 0.0.0.0 www.top-of-software.de
-0.0.0.0 www.top-password.com
 0.0.0.0 www.topservice-buende.de
 0.0.0.0 www.topshopdeal.com
 0.0.0.0 www.top-steroide-kaufen.com
