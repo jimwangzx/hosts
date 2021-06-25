@@ -19,14 +19,14 @@
 # Statistik
 # ---------
 #
-# Whitelist: 45369
-# Deadlist: 399264
-# Blacklist: 1661
+# Whitelist: 44956
+# Deadlist: 398653
+# Blacklist: 1662
 # 1. Source: 4282 - https://raw.githubusercontent.com/stonecrusher/filterlists-pihole/master/watchlist-internet-ph.txt
 # 2. Source: 1480 - https://raw.githubusercontent.com/cbuijs/shallalist/master/costtraps/domains
 #
 # ---------------------------------------------
-# 10292 Domains - V2021.06.24-18:24:45
+# 10294 Domains - V2021.06.25-20:17:05
 # ---------------------------------------------
 #
 0.0.0.0 1000gratisproben.com
@@ -2902,6 +2902,7 @@
 0.0.0.0 media-hungry.de
 0.0.0.0 media-marktonline.com
 0.0.0.0 mediamartinsen.de
+0.0.0.0 medianeptun.com
 0.0.0.0 media-north.de
 0.0.0.0 mediapart.center
 0.0.0.0 medias-markets.com
@@ -7917,6 +7918,7 @@
 0.0.0.0 www.media-hungry.de
 0.0.0.0 www.media-marktonline.com
 0.0.0.0 www.mediamartinsen.de
+0.0.0.0 www.medianeptun.com
 0.0.0.0 www.media-north.de
 0.0.0.0 www.mediapart.center
 0.0.0.0 www.medias-markets.com
