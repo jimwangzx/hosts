@@ -17,11 +17,16 @@
 #                 https://t.me/piholefans_DACH
 # ---------------------------------------------
 #
-# Amazon/Alexa
+# Amazon (Alexa/FireTV)
 #
+0.0.0.0 d3p8zr0ffa9t17.cloudfront.net
 0.0.0.0 data.alexa.com
 0.0.0.0 device-metrics-us-2.amazon.com
 0.0.0.0 device-metrics-us.amazon.com
+0.0.0.0 devicemessaging.us-east-1.amazon.com
+0.0.0.0 mobileanalytics.us-east-1.amazonaws.com
+0.0.0.0 notify.firetv.bugsnag.appstore.a2z.com
+
 #
 # Apple
 #
@@ -46,16 +51,19 @@
 0.0.0.0 ut.iadsdk.apple.com
 0.0.0.0 weather-analytics-events.apple.com
 0.0.0.0 www.iadsdk.apple.com
+
 #
 # Crashlytics
 #
 0.0.0.0 crashlytics.com
 0.0.0.0 crashlyticsreports-pa.googleapis.com
 0.0.0.0 firebase-settings.crashlytics.com
+
 #
 # Google
 #
 0.0.0.0 app-measurement.com
+
 #
 # Huawei
 #
@@ -77,10 +85,12 @@
 0.0.0.0 metrics3.data.hicloud.com
 0.0.0.0 metrics4.data.hicloud.com
 0.0.0.0 metrics5.data.hicloud.com
+
 #
 # IKEA (Tradfri)
 #
 0.0.0.0 webhook.logentries.com
+
 #
 # Microsoft
 #
@@ -127,11 +137,13 @@
 0.0.0.0 watson.telemetry.microsoft.com
 0.0.0.0 weus2watcab01.blob.core.windows.net
 0.0.0.0 weus2watcab02.blob.core.windows.net
+
 #
 # Mozilla / Firefox
 #
 0.0.0.0 incoming.telemetry.mozilla.org
 0.0.0.0 telemetry-incoming.r53-2.services.mozilla.com
+
 #
 # Netflix
 #
@@ -140,6 +152,7 @@
 0.0.0.0 beacon.us-west-2.prodaa.netflix.com
 0.0.0.0 nmtracking.netflix.com
 0.0.0.0 presentationtracking.netflix.com
+
 #
 # OnePlus
 #
@@ -147,6 +160,7 @@
 0.0.0.0 click.oneplus.cn
 0.0.0.0 click.oneplus.com
 0.0.0.0 open.oneplus.net
+
 #
 # Oppo
 #
@@ -156,24 +170,29 @@
 0.0.0.0 ck.ads.oppomobile.com
 0.0.0.0 data.ads.oppomobile.com
 0.0.0.0 g1.ads.oppomobile.com
+
 #
 # Overwolf
 #
 0.0.0.0 analyticsnew.overwolf.com
 0.0.0.0 tracking.overwolf.com
+
 #
 # PayPal
 #
 0.0.0.0 stats.paypal.com
 0.0.0.0 t.paypal.com
+
 #
 # Realme
 #
 0.0.0.0 bdapi-in-ads.realmemobile.com
+
 #
 # Roku
 #
 0.0.0.0 logs.roku.com
+
 #
 # SambaTV
 #
@@ -185,6 +204,7 @@
 0.0.0.0 preferences.cid.samba.tv
 0.0.0.0 samba.tv
 0.0.0.0 www.flingo.tv
+
 #
 # Samsung
 #
@@ -201,6 +221,7 @@
 0.0.0.0 samsungads.com
 0.0.0.0 seao.business.samsung.com
 0.0.0.0 smetrics.samsung.com
+
 #
 # Sentry
 #
@@ -211,6 +232,7 @@
 0.0.0.0 sentry-cdn.com
 0.0.0.0 sentry.io
 0.0.0.0 services.sentry.io
+
 #
 # Smartclip
 #
@@ -222,6 +244,7 @@
 0.0.0.0 smartclip.net
 0.0.0.0 stats.smartclip.net
 0.0.0.0 sxp.smartclip.net
+
 #
 # Snapchat
 #
@@ -250,11 +273,13 @@
 0.0.0.0 story-insights.snapchat.com
 0.0.0.0 tr.snapchat.com
 0.0.0.0 usc.adserver.snapads.com
+
 #
 # Sonos
 #
 0.0.0.0 msmetrics-test.ws.sonos.com
 0.0.0.0 msmetrics.ws.sonos.com
+
 #
 # Sony Bravia
 #
@@ -265,15 +290,18 @@
 0.0.0.0 ssm1.internet.sony.tv
 0.0.0.0 ssm2.internet.sony.tv
 0.0.0.0 ssm3.internet.sony.tv
+
 #
 # Spotify
 #
 0.0.0.0 adeventtracker.spotify.com
+
 #
 # Tapatalk
 #
 0.0.0.0 log.tapatalk.com
 0.0.0.0 track.tapatalk.com
+
 #
 # Tiktok
 #
@@ -299,12 +327,14 @@
 0.0.0.0 toutiao.com
 0.0.0.0 xlog-va.tiktokv.com
 0.0.0.0 xlog.tiktokv.com
+
 #
 # Whatsapp
 #
 0.0.0.0 dit.whatsapp.net
 0.0.0.0 privatestats.whatsapp.net
 0.0.0.0 crashlogs.whatsapp.net
+
 #
 # Xiaomi
 #
