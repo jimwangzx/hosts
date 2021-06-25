@@ -16,8 +16,8 @@
 #                 https://t.me/piholefans_DACH
 # ---------------------------------------------
 
-# Hosts fake.txt: 10294
-# Hosts: 10294
+# Hosts fake.txt: 10292
+# Hosts: 10292
 
 # Whitelist: 57360
 # Deadlist: 398653
@@ -88,18 +88,18 @@
 # 60. Source: 1191 - https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # 61. Source: 3051 - https://raw.githubusercontent.com/infinitytec/blocklists/master/scams-and-phishing.txt
 # 62. Source: 1386 - https://raw.githubusercontent.com/mitchellkrogza/Badd-Boyz-Hosts/master/hosts
-# 63. Source: 1518 - https://urlhaus.abuse.ch/downloads/hostfile/
+# 63. Source: 1529 - https://urlhaus.abuse.ch/downloads/hostfile/
 # 64. Source: 439 - https://raw.githubusercontent.com/Laicure/hosts/master/shithosts
 # 65. Source: 16814 - https://raw.githubusercontent.com/infinitytec/blocklists/master/medicalpseudoscience.txt
-# #. Source: 1638594
+# #. Source: 1638605
 
 Statistik multi.txt:
-== Source (unique): 951063
-++ Black:           951912 (+849)
--- White:           946969 (-4943)
--- Dead:            777741 (-169228)
--- Hosts:           777674 (-67)
-++ Block:           777682 (+8)
--- Unblock:         774526 (-3157)
-++ WWW-Domains:     842857 (+68331)
-++ FLD-Domains:     844038 (+1181)
+== Source (unique): 951064
+++ Black:           951913 (+849)
+-- White:           946970 (-4943)
+-- Dead:            777742 (-169228)
+-- Hosts:           777675 (-67)
+++ Block:           777676 (+1)
+-- Unblock:         774626 (-3051)
+++ WWW-Domains:     842957 (+68331)
+++ FLD-Domains:     844139 (+1182)

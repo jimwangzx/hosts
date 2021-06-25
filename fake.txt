@@ -19,14 +19,14 @@
 # Statistik
 # ---------
 #
-# Whitelist: 44956
+# Whitelist: 57360
 # Deadlist: 398653
 # Blacklist: 1662
 # 1. Source: 4282 - https://raw.githubusercontent.com/stonecrusher/filterlists-pihole/master/watchlist-internet-ph.txt
 # 2. Source: 1480 - https://raw.githubusercontent.com/cbuijs/shallalist/master/costtraps/domains
 #
 # ---------------------------------------------
-# 10294 Domains - V2021.06.25-20:17:05
+# 10292 Domains - V2021.06.25-21:37:50
 # ---------------------------------------------
 #
 0.0.0.0 1000gratisproben.com
@@ -2706,7 +2706,6 @@
 0.0.0.0 liftr.eu
 0.0.0.0 lighteu.de
 0.0.0.0 lightflix.de
-0.0.0.0 lightinthebox.com
 0.0.0.0 likelymore.com
 0.0.0.0 likelymorely.com
 0.0.0.0 lilabogen.de
@@ -7724,7 +7723,6 @@
 0.0.0.0 www.liftr.eu
 0.0.0.0 www.lighteu.de
 0.0.0.0 www.lightflix.de
-0.0.0.0 www.lightinthebox.com
 0.0.0.0 www.likelymore.com
 0.0.0.0 www.likelymorely.com
 0.0.0.0 www.lilabogen.de
