@@ -19,14 +19,14 @@
 # Statistik
 # ---------
 #
-# Whitelist: 57360
-# Deadlist: 398653
-# Blacklist: 1662
+# Whitelist: 57375
+# Deadlist: 421368
+# Blacklist: 1657
 # 1. Source: 4282 - https://raw.githubusercontent.com/stonecrusher/filterlists-pihole/master/watchlist-internet-ph.txt
 # 2. Source: 1480 - https://raw.githubusercontent.com/cbuijs/shallalist/master/costtraps/domains
 #
 # ---------------------------------------------
-# 10292 Domains - V2021.06.25-21:37:50
+# 10258 Domains - V2021.06.26-13:52:38
 # ---------------------------------------------
 #
 0.0.0.0 1000gratisproben.com
@@ -259,7 +259,6 @@
 0.0.0.0 appenin.de
 0.0.0.0 appleiphoneunlock.uk
 0.0.0.0 appletogo.at
-0.0.0.0 approachmall.top
 0.0.0.0 approcket.pro
 0.0.0.0 apps.appshed.com
 0.0.0.0 appscem.com
@@ -969,7 +968,6 @@
 0.0.0.0 creaturepuppetgallery.com
 0.0.0.0 croozer-fahren.de
 0.0.0.0 croozer-kids.de
-0.0.0.0 cryptesco.com
 0.0.0.0 crystalsoul.de
 0.0.0.0 csellich-ruso.at
 0.0.0.0 csg-timeoffice.de
@@ -1025,7 +1023,6 @@
 0.0.0.0 daniel-fuhrerschein.de
 0.0.0.0 daniel-malorny.de
 0.0.0.0 dannispastelart.de
-0.0.0.0 danto-digitalmarkt.com
 0.0.0.0 daplay.de
 0.0.0.0 darhinos.com
 0.0.0.0 darkbodybuilding.net
@@ -1300,7 +1297,6 @@
 0.0.0.0 ekt-wohnhof.de
 0.0.0.0 elbe-baudienst.de
 0.0.0.0 eldond.club
-0.0.0.0 eldorado-store.de
 0.0.0.0 electrodeal24.de
 0.0.0.0 electro-deal.fr
 0.0.0.0 electro-deals.com
@@ -1546,7 +1542,6 @@
 0.0.0.0 fastgamedownload.com
 0.0.0.0 fast-hotelbooking.com
 0.0.0.0 fastmoviedownloads.com
-0.0.0.0 fast-shoppy.com
 0.0.0.0 fasttvdownloads.com
 0.0.0.0 fatburner-1.com
 0.0.0.0 faugustino.com
@@ -1815,7 +1810,6 @@
 0.0.0.0 gerhard-marquardt.de
 0.0.0.0 gerhardt-marquardt.de
 0.0.0.0 germany-wuf.de
-0.0.0.0 gerritse-online.de
 0.0.0.0 gesangverein-spittelstein.de
 0.0.0.0 geschenkzone.at
 0.0.0.0 gespannfahrer-online.de
@@ -1868,7 +1862,6 @@
 0.0.0.0 gmai.com
 0.0.0.0 gmasticks.com
 0.0.0.0 gmbh2go.de
-0.0.0.0 gmidraulica.de
 0.0.0.0 gmixnchic.com
 0.0.0.0 gnazrul.com
 0.0.0.0 gobrashop.com
@@ -2413,7 +2406,6 @@
 0.0.0.0 juxqog.com
 0.0.0.0 jxaricde.com
 0.0.0.0 jxixiya.com
-0.0.0.0 kabpro-vitrinen.com
 0.0.0.0 kadonimo.de
 0.0.0.0 kaeour.com
 0.0.0.0 kaffee-binder.de
@@ -2909,7 +2901,6 @@
 0.0.0.0 mediatempel.eu
 0.0.0.0 mediatools.at
 0.0.0.0 medibus.at
-0.0.0.0 medicine-online.org
 0.0.0.0 mediendeals.de
 0.0.0.0 medikamente-kaufen-24.net
 0.0.0.0 medikamente-rezeptfrei.shop
@@ -3133,7 +3124,6 @@
 0.0.0.0 monokompakt.de
 0.0.0.0 monostarscope.com
 0.0.0.0 monplay.de
-0.0.0.0 monsterstee.com
 0.0.0.0 montanahudson.com
 0.0.0.0 montblancpenseshop.co
 0.0.0.0 montedino.at
@@ -3222,7 +3212,6 @@
 0.0.0.0 mysneakz.com
 0.0.0.0 my-store.ch
 0.0.0.0 mystreetwear.ga
-0.0.0.0 mytech-market.com
 0.0.0.0 mytierhimmel.de
 0.0.0.0 myusenet.de
 0.0.0.0 mywedj.com
@@ -3355,7 +3344,6 @@
 0.0.0.0 nowflix.de
 0.0.0.0 now-re.com
 0.0.0.0 noxgame.de
-0.0.0.0 npnar.com
 0.0.0.0 npvfc.top
 0.0.0.0 nsmlabp.com
 0.0.0.0 nubn.shop
@@ -4307,7 +4295,6 @@
 0.0.0.0 stephan-westerhoff.de
 0.0.0.0 stepwin.de
 0.0.0.0 sterilize-x.com
-0.0.0.0 sternen-boezberg.ch
 0.0.0.0 sternenschreiter.de
 0.0.0.0 sternestd.de
 0.0.0.0 steroide-kaufen.com
@@ -4643,7 +4630,6 @@
 0.0.0.0 traumanau.at
 0.0.0.0 traumbedeutung.com
 0.0.0.0 traum-deko.de
-0.0.0.0 traumhaus-sucht.de
 0.0.0.0 traumtanzer.com
 0.0.0.0 travodo.net
 0.0.0.0 treasureboy.net
@@ -4779,7 +4765,6 @@
 0.0.0.0 unserkleinesgeheimnis.de
 0.0.0.0 unternehmer-2014.de
 0.0.0.0 untertnke.com
-0.0.0.0 upcomingmall.top
 0.0.0.0 upservices.de
 0.0.0.0 upsolutmv.com
 0.0.0.0 upup.at
@@ -4955,7 +4940,6 @@
 0.0.0.0 waldundfeld.myshopify.com
 0.0.0.0 wallplay.de
 0.0.0.0 walter-riegler.at
-0.0.0.0 walther-electron.de
 0.0.0.0 waltraudkoch.de
 0.0.0.0 wanford.com
 0.0.0.0 warenhaus-becker.de
@@ -5099,7 +5083,6 @@
 0.0.0.0 woogoing.com
 0.0.0.0 word-ing.de
 0.0.0.0 worlddenimleague.com
-0.0.0.0 world-electrocenter.com
 0.0.0.0 worldfastcourier.site
 0.0.0.0 worlds-news.biz
 0.0.0.0 worldwidemoving.co.uk
@@ -5343,7 +5326,6 @@
 0.0.0.0 www.appenin.de
 0.0.0.0 www.appleiphoneunlock.uk
 0.0.0.0 www.appletogo.at
-0.0.0.0 www.approachmall.top
 0.0.0.0 www.approcket.pro
 0.0.0.0 www.appscem.com
 0.0.0.0 www.appstogo.de
@@ -6021,7 +6003,6 @@
 0.0.0.0 www.creaturepuppetgallery.com
 0.0.0.0 www.croozer-fahren.de
 0.0.0.0 www.croozer-kids.de
-0.0.0.0 www.cryptesco.com
 0.0.0.0 www.crystalsoul.de
 0.0.0.0 www.csellich-ruso.at
 0.0.0.0 www.csg-timeoffice.de
@@ -6075,7 +6056,6 @@
 0.0.0.0 www.daniel-fuhrerschein.de
 0.0.0.0 www.daniel-malorny.de
 0.0.0.0 www.dannispastelart.de
-0.0.0.0 www.danto-digitalmarkt.com
 0.0.0.0 www.daplay.de
 0.0.0.0 www.darhinos.com
 0.0.0.0 www.darkbodybuilding.net
@@ -6341,7 +6321,6 @@
 0.0.0.0 www.ekt-wohnhof.de
 0.0.0.0 www.elbe-baudienst.de
 0.0.0.0 www.eldond.club
-0.0.0.0 www.eldorado-store.de
 0.0.0.0 www.electrodeal24.de
 0.0.0.0 www.electro-deal.fr
 0.0.0.0 www.electro-deals.com
@@ -6581,7 +6560,6 @@
 0.0.0.0 www.fastgamedownload.com
 0.0.0.0 www.fast-hotelbooking.com
 0.0.0.0 www.fastmoviedownloads.com
-0.0.0.0 www.fast-shoppy.com
 0.0.0.0 www.fasttvdownloads.com
 0.0.0.0 www.fatburner-1.com
 0.0.0.0 www.faugustino.com
@@ -6846,7 +6824,6 @@
 0.0.0.0 www.gerhard-marquardt.de
 0.0.0.0 www.gerhardt-marquardt.de
 0.0.0.0 www.germany-wuf.de
-0.0.0.0 www.gerritse-online.de
 0.0.0.0 www.gesangverein-spittelstein.de
 0.0.0.0 www.geschenkzone.at
 0.0.0.0 www.gespannfahrer-online.de
@@ -6899,7 +6876,6 @@
 0.0.0.0 www.gmai.com
 0.0.0.0 www.gmasticks.com
 0.0.0.0 www.gmbh2go.de
-0.0.0.0 www.gmidraulica.de
 0.0.0.0 www.gmixnchic.com
 0.0.0.0 www.gnazrul.com
 0.0.0.0 www.gobrashop.com
@@ -7436,7 +7412,6 @@
 0.0.0.0 www.juxqog.com
 0.0.0.0 www.jxaricde.com
 0.0.0.0 www.jxixiya.com
-0.0.0.0 www.kabpro-vitrinen.com
 0.0.0.0 www.kadonimo.de
 0.0.0.0 www.kaeour.com
 0.0.0.0 www.kaffee-binder.de
@@ -7924,7 +7899,6 @@
 0.0.0.0 www.mediatempel.eu
 0.0.0.0 www.mediatools.at
 0.0.0.0 www.medibus.at
-0.0.0.0 www.medicine-online.org
 0.0.0.0 www.mediendeals.de
 0.0.0.0 www.medikamente-kaufen-24.net
 0.0.0.0 www.medikamente-rezeptfrei.shop
@@ -8128,7 +8102,6 @@
 0.0.0.0 www.monokompakt.de
 0.0.0.0 www.monostarscope.com
 0.0.0.0 www.monplay.de
-0.0.0.0 www.monsterstee.com
 0.0.0.0 www.montanahudson.com
 0.0.0.0 www.montblancpenseshop.co
 0.0.0.0 www.montedino.at
@@ -8216,7 +8189,6 @@
 0.0.0.0 www.mysneakz.com
 0.0.0.0 www.my-store.ch
 0.0.0.0 www.mystreetwear.ga
-0.0.0.0 www.mytech-market.com
 0.0.0.0 www.mytierhimmel.de
 0.0.0.0 www.myusenet.de
 0.0.0.0 www.mywedj.com
@@ -8348,7 +8320,6 @@
 0.0.0.0 www.nowflix.de
 0.0.0.0 www.now-re.com
 0.0.0.0 www.noxgame.de
-0.0.0.0 www.npnar.com
 0.0.0.0 www.npvfc.top
 0.0.0.0 www.nsmlabp.com
 0.0.0.0 www.nubn.shop
@@ -9274,7 +9245,6 @@
 0.0.0.0 www.stephan-westerhoff.de
 0.0.0.0 www.stepwin.de
 0.0.0.0 www.sterilize-x.com
-0.0.0.0 www.sternen-boezberg.ch
 0.0.0.0 www.sternenschreiter.de
 0.0.0.0 www.sternestd.de
 0.0.0.0 www.steroide-kaufen.com
@@ -9603,7 +9573,6 @@
 0.0.0.0 www.traumanau.at
 0.0.0.0 www.traumbedeutung.com
 0.0.0.0 www.traum-deko.de
-0.0.0.0 www.traumhaus-sucht.de
 0.0.0.0 www.traumtanzer.com
 0.0.0.0 www.travodo.net
 0.0.0.0 www.treasureboy.net
@@ -9729,7 +9698,6 @@
 0.0.0.0 www.unserkleinesgeheimnis.de
 0.0.0.0 www.unternehmer-2014.de
 0.0.0.0 www.untertnke.com
-0.0.0.0 www.upcomingmall.top
 0.0.0.0 www.upservices.de
 0.0.0.0 www.upsolutmv.com
 0.0.0.0 www.upup.at
@@ -9902,7 +9870,6 @@
 0.0.0.0 www.waldnarra-sattaas.at
 0.0.0.0 www.wallplay.de
 0.0.0.0 www.walter-riegler.at
-0.0.0.0 www.walther-electron.de
 0.0.0.0 www.waltraudkoch.de
 0.0.0.0 www.wanford.com
 0.0.0.0 www.warenhaus-becker.de
@@ -10036,7 +10003,6 @@
 0.0.0.0 www.woogoing.com
 0.0.0.0 www.word-ing.de
 0.0.0.0 www.worlddenimleague.com
-0.0.0.0 www.world-electrocenter.com
 0.0.0.0 www.worldfastcourier.site
 0.0.0.0 www.worlds-news.biz
 0.0.0.0 www.worldwidemoving.sg
