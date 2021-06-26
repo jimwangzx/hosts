@@ -26,6 +26,7 @@
 0.0.0.0 devicemessaging.us-east-1.amazon.com
 0.0.0.0 mobileanalytics.us-east-1.amazonaws.com
 0.0.0.0 notify.firetv.bugsnag.appstore.a2z.com
+0.0.0.0 prod.amcs-tachyon.com
 
 #
 # Apple
