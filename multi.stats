@@ -41,7 +41,7 @@
 # 13. Source: 904 - https://v.firebog.net/hosts/static/w3kbl.txt
 # 14. Source: 50940 - https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/easylist.txt
 # 15. Source: 11674 - https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/combined_disguised_trackers_justdomains.txt
-# 16. Source: 68131 - https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/adguarddns.txt
+# 16. Source: 68135 - https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/adguarddns.txt
 # 17. Source: 71533 - https://dbl.oisd.nl/basic/
 # 18. Source: 2046 - https://bitbucket.org/ethanr/dns-blacklists/raw/8575c9f96e5b4a1308f2f12394abd86d0927a4a0/bad_lists/Mandiant_APT1_Report_Appendix_D.txt
 # 19. Source: 122584 - https://blocklist.cyberthreatcoalition.org/vetted/domain.txt
@@ -90,15 +90,15 @@
 # 62. Source: 1115 - https://urlhaus.abuse.ch/downloads/hostfile/
 # 63. Source: 458 - https://raw.githubusercontent.com/Laicure/hosts/master/shithosts
 # 64. Source: 17021 - https://raw.githubusercontent.com/infinitytec/blocklists/master/medicalpseudoscience.txt
-# #. Source: 1262192
+# #. Source: 1262196
 
 Statistik multi.txt:
-== Source (unique): 606423
-++ Black:           607314 (+891)
--- White:           602976 (-4338)
--- Dead:            427710 (-175266)
--- Hosts:           427643 (-67)
-++ Block:           427645 (+2)
--- Unblock:         427062 (-584)
-++ WWW-Domains:     484183 (+57121)
-++ FLD-Domains:     485232 (+1049)
+== Source (unique): 606428
+++ Black:           607319 (+891)
+-- White:           602981 (-4338)
+-- Dead:            427715 (-175266)
+-- Hosts:           427648 (-67)
+++ Block:           427650 (+2)
+-- Unblock:         427067 (-584)
+++ WWW-Domains:     484189 (+57122)
+++ FLD-Domains:     485238 (+1049)
