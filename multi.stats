@@ -19,12 +19,12 @@
 # Hosts fake.txt: 10258
 # Hosts: 10258
 
-# Whitelist: 57435
+# Whitelist: 57477
 # Deadlist: 423349
 
-# Blacklist global: 1379
+# Blacklist global: 1378
 # Blacklist source: 
-# Blacklist: 1379
+# Blacklist: 1378
 
 # 1. Source: 1001 - https://raw.githubusercontent.com/jkrejcha/AdmiraList/master/AdmiraList.txt
 # 2. Source: 662 - https://v.firebog.net/hosts/Admiral.txt
@@ -38,7 +38,7 @@
 # 10. Source: 904 - https://v.firebog.net/hosts/static/w3kbl.txt
 # 11. Source: 50955 - https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/easylist.txt
 # 12. Source: 11880 - https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/combined_disguised_trackers_justdomains.txt
-# 13. Source: 68135 - https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/adguarddns.txt
+# 13. Source: 68156 - https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/adguarddns.txt
 # 14. Source: 71158 - https://dbl.oisd.nl/basic/
 # 15. Source: 2046 - https://bitbucket.org/ethanr/dns-blacklists/raw/8575c9f96e5b4a1308f2f12394abd86d0927a4a0/bad_lists/Mandiant_APT1_Report_Appendix_D.txt
 # 16. Source: 122584 - https://blocklist.cyberthreatcoalition.org/vetted/domain.txt
@@ -73,17 +73,17 @@
 # 45. Source: 92 - https://raw.githubusercontent.com/davidonzo/Threat-Intel/master/lists/latestdomains.piHole.txt
 # 46. Source: 1198 - https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # 47. Source: 1386 - https://raw.githubusercontent.com/mitchellkrogza/Badd-Boyz-Hosts/master/hosts
-# 48. Source: 1100 - https://urlhaus.abuse.ch/downloads/hostfile/
+# 48. Source: 1106 - https://urlhaus.abuse.ch/downloads/hostfile/
 # 49. Source: 458 - https://raw.githubusercontent.com/Laicure/hosts/master/shithosts
-# #. Source: 1035294
+# #. Source: 1035321
 
 Statistik multi.txt:
-== Source (unique): 526193
-++ Black:           527131 (+938)
--- White:           523148 (-3983)
--- Dead:            379044 (-144104)
--- Hosts:           378978 (-66)
-++ Block:           378980 (+2)
--- Unblock:         378446 (-534)
-++ WWW-Domains:     425619 (+47173)
-++ FLD-Domains:     426446 (+827)
+== Source (unique): 526203
+++ Black:           527141 (+938)
+-- White:           523159 (-3982)
+-- Dead:            379055 (-144104)
+-- Hosts:           378989 (-66)
+++ Block:           378991 (+2)
+-- Unblock:         378454 (-537)
+++ WWW-Domains:     425631 (+47177)
+++ FLD-Domains:     426459 (+828)
