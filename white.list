@@ -47,6 +47,10 @@ image.mail.disneyplus.com
 # Facebook
 graph.facebook.com
 graph.instagram.com
+connect.facebook.com
+
+# FAZ
+consent.faz.net
 
 # Github
 user-images.githubusercontent.com
