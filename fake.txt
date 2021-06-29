@@ -19,14 +19,15 @@
 # Statistik
 # ---------
 #
-# Whitelist: 57363
-# Deadlist: 420448
-# Blacklist: 1657
+# Exclude: 0
+# Whitelist: 57426
+# Deadlist: 422718
+# Blacklist: 1669
 # 1. Source: 4282 - https://raw.githubusercontent.com/stonecrusher/filterlists-pihole/master/watchlist-internet-ph.txt
 # 2. Source: 1480 - https://raw.githubusercontent.com/cbuijs/shallalist/master/costtraps/domains
 #
 # ---------------------------------------------
-# 10258 Domains - V2021.06.27-19:38:20
+# 10270 Domains - V2021.06.29-14:07:31
 # ---------------------------------------------
 #
 0.0.0.0 1000gratisproben.com
@@ -1767,6 +1768,7 @@
 0.0.0.0 garten-events.de
 0.0.0.0 garten-genial.de
 0.0.0.0 garten-hannes.de
+0.0.0.0 garten-karl.de
 0.0.0.0 garten-maestro.de
 0.0.0.0 garten-paule.de
 0.0.0.0 gartenwelt-lammerting.de
@@ -1870,6 +1872,7 @@
 0.0.0.0 godcontroller.de
 0.0.0.0 godwinkaluco.com
 0.0.0.0 gogplay.de
+0.0.0.0 gold-barren-muenzen.de
 0.0.0.0 goldbarren-munzen.kaufen.de
 0.0.0.0 goldchef.de
 0.0.0.0 goldene-erde.at
@@ -1882,6 +1885,7 @@
 0.0.0.0 goldhandel-beratung-kauf.de
 0.0.0.0 goldhandel-clever-kaufen.de
 0.0.0.0 goldhandel-depot.de
+0.0.0.0 goldhandel-heute.de
 0.0.0.0 goldhandel-imperium.de
 0.0.0.0 goldhandel-markt.de
 0.0.0.0 goldhandel-preissieger.de
@@ -2095,6 +2099,7 @@
 0.0.0.0 hermann-schuetz.at
 0.0.0.0 hermann-sinn-band.de
 0.0.0.0 herrngarten.de
+0.0.0.0 herzensnotiz.de
 0.0.0.0 herzpraxis-benzer.at
 0.0.0.0 herzsache-hochzeitsplanungen.de
 0.0.0.0 hessen-wichtel.de
@@ -2900,6 +2905,7 @@
 0.0.0.0 mediasmonster.com
 0.0.0.0 mediatempel.eu
 0.0.0.0 mediatools.at
+0.0.0.0 media-voigt.de
 0.0.0.0 medibus.at
 0.0.0.0 mediendeals.de
 0.0.0.0 medikamente-kaufen-24.net
@@ -3822,6 +3828,7 @@
 0.0.0.0 rbkat.net
 0.0.0.0 rbtef.com
 0.0.0.0 rbuad.com
+0.0.0.0 rcesetc.com
 0.0.0.0 rcxtremehobbies.com
 0.0.0.0 rd-gewusstwie.at
 0.0.0.0 rdk-elektrohandel.de
@@ -6784,6 +6791,7 @@
 0.0.0.0 www.garten-events.de
 0.0.0.0 www.garten-genial.de
 0.0.0.0 www.garten-hannes.de
+0.0.0.0 www.garten-karl.de
 0.0.0.0 www.garten-maestro.de
 0.0.0.0 www.garten-paule.de
 0.0.0.0 www.gartenwelt-lammerting.de
@@ -6884,6 +6892,7 @@
 0.0.0.0 www.godcontroller.de
 0.0.0.0 www.godwinkaluco.com
 0.0.0.0 www.gogplay.de
+0.0.0.0 www.gold-barren-muenzen.de
 0.0.0.0 www.goldchef.de
 0.0.0.0 www.goldene-erde.at
 0.0.0.0 www.goldengate-goldkaufen.de
@@ -6895,6 +6904,7 @@
 0.0.0.0 www.goldhandel-beratung-kauf.de
 0.0.0.0 www.goldhandel-clever-kaufen.de
 0.0.0.0 www.goldhandel-depot.de
+0.0.0.0 www.goldhandel-heute.de
 0.0.0.0 www.goldhandel-imperium.de
 0.0.0.0 www.goldhandel-markt.de
 0.0.0.0 www.goldhandel-preissieger.de
@@ -7105,6 +7115,7 @@
 0.0.0.0 www.hermann-schuetz.at
 0.0.0.0 www.hermann-sinn-band.de
 0.0.0.0 www.herrngarten.de
+0.0.0.0 www.herzensnotiz.de
 0.0.0.0 www.herzpraxis-benzer.at
 0.0.0.0 www.herzsache-hochzeitsplanungen.de
 0.0.0.0 www.hessen-wichtel.de
@@ -7898,6 +7909,7 @@
 0.0.0.0 www.mediasmonster.com
 0.0.0.0 www.mediatempel.eu
 0.0.0.0 www.mediatools.at
+0.0.0.0 www.media-voigt.de
 0.0.0.0 www.medibus.at
 0.0.0.0 www.mediendeals.de
 0.0.0.0 www.medikamente-kaufen-24.net
@@ -8779,6 +8791,7 @@
 0.0.0.0 www.rbkat.net
 0.0.0.0 www.rbtef.com
 0.0.0.0 www.rbuad.com
+0.0.0.0 www.rcesetc.com
 0.0.0.0 www.rcxtremehobbies.com
 0.0.0.0 www.rd-gewusstwie.at
 0.0.0.0 www.rdk-elektrohandel.de

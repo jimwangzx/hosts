@@ -15,12 +15,12 @@
 #                 https://t.me/piholefans_DACH
 # ---------------------------------------------
 
-# Hosts: 0
+# Exclude: 0
 
-# Whitelist: 57363
-# Deadlist: 420448
+# Whitelist: 57426
+# Deadlist: 422718
 
-# Blacklist: 1657
+# Blacklist: 1669
 
 # 1. Source: 4282 - https://raw.githubusercontent.com/stonecrusher/filterlists-pihole/master/watchlist-internet-ph.txt
 # 2. Source: 1480 - https://raw.githubusercontent.com/cbuijs/shallalist/master/costtraps/domains
@@ -28,9 +28,9 @@
 
 Statistik fake.txt:
 == Source (unique): 5762
-++ Black:           7419 (+1657)
--- White:           7411 (-8)
--- Dead:            5207 (-2204)
--- Unblock:         5207 (-0)
-++ WWW-Domains:     10258 (+5051)
-++ FLD-Domains:     10258 (+0)
+++ Black:           7425 (+1663)
+-- White:           7417 (-8)
+-- Dead:            5213 (-2204)
+-- Unblock:         5213 (-0)
+++ WWW-Domains:     10270 (+5057)
+++ FLD-Domains:     10270 (+0)
