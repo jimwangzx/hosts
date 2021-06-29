@@ -20,7 +20,7 @@
 # Exclude: 10270
 
 # Whitelist: 57426
-# Deadlist: 422718
+# Deadlist: 422912
 
 # Blacklist global: 940
 # Blacklist source: 
@@ -89,18 +89,18 @@
 # 61. Source: 1189 - https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # 62. Source: 3050 - https://raw.githubusercontent.com/infinitytec/blocklists/master/scams-and-phishing.txt
 # 63. Source: 1386 - https://raw.githubusercontent.com/mitchellkrogza/Badd-Boyz-Hosts/master/hosts
-# 64. Source: 1371 - https://urlhaus.abuse.ch/downloads/hostfile/
+# 64. Source: 1369 - https://urlhaus.abuse.ch/downloads/hostfile/
 # 65. Source: 458 - https://raw.githubusercontent.com/Laicure/hosts/master/shithosts
 # 66. Source: 17021 - https://raw.githubusercontent.com/infinitytec/blocklists/master/medicalpseudoscience.txt
-# #. Source: 1269340
+# #. Source: 1269338
 
 Statistik multi.txt:
-== Source (unique): 611045
-++ Black:           611939 (+894)
--- White:           607558 (-4381)
--- Dead:            432539 (-175019)
--- Exclude:         432472 (-67)
-++ Block:           432474 (+2)
--- Unblock:         432421 (-54)
-++ WWW-Domains:     491750 (+59329)
-++ FLD-Domains:     493055 (+1305)
+== Source (unique): 611044
+++ Black:           611938 (+894)
+-- White:           607557 (-4381)
+-- Dead:            432355 (-175202)
+-- Exclude:         432288 (-67)
+++ Block:           432290 (+2)
+-- Unblock:         432237 (-54)
+++ WWW-Domains:     491566 (+59329)
+++ FLD-Domains:     492871 (+1305)
