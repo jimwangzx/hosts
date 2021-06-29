@@ -89,18 +89,18 @@
 # 61. Source: 1189 - https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # 62. Source: 3050 - https://raw.githubusercontent.com/infinitytec/blocklists/master/scams-and-phishing.txt
 # 63. Source: 1386 - https://raw.githubusercontent.com/mitchellkrogza/Badd-Boyz-Hosts/master/hosts
-# 64. Source: 1369 - https://urlhaus.abuse.ch/downloads/hostfile/
+# 64. Source: 1360 - https://urlhaus.abuse.ch/downloads/hostfile/
 # 65. Source: 458 - https://raw.githubusercontent.com/Laicure/hosts/master/shithosts
 # 66. Source: 17021 - https://raw.githubusercontent.com/infinitytec/blocklists/master/medicalpseudoscience.txt
-# #. Source: 1269338
+# #. Source: 1269329
 
 Statistik multi.txt:
-== Source (unique): 611044
-++ Black:           611938 (+894)
--- White:           607557 (-4381)
--- Dead:            432355 (-175202)
--- Exclude:         432288 (-67)
-++ Block:           432290 (+2)
--- Unblock:         432237 (-54)
-++ WWW-Domains:     491566 (+59329)
-++ FLD-Domains:     492871 (+1305)
+== Source (unique): 611039
+++ Black:           611933 (+894)
+-- White:           607552 (-4381)
+-- Dead:            432350 (-175202)
+-- Exclude:         432283 (-67)
+++ Block:           432285 (+2)
+-- Unblock:         432232 (-54)
+++ WWW-Domains:     491559 (+59327)
+++ FLD-Domains:     492860 (+1301)
