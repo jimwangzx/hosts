@@ -1,0 +1,38 @@
+# ---------------------------------------------
+# Zelo*s "Mini" Blockliste
+# ---------------------------------------------
+#
+# Erstellt zur rein persönlichen, privaten
+# Nutzung.
+#
+# Werbung, Tracking und Co, nur das Nötigste.
+#
+# ---------------------------------------------
+# GitHub: https://github.com/Zelo72
+# Mail:   zelo72@dismail.de
+# ---------------------------------------------
+# Telegram-Gruppe PiHole + Unbound Fans (DACH)
+#                 https://t.me/piholefans_DACH
+# ---------------------------------------------
+
+# Exclude /data/exclude.list: 38812
+# Exclude /data/dead.list: 422707
+# Exclude: 461503
+
+# Whitelist: 0
+# Deadlist: 0
+
+# Blacklist: 0
+
+# 1. Source: 1001 - https://raw.githubusercontent.com/jkrejcha/AdmiraList/master/AdmiraList.txt
+# 2. Source: 51090 - https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/easylist.txt
+# 3. Source: 8239 - https://adaway.org/hosts.txt
+# 4. Source: 15492 - https://someonewhocares.org/hosts/
+# 5. Source: 81030 - https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
+# #. Source: 156852
+
+Statistik mini.txt:
+== Source (unique): 123950
+-- Exclude:         106598 (-17352)
+++ WWW-Domains:     111508 (+4910)
+++ FLD-Domains:     112251 (+743)
