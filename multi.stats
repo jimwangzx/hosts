@@ -80,9 +80,9 @@
 # 52. Source: 88 - https://raw.githubusercontent.com/davidonzo/Threat-Intel/master/lists/latestdomains.piHole.txt
 # 53. Source: 1191 - https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # 54. Source: 1386 - https://raw.githubusercontent.com/mitchellkrogza/Badd-Boyz-Hosts/master/hosts
-# 55. Source: 1558 - https://urlhaus.abuse.ch/downloads/hostfile/
+# 55. Source: 1555 - https://urlhaus.abuse.ch/downloads/hostfile/
 # 56. Source: 458 - https://raw.githubusercontent.com/Laicure/hosts/master/shithosts
-# #. Source: 1243766
+# #. Source: 1243763
 
 Statistik multi.txt:
 == Source (unique): 586824
@@ -93,4 +93,4 @@ Statistik multi.txt:
 ++ Block:           412250 (+1)
 -- Unblock:         412197 (-54)
 ++ WWW-Domains:     469663 (+57466)
-++ FLD-Domains:     470834 (+1171)
+++ FLD-Domains:     470835 (+1172)
