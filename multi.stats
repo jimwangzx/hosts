@@ -22,9 +22,9 @@
 # Whitelist: 38812
 # Deadlist: 422707
 
-# Blacklist global: 940
+# Blacklist global: 860
 # Blacklist source: 
-# Blacklist: 940
+# Blacklist: 860
 
 # 1. Source: 1001 - https://raw.githubusercontent.com/jkrejcha/AdmiraList/master/AdmiraList.txt
 # 2. Source: 662 - https://v.firebog.net/hosts/Admiral.txt
@@ -32,7 +32,7 @@
 # 4. Source: 413 - https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/data/ads_tracking.txt
 # 5. Source: 100481 - https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/nextdns.txt
 # 6. Source: 6027 - https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/prigentads.txt
-# 7. Source: 243 - https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/privacy.txt
+# 7. Source: 241 - https://raw.githubusercontent.com/Zelo72/rpi/master/pihole/blocklists/privacy.txt
 # 8. Source: 9922 - https://raw.githubusercontent.com/cbuijs/shallalist/master/adv/domains
 # 9. Source: 1482 - https://raw.githubusercontent.com/cbuijs/shallalist/master/tracker/domains
 # 10. Source: 904 - https://v.firebog.net/hosts/static/w3kbl.txt
@@ -81,17 +81,17 @@
 # 53. Source: 88 - https://raw.githubusercontent.com/davidonzo/Threat-Intel/master/lists/latestdomains.piHole.txt
 # 54. Source: 1191 - https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
 # 55. Source: 1386 - https://raw.githubusercontent.com/mitchellkrogza/Badd-Boyz-Hosts/master/hosts
-# 56. Source: 1569 - https://urlhaus.abuse.ch/downloads/hostfile/
+# 56. Source: 1565 - https://urlhaus.abuse.ch/downloads/hostfile/
 # 57. Source: 458 - https://raw.githubusercontent.com/Laicure/hosts/master/shithosts
-# #. Source: 1243865
+# #. Source: 1243859
 
 Statistik multi.txt:
-== Source (unique): 586825
-++ Black:           587720 (+895)
--- White:           585786 (-1934)
--- Dead:            412309 (-173477)
--- Exclude:         412243 (-66)
-++ Block:           412244 (+1)
--- Unblock:         412191 (-54)
-++ WWW-Domains:     469697 (+57506)
-++ FLD-Domains:     470865 (+1168)
+== Source (unique): 586824
+++ Black:           587684 (+860)
+-- White:           585750 (-1934)
+-- Dead:            412273 (-173477)
+-- Exclude:         412207 (-66)
+++ Block:           412208 (+1)
+-- Unblock:         412155 (-54)
+++ WWW-Domains:     469661 (+57506)
+++ FLD-Domains:     470829 (+1168)
