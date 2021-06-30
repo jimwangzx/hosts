@@ -26,7 +26,7 @@
 # Telegram-Gruppe PiHole + Unbound Fans (DACH)
 #                 https://t.me/piholefans_DACH
 # ---------------------------------------------
-# 17120 Domains - 2021.06.27-19:37:03
+# 17124 Domains - 2021.06.30-08:08:33
 # ---------------------------------------------
 #
 0.0.0.0 0101.systems
@@ -3280,6 +3280,7 @@
 0.0.0.0 gene.network
 0.0.0.0 generatorapp.cf
 0.0.0.0 genscripteth.go.yo.fr
+0.0.0.0 geocities.ws
 0.0.0.0 geocrypto.net
 0.0.0.0 get-10000-ethereum.org
 0.0.0.0 get-10000-xlm.org
@@ -7878,6 +7879,7 @@
 0.0.0.0 telegram.tokyo
 0.0.0.0 telegram.trade
 0.0.0.0 telegram.vu
+0.0.0.0 telegra.ph
 0.0.0.0 telos-foundation.io
 0.0.0.0 telos-fundation.io
 0.0.0.0 tenocrypt.com
@@ -11231,6 +11233,7 @@
 0.0.0.0 www.geminixfund.info
 0.0.0.0 www.gene.network
 0.0.0.0 www.generatorapp.cf
+0.0.0.0 www.geocities.ws
 0.0.0.0 www.geocrypto.net
 0.0.0.0 www.get-10000-ethereum.org
 0.0.0.0 www.get-10000-xlm.org
@@ -15326,6 +15329,7 @@
 0.0.0.0 www.telegram.tokyo
 0.0.0.0 www.telegram.trade
 0.0.0.0 www.telegram.vu
+0.0.0.0 www.telegra.ph
 0.0.0.0 www.telos-foundation.io
 0.0.0.0 www.telos-fundation.io
 0.0.0.0 www.tenocrypt.com
