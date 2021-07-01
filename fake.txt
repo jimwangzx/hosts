@@ -20,14 +20,14 @@
 # ---------
 #
 # Exclude: 0
-# Whitelist: 38812
+# Whitelist: 38813
 # Deadlist: 422707
 # Blacklist: 1669
 # 1. Source: 4383 - https://raw.githubusercontent.com/stonecrusher/filterlists-pihole/master/watchlist-internet-ph.txt
-# 2. Source: 1480 - https://raw.githubusercontent.com/cbuijs/shallalist/master/costtraps/domains
+# 2. Source: 1482 - https://raw.githubusercontent.com/cbuijs/shallalist/master/costtraps/domains
 #
 # ---------------------------------------------
-# 10464 Domains - V2021.06.30-08:09:28
+# 10468 Domains - V2021.07.01-03:32:04
 # ---------------------------------------------
 #
 0.0.0.0 1000gratisproben.com
@@ -47,6 +47,7 @@
 0.0.0.0 365ersatzteile.de
 0.0.0.0 3amoto.com
 0.0.0.0 3clin.de
+0.0.0.0 3days-giveaway.com
 0.0.0.0 3d-market.shop
 0.0.0.0 3kjailbreak.com
 0.0.0.0 3questionsgetthegirl.com
@@ -674,6 +675,7 @@
 0.0.0.0 brushprox.com
 0.0.0.0 brycus.de
 0.0.0.0 bsg-schach-berlin.de
+0.0.0.0 btcbrexit.com
 0.0.0.0 btc-era.com
 0.0.0.0 btcprofitnow.me
 0.0.0.0 bubblleq.com
@@ -5213,6 +5215,7 @@
 0.0.0.0 www.365ersatzteile.de
 0.0.0.0 www.3amoto.com
 0.0.0.0 www.3clin.de
+0.0.0.0 www.3days-giveaway.com
 0.0.0.0 www.3d-market.shop
 0.0.0.0 www.3kjailbreak.com
 0.0.0.0 www.3questionsgetthegirl.com
@@ -5824,6 +5827,7 @@
 0.0.0.0 www.brushprox.com
 0.0.0.0 www.brycus.de
 0.0.0.0 www.bsg-schach-berlin.de
+0.0.0.0 www.btcbrexit.com
 0.0.0.0 www.btc-era.com
 0.0.0.0 www.btcprofitnow.me
 0.0.0.0 www.bubblleq.com
